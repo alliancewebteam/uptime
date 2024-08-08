@@ -562,19 +562,19 @@
     "url": "https://gmdentalcare.net",
     "icon": "https://icons.duckduckgo.com/ip3/gmdentalcare.net.ico",
     "slug": "glossner-and-mcelwee-family-dentistry",
-    "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
-    "time": 1134,
-    "timeDay": 1134,
-    "timeWeek": 1134,
-    "timeMonth": 1134,
-    "timeYear": 1134,
+    "status": "up",
+    "uptime": "96.85%",
+    "uptimeDay": "96.85%",
+    "uptimeWeek": "96.85%",
+    "uptimeMonth": "96.85%",
+    "uptimeYear": "96.85%",
+    "time": 1139,
+    "timeDay": 1139,
+    "timeWeek": 1139,
+    "timeMonth": 1139,
+    "timeYear": 1139,
     "dailyMinutesDown": {
-      "2024-08-08": 2
+      "2024-08-08": 11
     }
   },
   {
@@ -900,7 +900,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-08": 344
+      "2024-08-08": 355
     }
   },
   {
@@ -1161,18 +1161,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shawns-landscaping.com.ico",
     "slug": "shawn-s-landscaping",
     "status": "down",
-    "uptime": "0.15%",
-    "uptimeDay": "0.15%",
-    "uptimeWeek": "0.15%",
-    "uptimeMonth": "0.15%",
-    "uptimeYear": "0.15%",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-08": 343
+      "2024-08-08": 355
     }
   },
   {
