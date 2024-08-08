@@ -563,19 +563,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/gmdentalcare.net.ico",
     "slug": "glossner-and-mcelwee-family-dentistry",
     "status": "up",
-    "uptime": "96.85%",
-    "uptimeDay": "96.85%",
-    "uptimeWeek": "96.85%",
-    "uptimeMonth": "96.85%",
-    "uptimeYear": "96.85%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1139,
     "timeDay": 1139,
     "timeWeek": 1139,
     "timeMonth": 1139,
     "timeYear": 1139,
-    "dailyMinutesDown": {
-      "2024-08-08": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Go Life Surfing Inc.",
@@ -816,18 +814,20 @@
     "url": "https://jazdesignco.com",
     "icon": "https://icons.duckduckgo.com/ip3/jazdesignco.com.ico",
     "slug": "jaz-design-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1559,
-    "timeDay": 1559,
-    "timeWeek": 1559,
-    "timeMonth": 1559,
-    "timeYear": 1559,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
+    "time": 926,
+    "timeDay": 926,
+    "timeWeek": 926,
+    "timeMonth": 926,
+    "timeYear": 926,
+    "dailyMinutesDown": {
+      "2024-08-08": 1
+    }
   },
   {
     "name": "JB Buy Rite",
@@ -900,7 +900,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-08": 355
+      "2024-08-08": 404
     }
   },
   {
@@ -1161,18 +1161,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shawns-landscaping.com.ico",
     "slug": "shawn-s-landscaping",
     "status": "down",
-    "uptime": "0.14%",
-    "uptimeDay": "0.14%",
-    "uptimeWeek": "0.14%",
-    "uptimeMonth": "0.14%",
-    "uptimeYear": "0.14%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-08": 355
+      "2024-08-08": 404
     }
   },
   {
