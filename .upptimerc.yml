@@ -1,31 +1,185 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+owner: alliancewebteam # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-
+  - name: "Alliance Computers"
+    url: https://alliancecomp.com
+  - name: "Alleghenies Marketplace"
+    url: https://allegheniesmarketplace.com
+  - name: "Access Bus & Van"
+    url: https://accessbusandvan.net
+  - name: "Allied Group PA"
+    url: https://alliedgrouppa.com
+  - name: "AquaTek Cleaning Solutions"
+    url: https://aquatekpa.com
+  - name: "Anderson Pro Painting"
+    url: https://andersonpropainting.com
+  - name: "Autism York"
+    url: https://autismyork.org
+  - name: "A Plus Mortgage Solutions"
+    url: https://aplusmortgagesolutions.com
+  - name: "Aztec Rental Services"
+    url: https://aztecrentalservices.com
+  - name: "Boone Graphics LLC"
+    url: https://boonegraphicsllc.com
+  - name: "Boyo Transportation"
+    url: https://boyotrans.com
+  - name: "Brewvino Hand-crafted Pizza"
+    url: https://brewvino.com
+  - name: "Bricks & Sticks Title Agency"
+    url: https://bns-settlements.com
+  - name: "Bucher Group"
+    url: https://buchergroup.com
+  - name: "Buckland Sales"
+    url: https://bucklandsales.com
+  - name: "Carlisle Theatre"
+    url: https://carlisletheatre.org
+  - name: "Center For Independent Living"
+    url: https://cilopportunities.org
+  - name: "Christ Presbyterian Church"
+    url: https://christchurchcamphill.org
+  - name: "Christopher Columbus Scholarship Foundation"
+    url: https://ccsfyorkpa.org
+  - name: "Christopher Columbus Scholarship Foundation - Scholarship Application"
+    url: https://forms.ccsfyorkpa.org
+  - name: "Control Systems 21"
+    url: https://controlsystems21.com
+  - name: "County Seat Self Storage"
+    url: https://www.countyseatselfstorage.com
+  - name: "DB360 Soft Wash"
+    url: https://db360wash.com
+  - name: "Debi Vreeland Insurance"
+    url: https://debivreelandinsurance.com
+  - name: "Down East Granite"
+    url: https://downeastfab.com
+  - name: "Dream Home Realty"
+    url: https://dreamhrpa.com
+  - name: "Duffy's Bed And Biscuit"
+    url: https://duffysbedandbiscuit.com
+  - name: "ELI Consulting"
+    url: https://educateinnovateinspire.com
+  - name: "F&M Designs"
+    url: https://fandmdesigns.com
+  - name: "Fortney Printing"
+    url: https://fortneyprinting.com
+  - name: "GES America"
+    url: https://ges-america.com
+  - name: "Glossner & Mcelwee Family Dentistry"
+    url: https://gmdentalcare.net
+  - name: "Go Life Surfing Inc."
+    url: https://golifesurfing.com
+  - name: "Guth Laboratories"
+    url: https://guthlabs.com
+  - name: "Habitat for Humanity of the Greater Harrisburg Area"
+    url: https://harrisburghabitat.org
+  - name: "Habitat for Humanity of the Greater Harrisburg Area - ReStore"
+    url: https://harrisburgrestore.org
+  - name: "Handyworx"
+    url: https://www.thehandyworx.com
+  - name: "Hershey Real Estate Group"
+    url: https://hersheyreg.com
+  - name: "Henry's Lock and Key Service"
+    url: https://henryskeyandlockservice.com
+  - name: "Hoem Inc. / Precision Metal Fabricating"
+    url: https:/precisionmetalpa.com
+  - name: "Home Builders Association of Metropolitan Harrisburg"
+    url: https://harrisburgbuilders.com
+  - name: "HMR Auto Body"
+    url: https://hmrautobody.com
+  - name: "Imor Financial"
+    url: https://imorfinancial.com
+  - name: "Impact Harrisburg"
+    url: https://impactharrisburg.org
+  - name: "Indian Creek"
+    url: https://indiancreekcommunity.org
+  - name: "Jaz Design Co"
+    url: https://jazdesignco.com
+  - name: "JB Buy Rite"
+    url: https://jbbuyrite.com
+  - name: "John Jewett"
+    url: https://jhowardcahill.com
+  - name: "Juniper Environmental"
+    url: https://juniperenviro.com
+  - name: "Kirk's Appraisal"
+    url: https://kirksappraisal.com
+  - name: "The Law Office of Susan Smith"
+    url: https://sjsmithlaw.com
+  - name: "Machining America"
+    url: https://machiningamerica.com
+  - name: "Matterhorn Bar & Restaurant"
+    url: https://matterhornbar.com
+  - name: "Melissa Mueller"
+    url: https://smartloanadvisor.com
+  - name: "Miller & Son Electro-Plating"
+    url: https://millerplatingnj.com
+  - name: "Mr Sandman Flooring"
+    url: https://callmrsandman.com
+  - name: "My Amerilock"
+    url: https://myamerilock.com
+  - name: "Novus Surgical"
+    url: https://novussurgical.com
+  - name: "PrimeFyre LLC"
+    url: https://primefyre.com
+  - name: "Reach For More"
+    url: https://reachformore.fit
+  - name: "Redd's Smokehouse BBQ"
+    url: https://reddssmokehousebbq.com
+  - name: "Ruthcliffe Lodge & Restaurant"
+    url: https://ruthcliffe.com
+  - name: "Saidis, Shultz, & Fisher"
+    url: https://www.ssfadvocates.com
+  - name: "Savannah's"
+    url: https://sohclub.com
+  - name: "Shawn's Landscaping"
+    url: https://shawns-landscaping.com
+  - name: "Simply Greek, Hershey"
+    url: https://simplygreekhershey.com
+  - name: "Stone and Edwards"
+    url: https://stoneandedwards.com
+  - name: "Strategic Response Firearms Training"
+    url: https://srft16.com/
+  - name: "Strube Inc."
+    url: https://strubeinc.net
+  - name: "St. Paul's Evangelical Lutheran Church"
+    url: https://stpaulsandhill.com
+  - name: "Szeles and Associates"
+    url: https://szelesas.com
+  - name: "The Meadows Pet Resort"
+    url: https://themeadowspetresort.com
+  - name: "Tiger Trash"
+    url: https://tigertrash.com
+  - name: "Trix of the Trade Salon"
+    url: https://trixofthetradesalon.com
+  - name: "Unlimited Construction Services"
+    url: https://ucs1.com
+  - name: "Upon This Rock Ministries"
+    url: https://uponthisrock2950.com
+  - name: "V3 Fitness Pro"
+    url: https://v3fitnesspro.com
+  - name: "Wert Book Binding"
+    url: https://wertbookbinding.com
+  - name: "West Shore Elks"
+    url: https://westshoreelks.org
+  - name: "Wheelhouse Rentals"
+    url: https://wheelhouserentals.com/
+  - name: "Wide Horizons Travel"
+    url: https://widehorizonstravel.com
+  - name: "Woodburn Law"
+    url: https://woodburn-law.com
+  - name: "Yorklyn Construction"
+    url: https://yorklynconstruction.com
+    
+assignees: # Users to assign downtime issues (optional)
+  - jonathansingel
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  cname: uptime.alliancecomp.com
+  # baseUrl: /uptime
+  logoUrl: https://www.alliancecomp.com/wp-content/uploads/2021/04/ABT-logo-no-tag-300x116-1.png
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
