@@ -852,19 +852,19 @@
     "url": "https://jhowardcahill.com",
     "icon": "https://icons.duckduckgo.com/ip3/jhowardcahill.com.ico",
     "slug": "john-jewett",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 924,
-    "timeDay": 867,
-    "timeWeek": 924,
-    "timeMonth": 924,
-    "timeYear": 924,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 865,
+    "timeDay": 717,
+    "timeWeek": 865,
+    "timeMonth": 865,
+    "timeYear": 865,
     "dailyMinutesDown": {
-      "2024-08-12": 1
+      "2024-08-12": 12
     }
   },
   {
@@ -902,7 +902,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-12": 873,
+      "2024-08-12": 885,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
@@ -1178,7 +1178,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-12": 873,
+      "2024-08-12": 885,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
