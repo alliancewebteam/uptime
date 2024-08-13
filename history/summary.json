@@ -256,19 +256,19 @@
     "url": "https://bucklandsales.com",
     "icon": "https://icons.duckduckgo.com/ip3/bucklandsales.com.ico",
     "slug": "buckland-sales",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 475,
-    "timeDay": 713,
-    "timeWeek": 475,
-    "timeMonth": 475,
-    "timeYear": 475,
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 529,
+    "timeDay": 783,
+    "timeWeek": 529,
+    "timeMonth": 529,
+    "timeYear": 529,
     "dailyMinutesDown": {
-      "2024-08-13": 2
+      "2024-08-13": 23
     }
   },
   {
@@ -904,7 +904,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-13": 536,
+      "2024-08-13": 559,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
@@ -1181,7 +1181,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-13": 537,
+      "2024-08-13": 559,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
@@ -1194,19 +1194,19 @@
     "url": "https://simplygreekhershey.com",
     "icon": "https://icons.duckduckgo.com/ip3/simplygreekhershey.com.ico",
     "slug": "simply-greek-hershey",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2597,
-    "timeDay": 4076,
-    "timeWeek": 2597,
-    "timeMonth": 2597,
-    "timeYear": 2597,
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 2457,
+    "timeDay": 2846,
+    "timeWeek": 2457,
+    "timeMonth": 2457,
+    "timeYear": 2457,
     "dailyMinutesDown": {
-      "2024-08-13": 1
+      "2024-08-13": 22
     }
   },
   {
