@@ -46,6 +46,8 @@ sites:
     url: https://controlsystems21.com
   - name: "County Seat Self Storage"
     url: https://www.countyseatselfstorage.com
+  - name: "Critter Control"
+    url: https://crittercontrolcentralpa.com
   - name: "DB360 Soft Wash"
     url: https://db360wash.com
   - name: "Debi Vreeland Insurance"
@@ -70,6 +72,8 @@ sites:
     url: https://golifesurfing.com
   - name: "Guth Laboratories"
     url: https://guthlabs.com
+  - name: "Grates Pro Painting"
+    url: https://gratespropaintingpa.com
   - name: "Habitat for Humanity of the Greater Harrisburg Area"
     url: https://harrisburghabitat.org
   - name: "Habitat for Humanity of the Greater Harrisburg Area - ReStore"
@@ -100,8 +104,6 @@ sites:
     url: https://jhowardcahill.com
   - name: "Juniper Environmental"
     url: https://juniperenviro.com
-  - name: "Kirk's Appraisal"
-    url: https://kirksappraisal.com
   - name: "The Law Office of Susan Smith"
     url: https://sjsmithlaw.com
   - name: "Machining America"
@@ -126,12 +128,12 @@ sites:
     url: https://reddssmokehousebbq.com
   - name: "Ruthcliffe Lodge & Restaurant"
     url: https://ruthcliffe.com
+  - name: "Remod Squad"
+    url: https://remodsquad.com
   - name: "Saidis, Shultz, & Fisher"
     url: https://www.ssfadvocates.com
   - name: "Savannah's"
     url: https://sohclub.com
-  - name: "Shawn's Landscaping"
-    url: https://shawns-landscaping.com
   - name: "Simply Greek, Hershey"
     url: https://simplygreekhershey.com
   - name: "Stone and Edwards"
@@ -166,6 +168,8 @@ sites:
     url: https://widehorizonstravel.com
   - name: "Woodburn Law"
     url: https://woodburn-law.com
+  - name: "Yard Work Properties LLC"
+    url: yardworkpropertiesllc.com
   - name: "Yorklyn Construction"
     url: https://yorklynconstruction.com
     
