@@ -1506,19 +1506,19 @@
     "url": "yardworkpropertiesllc.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "yard-work-properties-llc",
-    "status": "up",
-    "uptime": "12.95%",
-    "uptimeDay": "12.95%",
-    "uptimeWeek": "12.95%",
-    "uptimeMonth": "12.95%",
-    "uptimeYear": "12.95%",
+    "status": "down",
+    "uptime": "28.69%",
+    "uptimeDay": "28.69%",
+    "uptimeWeek": "28.69%",
+    "uptimeMonth": "28.69%",
+    "uptimeYear": "28.69%",
     "time": 1169,
     "timeDay": 1169,
     "timeWeek": 1169,
     "timeMonth": 1169,
     "timeYear": 1169,
     "dailyMinutesDown": {
-      "2024-08-13": 89
+      "2024-08-13": 90
     }
   },
   {
