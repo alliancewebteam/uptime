@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/accessbusandvan.net.ico",
     "slug": "access-bus-and-van",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.91%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 1684,
     "timeDay": 1190,
     "timeWeek": 1860,
     "timeMonth": 1684,
     "timeYear": 1684,
     "dailyMinutesDown": {
-      "2024-09-01": 7
+      "2024-09-01": 29
     }
   },
   {
@@ -204,18 +204,20 @@
     "url": "https://brewvino.com",
     "icon": "https://icons.duckduckgo.com/ip3/brewvino.com.ico",
     "slug": "brewvino-hand-crafted-pizza",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1840,
     "timeDay": 2410,
     "timeWeek": 2070,
     "timeMonth": 1840,
     "timeYear": 1840,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-01": 5
+    }
   },
   {
     "name": "Bricks & Sticks Title Agency",
@@ -241,18 +243,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/buchergroup.com.ico",
     "slug": "bucher-group",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.88%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 1621,
     "timeDay": 2597,
     "timeWeek": 1763,
     "timeMonth": 1621,
     "timeYear": 1621,
     "dailyMinutesDown": {
-      "2024-09-01": 19
+      "2024-09-01": 41
     }
   },
   {
@@ -733,18 +735,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/henryskeyandlockservice.com.ico",
     "slug": "henry-s-lock-and-key-service",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.89%",
+    "uptimeDay": "97.41%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 1948,
     "timeDay": 1276,
     "timeWeek": 2147,
     "timeMonth": 1948,
     "timeYear": 1948,
     "dailyMinutesDown": {
-      "2024-09-01": 15
+      "2024-09-01": 37
     }
   },
   {
@@ -1006,18 +1008,20 @@
     "url": "https://millerplatingnj.com",
     "icon": "https://icons.duckduckgo.com/ip3/millerplatingnj.com.ico",
     "slug": "miller-and-son-electro-plating",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 238,
     "timeDay": 231,
     "timeWeek": 258,
     "timeMonth": 238,
     "timeYear": 238,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-01": 3
+    }
   },
   {
     "name": "Mr Sandman Flooring",
@@ -1042,18 +1046,20 @@
     "url": "https://myamerilock.com",
     "icon": "https://icons.duckduckgo.com/ip3/myamerilock.com.ico",
     "slug": "my-amerilock",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1817,
     "timeDay": 1689,
     "timeWeek": 1966,
     "timeMonth": 1817,
     "timeYear": 1817,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-01": 2
+    }
   },
   {
     "name": "Novus Surgical",
@@ -1132,10 +1138,10 @@
     "url": "https://ruthcliffe.com",
     "icon": "https://icons.duckduckgo.com/ip3/ruthcliffe.com.ico",
     "slug": "ruthcliffe-lodge-and-restaurant",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 297,
@@ -1143,7 +1149,9 @@
     "timeWeek": 322,
     "timeMonth": 297,
     "timeYear": 297,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-01": 2
+    }
   },
   {
     "name": "Remod Squad",
@@ -1242,10 +1250,10 @@
     "url": "https://srft16.com/",
     "icon": "https://icons.duckduckgo.com/ip3/srft16.com.ico",
     "slug": "strategic-response-firearms-training",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 334,
@@ -1253,7 +1261,9 @@
     "timeWeek": 314,
     "timeMonth": 334,
     "timeYear": 334,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-01": 1
+    }
   },
   {
     "name": "Strube Inc.",
@@ -1407,18 +1417,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/v3fitnesspro.com.ico",
     "slug": "v3-fitness-pro",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "98.03%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.85%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 2715,
     "timeDay": 2241,
     "timeWeek": 2430,
     "timeMonth": 2715,
     "timeYear": 2715,
     "dailyMinutesDown": {
-      "2024-09-01": 28
+      "2024-09-01": 50
     }
   },
   {
@@ -1520,11 +1530,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/yardworkpropertiesllc.com.ico",
     "slug": "yard-work-properties-llc",
     "status": "up",
-    "uptime": "91.71%",
+    "uptime": "91.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.71%",
-    "uptimeYear": "91.71%",
+    "uptimeMonth": "91.72%",
+    "uptimeYear": "91.72%",
     "time": 1105,
     "timeDay": 113,
     "timeWeek": 645,
