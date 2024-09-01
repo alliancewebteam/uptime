@@ -238,18 +238,20 @@
     "url": "https://buchergroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/buchergroup.com.ico",
     "slug": "bucher-group",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1621,
     "timeDay": 2597,
     "timeWeek": 1763,
     "timeMonth": 1621,
     "timeYear": 1621,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-01": 6
+    }
   },
   {
     "name": "Buckland Sales",
@@ -728,18 +730,20 @@
     "url": "https://henryskeyandlockservice.com",
     "icon": "https://icons.duckduckgo.com/ip3/henryskeyandlockservice.com.ico",
     "slug": "henry-s-lock-and-key-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1948,
     "timeDay": 1276,
     "timeWeek": 2147,
     "timeMonth": 1948,
     "timeYear": 1948,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-01": 2
+    }
   },
   {
     "name": "Hoem Inc. / Precision Metal Fabricating",
@@ -1401,18 +1405,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/v3fitnesspro.com.ico",
     "slug": "v3-fitness-pro",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 2715,
     "timeDay": 2241,
     "timeWeek": 2430,
     "timeMonth": 2715,
     "timeYear": 2715,
     "dailyMinutesDown": {
-      "2024-09-01": 0
+      "2024-09-01": 15
     }
   },
   {
@@ -1514,11 +1518,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/yardworkpropertiesllc.com.ico",
     "slug": "yard-work-properties-llc",
     "status": "up",
-    "uptime": "91.70%",
+    "uptime": "91.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.70%",
-    "uptimeYear": "91.70%",
+    "uptimeMonth": "91.71%",
+    "uptimeYear": "91.71%",
     "time": 1105,
     "timeDay": 113,
     "timeWeek": 645,
