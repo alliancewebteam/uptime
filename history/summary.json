@@ -1457,18 +1457,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/wertbookbinding.com.ico",
     "slug": "wert-book-binding",
     "status": "up",
-    "uptime": "95.22%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "95.71%",
-    "uptimeMonth": "95.22%",
-    "uptimeYear": "95.22%",
+    "uptime": "95.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.80%",
+    "uptimeMonth": "95.24%",
+    "uptimeYear": "95.24%",
     "time": 608,
     "timeDay": 204,
     "timeWeek": 208,
     "timeMonth": 608,
     "timeYear": 608,
     "dailyMinutesDown": {
-      "2024-09-03": 8,
       "2024-08-27": 1261,
       "2024-08-26": 518
     }
