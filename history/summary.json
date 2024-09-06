@@ -1262,18 +1262,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stoneandedwards.com.ico",
     "slug": "stone-and-edwards",
     "status": "down",
-    "uptime": "99.29%",
-    "uptimeDay": "79.63%",
-    "uptimeWeek": "97.09%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.29%",
+    "uptime": "99.27%",
+    "uptimeDay": "78.90%",
+    "uptimeWeek": "96.99%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.27%",
     "time": 2650,
     "timeDay": 541,
     "timeWeek": 2680,
     "timeMonth": 2650,
     "timeYear": 2650,
     "dailyMinutesDown": {
-      "2024-09-06": 293
+      "2024-09-06": 304
     }
   },
   {
@@ -1355,19 +1355,19 @@
     "url": "https://themeadowspetresort.com",
     "icon": "https://icons.duckduckgo.com/ip3/themeadowspetresort.com.ico",
     "slug": "the-meadows-pet-resort",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 773,
-    "timeDay": 2025,
-    "timeWeek": 1109,
-    "timeMonth": 773,
-    "timeYear": 773,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 771,
+    "timeDay": 1764,
+    "timeWeek": 1077,
+    "timeMonth": 771,
+    "timeYear": 771,
     "dailyMinutesDown": {
-      "2024-09-06": 16
+      "2024-09-06": 26
     }
   },
   {
