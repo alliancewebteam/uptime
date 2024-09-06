@@ -612,19 +612,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/golifesurfing.com.ico",
     "slug": "go-life-surfing-inc",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2610,
     "timeDay": 3128,
     "timeWeek": 2240,
     "timeMonth": 2610,
     "timeYear": 2610,
-    "dailyMinutesDown": {
-      "2024-09-06": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Guth Laboratories",
@@ -1204,10 +1202,10 @@
     "url": "https://www.ssfadvocates.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ssfadvocates.com.ico",
     "slug": "saidis-shultz-and-fisher",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "94.52%",
-    "uptimeWeek": "99.22%",
+    "uptimeDay": "94.48%",
+    "uptimeWeek": "99.21%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
     "time": 755,
@@ -1216,7 +1214,7 @@
     "timeMonth": 755,
     "timeYear": 755,
     "dailyMinutesDown": {
-      "2024-09-06": 78
+      "2024-09-06": 79
     }
   },
   {
@@ -1243,18 +1241,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/simplygreekhershey.com.ico",
     "slug": "simply-greek-hershey",
     "status": "up",
-    "uptime": "97.03%",
-    "uptimeDay": "64.15%",
-    "uptimeWeek": "87.80%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.03%",
+    "uptime": "97.00%",
+    "uptimeDay": "63.31%",
+    "uptimeWeek": "87.68%",
+    "uptimeMonth": "97.00%",
+    "uptimeYear": "97.00%",
     "time": 1969,
     "timeDay": 2148,
     "timeWeek": 2020,
     "timeMonth": 1969,
     "timeYear": 1969,
     "dailyMinutesDown": {
-      "2024-09-06": 516,
+      "2024-09-06": 528,
       "2024-09-03": 169,
       "2024-09-02": 545,
       "2024-08-13": 22
