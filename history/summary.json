@@ -262,19 +262,19 @@
     "url": "https://bucklandsales.com",
     "icon": "https://icons.duckduckgo.com/ip3/bucklandsales.com.ico",
     "slug": "buckland-sales",
-    "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "94.26%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
-    "time": 605,
-    "timeDay": 596,
-    "timeWeek": 546,
-    "timeMonth": 605,
-    "timeYear": 605,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "93.55%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 609,
+    "timeDay": 619,
+    "timeWeek": 561,
+    "timeMonth": 609,
+    "timeYear": 609,
     "dailyMinutesDown": {
-      "2024-09-06": 82,
+      "2024-09-06": 92,
       "2024-08-13": 23
     }
   },
@@ -816,10 +816,10 @@
     "url": "https://hmrautobody.com",
     "icon": "https://icons.duckduckgo.com/ip3/hmrautobody.com.ico",
     "slug": "hmr-auto-body",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "97.78%",
-    "uptimeWeek": "99.68%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 628,
@@ -828,7 +828,7 @@
     "timeMonth": 628,
     "timeYear": 628,
     "dailyMinutesDown": {
-      "2024-09-06": 32
+      "2024-09-06": 33
     }
   },
   {
@@ -1241,18 +1241,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/simplygreekhershey.com.ico",
     "slug": "simply-greek-hershey",
     "status": "up",
-    "uptime": "97.70%",
-    "uptimeDay": "84.25%",
-    "uptimeWeek": "90.67%",
-    "uptimeMonth": "97.70%",
-    "uptimeYear": "97.70%",
+    "uptime": "97.67%",
+    "uptimeDay": "83.36%",
+    "uptimeWeek": "90.54%",
+    "uptimeMonth": "97.67%",
+    "uptimeYear": "97.67%",
     "time": 1901,
     "timeDay": 1188,
     "timeWeek": 1981,
     "timeMonth": 1901,
     "timeYear": 1901,
     "dailyMinutesDown": {
-      "2024-09-06": 227,
+      "2024-09-06": 240,
       "2024-09-03": 169,
       "2024-09-02": 545,
       "2024-08-13": 22
@@ -1357,10 +1357,10 @@
     "url": "https://themeadowspetresort.com",
     "icon": "https://icons.duckduckgo.com/ip3/themeadowspetresort.com.ico",
     "slug": "the-meadows-pet-resort",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 775,
@@ -1369,7 +1369,7 @@
     "timeMonth": 775,
     "timeYear": 775,
     "dailyMinutesDown": {
-      "2024-09-06": 15
+      "2024-09-06": 16
     }
   },
   {
