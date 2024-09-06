@@ -262,10 +262,10 @@
     "url": "https://bucklandsales.com",
     "icon": "https://icons.duckduckgo.com/ip3/bucklandsales.com.ico",
     "slug": "buckland-sales",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 607,
@@ -274,6 +274,7 @@
     "timeMonth": 607,
     "timeYear": 607,
     "dailyMinutesDown": {
+      "2024-09-06": 1,
       "2024-08-13": 23
     }
   },
@@ -555,18 +556,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fortneyprinting.com.ico",
     "slug": "fortney-printing",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 762,
     "timeDay": 907,
     "timeWeek": 790,
     "timeMonth": 762,
     "timeYear": 762,
     "dailyMinutesDown": {
-      "2024-09-06": 26
+      "2024-09-06": 15
     }
   },
   {
@@ -1259,18 +1260,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stoneandedwards.com.ico",
     "slug": "stone-and-edwards",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "95.91%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.83%",
+    "uptimeDay": "95.05%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 2650,
     "timeDay": 541,
     "timeWeek": 2680,
     "timeMonth": 2650,
     "timeYear": 2650,
     "dailyMinutesDown": {
-      "2024-09-06": 59
+      "2024-09-06": 71
     }
   },
   {
