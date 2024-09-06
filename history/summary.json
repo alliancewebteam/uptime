@@ -611,19 +611,19 @@
     "url": "https://golifesurfing.com",
     "icon": "https://icons.duckduckgo.com/ip3/golifesurfing.com.ico",
     "slug": "go-life-surfing-inc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2699,
-    "timeDay": 4573,
-    "timeWeek": 2252,
-    "timeMonth": 2699,
-    "timeYear": 2699,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 2649,
+    "timeDay": 3399,
+    "timeWeek": 2132,
+    "timeMonth": 2649,
+    "timeYear": 2649,
     "dailyMinutesDown": {
-      "2024-09-06": 1
+      "2024-09-06": 10
     }
   },
   {
@@ -1264,18 +1264,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stoneandedwards.com.ico",
     "slug": "stone-and-edwards",
     "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "88.27%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
+    "uptime": "99.57%",
+    "uptimeDay": "87.59%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
     "time": 2650,
     "timeDay": 541,
     "timeWeek": 2680,
     "timeMonth": 2650,
     "timeYear": 2650,
     "dailyMinutesDown": {
-      "2024-09-06": 169
+      "2024-09-06": 179
     }
   },
   {
