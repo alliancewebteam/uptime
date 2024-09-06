@@ -263,18 +263,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/bucklandsales.com.ico",
     "slug": "buckland-sales",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 607,
     "timeDay": 613,
     "timeWeek": 531,
     "timeMonth": 607,
     "timeYear": 607,
     "dailyMinutesDown": {
-      "2024-09-06": 12,
       "2024-08-13": 23
     }
   },
@@ -555,19 +554,19 @@
     "url": "https://fortneyprinting.com",
     "icon": "https://icons.duckduckgo.com/ip3/fortneyprinting.com.ico",
     "slug": "fortney-printing",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 759,
-    "timeDay": 925,
-    "timeWeek": 781,
-    "timeMonth": 759,
-    "timeYear": 759,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 762,
+    "timeDay": 907,
+    "timeWeek": 790,
+    "timeMonth": 762,
+    "timeYear": 762,
     "dailyMinutesDown": {
-      "2024-09-06": 16
+      "2024-09-06": 26
     }
   },
   {
@@ -816,19 +815,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/hmrautobody.com.ico",
     "slug": "hmr-auto-body",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 614,
     "timeDay": 587,
     "timeWeek": 515,
     "timeMonth": 614,
     "timeYear": 614,
-    "dailyMinutesDown": {
-      "2024-09-06": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Imor Financial",
@@ -1240,11 +1237,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/simplygreekhershey.com.ico",
     "slug": "simply-greek-hershey",
     "status": "up",
-    "uptime": "98.21%",
+    "uptime": "98.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.92%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "98.21%",
+    "uptimeMonth": "98.22%",
+    "uptimeYear": "98.22%",
     "time": 1927,
     "timeDay": 1291,
     "timeWeek": 2071,
@@ -1262,18 +1259,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stoneandedwards.com.ico",
     "slug": "stone-and-edwards",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "96.64%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.86%",
+    "uptimeDay": "95.91%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 2650,
     "timeDay": 541,
     "timeWeek": 2680,
     "timeMonth": 2650,
     "timeYear": 2650,
     "dailyMinutesDown": {
-      "2024-09-06": 48
+      "2024-09-06": 59
     }
   },
   {
@@ -1356,18 +1353,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/themeadowspetresort.com.ico",
     "slug": "the-meadows-pet-resort",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 773,
     "timeDay": 2025,
     "timeWeek": 1109,
     "timeMonth": 773,
     "timeYear": 773,
     "dailyMinutesDown": {
-      "2024-09-06": 26
+      "2024-09-06": 15
     }
   },
   {
