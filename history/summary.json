@@ -262,10 +262,10 @@
     "url": "https://bucklandsales.com",
     "icon": "https://icons.duckduckgo.com/ip3/bucklandsales.com.ico",
     "slug": "buckland-sales",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "99.71%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
     "time": 612,
@@ -274,7 +274,7 @@
     "timeMonth": 612,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2024-09-06": 29,
+      "2024-09-06": 31,
       "2024-08-13": 23
     }
   },
@@ -355,7 +355,7 @@
     "url": "https://forms.ccsfyorkpa.org",
     "icon": "https://icons.duckduckgo.com/ip3/forms.ccsfyorkpa.org.ico",
     "slug": "christopher-columbus-scholarship-foundation-scholarship-application",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -1262,18 +1262,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stoneandedwards.com.ico",
     "slug": "stone-and-edwards",
     "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "84.96%",
-    "uptimeWeek": "97.85%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
+    "uptime": "99.43%",
+    "uptimeDay": "83.72%",
+    "uptimeWeek": "97.67%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
     "time": 2650,
     "timeDay": 541,
     "timeWeek": 2680,
     "timeMonth": 2650,
     "timeYear": 2650,
     "dailyMinutesDown": {
-      "2024-09-06": 217
+      "2024-09-06": 234
     }
   },
   {
