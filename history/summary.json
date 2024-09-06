@@ -262,19 +262,19 @@
     "url": "https://bucklandsales.com",
     "icon": "https://icons.duckduckgo.com/ip3/bucklandsales.com.ico",
     "slug": "buckland-sales",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 607,
-    "timeDay": 613,
-    "timeWeek": 531,
-    "timeMonth": 607,
-    "timeYear": 607,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 612,
+    "timeDay": 651,
+    "timeWeek": 552,
+    "timeMonth": 612,
+    "timeYear": 612,
     "dailyMinutesDown": {
-      "2024-09-06": 1,
+      "2024-09-06": 29,
       "2024-08-13": 23
     }
   },
@@ -815,10 +815,10 @@
     "url": "https://hmrautobody.com",
     "icon": "https://icons.duckduckgo.com/ip3/hmrautobody.com.ico",
     "slug": "hmr-auto-body",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 614,
@@ -826,7 +826,9 @@
     "timeWeek": 515,
     "timeMonth": 614,
     "timeYear": 614,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-06": 2
+    }
   },
   {
     "name": "Imor Financial",
@@ -1199,10 +1201,10 @@
     "url": "https://www.ssfadvocates.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ssfadvocates.com.ico",
     "slug": "saidis-shultz-and-fisher",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
     "time": 650,
@@ -1211,7 +1213,7 @@
     "timeMonth": 650,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2024-09-06": 20
+      "2024-09-06": 21
     }
   },
   {
@@ -1260,18 +1262,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stoneandedwards.com.ico",
     "slug": "stone-and-edwards",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "95.05%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.75%",
+    "uptimeDay": "92.93%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 2650,
     "timeDay": 541,
     "timeWeek": 2680,
     "timeMonth": 2650,
     "timeYear": 2650,
     "dailyMinutesDown": {
-      "2024-09-06": 71
+      "2024-09-06": 102
     }
   },
   {
@@ -1546,7 +1548,7 @@
     "slug": "woodburn-law",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "96.84%",
+    "uptimeDay": "98.87%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
@@ -1565,11 +1567,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/yardworkpropertiesllc.com.ico",
     "slug": "yard-work-properties-llc",
     "status": "up",
-    "uptime": "93.46%",
+    "uptime": "93.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.46%",
-    "uptimeYear": "93.46%",
+    "uptimeMonth": "93.47%",
+    "uptimeYear": "93.47%",
     "time": 1045,
     "timeDay": 129,
     "timeWeek": 512,
