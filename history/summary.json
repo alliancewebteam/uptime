@@ -556,10 +556,10 @@
     "url": "https://fortneyprinting.com",
     "icon": "https://icons.duckduckgo.com/ip3/fortneyprinting.com.ico",
     "slug": "fortney-printing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "95.83%",
-    "uptimeWeek": "99.25%",
+    "uptimeDay": "95.72%",
+    "uptimeWeek": "99.24%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
     "time": 802,
@@ -568,7 +568,7 @@
     "timeMonth": 802,
     "timeYear": 802,
     "dailyMinutesDown": {
-      "2024-09-07": 41,
+      "2024-09-07": 43,
       "2024-09-06": 34
     }
   },
@@ -741,10 +741,10 @@
     "url": "https://hersheyreg.com",
     "icon": "https://icons.duckduckgo.com/ip3/hersheyreg.com.ico",
     "slug": "hershey-real-estate-group",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "91.32%",
-    "uptimeWeek": "98.36%",
+    "uptimeDay": "91.26%",
+    "uptimeWeek": "98.35%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.61%",
     "time": 565,
@@ -753,7 +753,7 @@
     "timeMonth": 565,
     "timeYear": 565,
     "dailyMinutesDown": {
-      "2024-09-07": 125,
+      "2024-09-07": 126,
       "2024-09-06": 40
     }
   },
@@ -1272,18 +1272,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stoneandedwards.com.ico",
     "slug": "stone-and-edwards",
     "status": "down",
-    "uptime": "97.84%",
+    "uptime": "97.81%",
     "uptimeDay": "51.78%",
-    "uptimeWeek": "90.82%",
-    "uptimeMonth": "97.84%",
-    "uptimeYear": "97.84%",
+    "uptimeWeek": "90.70%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "97.81%",
     "time": 2314,
     "timeDay": 521,
     "timeWeek": 1682,
     "timeMonth": 2314,
     "timeYear": 2314,
     "dailyMinutesDown": {
-      "2024-09-07": 419,
+      "2024-09-07": 432,
       "2024-09-06": 507
     }
   },
