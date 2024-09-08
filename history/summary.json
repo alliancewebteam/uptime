@@ -264,7 +264,7 @@
     "slug": "buckland-sales",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "94.63%",
+    "uptimeDay": "94.94%",
     "uptimeWeek": "97.72%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.44%",
@@ -1217,9 +1217,9 @@
     "url": "https://www.ssfadvocates.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ssfadvocates.com.ico",
     "slug": "saidis-shultz-and-fisher",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "96.02%",
+    "uptimeDay": "95.98%",
     "uptimeWeek": "98.46%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.65%",
@@ -1229,7 +1229,7 @@
     "timeMonth": 744,
     "timeYear": 745,
     "dailyMinutesDown": {
-      "2024-09-08": 57,
+      "2024-09-08": 58,
       "2024-09-07": 19,
       "2024-09-06": 78
     }
@@ -1284,7 +1284,7 @@
     "slug": "stone-and-edwards",
     "status": "up",
     "uptime": "93.59%",
-    "uptimeDay": "0.05%",
+    "uptimeDay": "1.11%",
     "uptimeWeek": "71.49%",
     "uptimeMonth": "93.44%",
     "uptimeYear": "93.59%",
