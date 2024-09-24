@@ -122,19 +122,19 @@
     "url": "https://autismyork.org",
     "icon": "https://icons.duckduckgo.com/ip3/autismyork.org.ico",
     "slug": "autism-york",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "92.91%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "92.81%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.85%",
     "time": 380,
-    "timeDay": 374,
-    "timeWeek": 338,
-    "timeMonth": 304,
+    "timeDay": 380,
+    "timeWeek": 343,
+    "timeMonth": 307,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2024-09-24": 103
+      "2024-09-24": 104
     }
   },
   {
@@ -1422,7 +1422,7 @@
     "status": "up",
     "uptime": "97.16%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.35%",
+    "uptimeWeek": "90.47%",
     "uptimeMonth": "95.59%",
     "uptimeYear": "97.16%",
     "time": 1502,
