@@ -1,7 +1,7 @@
 url: https://autismyork.org
-status: up
-code: 200
-responseTime: 166
-lastUpdated: 2024-09-25T04:56:26.615Z
+status: down
+code: 500
+responseTime: 483
+lastUpdated: 2024-09-25T05:22:02.380Z
 startTime: 2024-08-08T16:02:01.432Z
 generator: Upptime <https://github.com/upptime/upptime>
