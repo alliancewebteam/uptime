@@ -105,19 +105,19 @@
     "url": "https://andersonpropainting.com",
     "icon": "https://icons.duckduckgo.com/ip3/andersonpropainting.com.ico",
     "slug": "anderson-pro-painting",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 578,
-    "timeDay": 9876,
-    "timeWeek": 2669,
-    "timeMonth": 803,
-    "timeYear": 578,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 908,
+    "timeDay": 13047,
+    "timeWeek": 4527,
+    "timeMonth": 1349,
+    "timeYear": 908,
     "dailyMinutesDown": {
-      "2024-09-30": 1
+      "2024-09-30": 17
     }
   },
   {
