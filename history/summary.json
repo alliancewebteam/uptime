@@ -29,19 +29,19 @@
     "url": "https://allegheniesmarketplace.com",
     "icon": "https://icons.duckduckgo.com/ip3/allegheniesmarketplace.com.ico",
     "slug": "alleghenies-marketplace",
-    "status": "up",
-    "uptime": "98.12%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "98.12%",
+    "status": "down",
+    "uptime": "98.11%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "98.11%",
     "time": 2063,
     "timeDay": 1954,
     "timeWeek": 1816,
     "timeMonth": 2378,
     "timeYear": 2063,
     "dailyMinutesDown": {
-      "2024-11-14": 28,
+      "2024-11-14": 38,
       "2024-11-11": 20,
       "2024-11-01": 25,
       "2024-09-12": 917,
@@ -279,19 +279,19 @@
     "url": "https://bns-settlements.com",
     "icon": "https://icons.duckduckgo.com/ip3/bns-settlements.com.ico",
     "slug": "bricks-and-sticks-title-agency",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
     "time": 1338,
     "timeDay": 1268,
     "timeWeek": 1312,
     "timeMonth": 1304,
     "timeYear": 1338,
     "dailyMinutesDown": {
-      "2024-11-14": 28
+      "2024-11-14": 37
     }
   },
   {
@@ -346,11 +346,11 @@
     "url": "https://carlisletheatre.org",
     "icon": "https://icons.duckduckgo.com/ip3/carlisletheatre.org.ico",
     "slug": "carlisle-theatre",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.91%",
     "time": 1676,
     "timeDay": 1808,
@@ -358,7 +358,7 @@
     "timeMonth": 1825,
     "timeYear": 1676,
     "dailyMinutesDown": {
-      "2024-11-14": 26,
+      "2024-11-14": 33,
       "2024-10-31": 98
     }
   },
@@ -753,11 +753,11 @@
     "url": "https://gratespropaintingpa.com",
     "icon": "https://icons.duckduckgo.com/ip3/gratespropaintingpa.com.ico",
     "slug": "grates-pro-painting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 1715,
     "timeDay": 2006,
@@ -765,7 +765,7 @@
     "timeMonth": 1776,
     "timeYear": 1715,
     "dailyMinutesDown": {
-      "2024-11-14": 25
+      "2024-11-14": 30
     }
   },
   {
@@ -1639,19 +1639,19 @@
     "url": "https://westshoreelks.org",
     "icon": "https://icons.duckduckgo.com/ip3/westshoreelks.org.ico",
     "slug": "west-shore-elks",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 930,
     "timeDay": 981,
     "timeWeek": 1034,
     "timeMonth": 913,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2024-11-14": 19
+      "2024-11-14": 22
     }
   },
   {
@@ -1695,10 +1695,10 @@
     "url": "https://woodburn-law.com",
     "icon": "https://icons.duckduckgo.com/ip3/woodburn-law.com.ico",
     "slug": "woodburn-law",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
     "time": 804,
@@ -1707,7 +1707,7 @@
     "timeMonth": 821,
     "timeYear": 804,
     "dailyMinutesDown": {
-      "2024-11-14": 18,
+      "2024-11-14": 19,
       "2024-10-28": 22,
       "2024-09-05": 46
     }
