@@ -522,19 +522,19 @@
     "url": "https://db360wash.com",
     "icon": "https://icons.duckduckgo.com/ip3/db360wash.com.ico",
     "slug": "db-360-soft-wash",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 132,
-    "timeDay": 110,
-    "timeWeek": 140,
-    "timeMonth": 129,
-    "timeYear": 132,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 133,
+    "timeDay": 216,
+    "timeWeek": 166,
+    "timeMonth": 135,
+    "timeYear": 133,
     "dailyMinutesDown": {
-      "2024-11-15": 2
+      "2024-11-15": 11
     }
   },
   {
