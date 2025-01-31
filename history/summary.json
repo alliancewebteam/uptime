@@ -570,19 +570,19 @@
     "url": "https://debivreelandinsurance.com",
     "icon": "https://icons.duckduckgo.com/ip3/debivreelandinsurance.com.ico",
     "slug": "debi-vreeland-insurance",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 298,
-    "timeDay": 189,
-    "timeWeek": 155,
-    "timeMonth": 192,
+    "timeDay": 223,
+    "timeWeek": 168,
+    "timeMonth": 194,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2025-01-31": 2
+      "2025-01-31": 19
     }
   },
   {
@@ -1521,7 +1521,7 @@
     "timeMonth": 0,
     "timeYear": 1921,
     "dailyMinutesDown": {
-      "2025-01-31": 1315,
+      "2025-01-31": 1334,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
