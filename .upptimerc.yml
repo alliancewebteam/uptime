@@ -4,8 +4,6 @@ repo: uptime # The name of this repository
 sites:
   - name: "Alliance Computers"
     url: https://alliancecomp.com
-  - name: "Alleghenies Marketplace"
-    url: https://allegheniesmarketplace.com
   - name: "Access Bus & Van"
     url: https://accessbusandvan.net
   - name: "Allied Group PA"
@@ -42,10 +40,6 @@ sites:
     url: https://cilopportunities.org
   - name: "Christ Presbyterian Church"
     url: https://christchurchcamphill.org
-  - name: "Christopher Columbus Scholarship Foundation"
-    url: https://ccsfyorkpa.org
-  - name: "Christopher Columbus Scholarship Foundation - Scholarship Application"
-    url: https://forms.ccsfyorkpa.org
   - name: "Control Systems 21"
     url: https://controlsystems21.com
   - name: "County Seat Self Storage"
@@ -154,14 +148,6 @@ sites:
     url: https://szelesas.com
   - name: "The Meadows Pet Resort"
     url: https://themeadowspetresort.com
-  - name: "Tiger Trash"
-    url: https://tigertrash.com
-  - name: "Trix of the Trade Salon"
-    url: https://trixofthetradesalon.com
-  - name: "Unlimited Construction Services"
-    url: https://ucs1.com
-  - name: "Upon This Rock Ministries"
-    url: https://uponthisrock2950.com
   - name: "V3 Fitness Pro"
     url: https://v3fitnesspro.com
   - name: "Wert Book Binding"
@@ -178,6 +164,8 @@ sites:
     url: https://yardworkpropertiesllc.com
   - name: "Yorklyn Construction"
     url: https://yorklynconstruction.com
+  - name: "Zang Physical Therapy"
+    url: https://zangpt.com   
     
 assignees: # Users to assign downtime issues (optional)
   - jonathansingel
