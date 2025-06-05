@@ -1513,19 +1513,19 @@
     "url": "https://reachformore.fit",
     "icon": "https://icons.duckduckgo.com/ip3/reachformore.fit.ico",
     "slug": "reach-for-more",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 279,
-    "timeDay": 299,
-    "timeWeek": 310,
-    "timeMonth": 282,
+    "timeDay": 301,
+    "timeWeek": 309,
+    "timeMonth": 283,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2025-06-05": 3
+      "2025-06-05": 10
     }
   },
   {
@@ -1659,7 +1659,7 @@
     "uptime": "93.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "43.77%",
+    "uptimeMonth": "43.75%",
     "uptimeYear": "93.81%",
     "time": 656,
     "timeDay": 162,
@@ -1667,7 +1667,7 @@
     "timeMonth": 252,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2025-06-05": 953,
+      "2025-06-05": 961,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
