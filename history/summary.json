@@ -53,19 +53,19 @@
     "url": "https://alliedgrouppa.com",
     "icon": "https://icons.duckduckgo.com/ip3/alliedgrouppa.com.ico",
     "slug": "allied-group-pa",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 225,
-    "timeDay": 188,
-    "timeWeek": 235,
-    "timeMonth": 236,
-    "timeYear": 225,
+    "time": 226,
+    "timeDay": 323,
+    "timeWeek": 259,
+    "timeMonth": 243,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2025-06-13": 24
+      "2025-06-13": 36
     }
   },
   {
@@ -75,9 +75,9 @@
     "slug": "aqua-tek-cleaning-solutions",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 185,
     "timeDay": 160,
@@ -85,7 +85,7 @@
     "timeMonth": 192,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2025-06-13": 1
+      "2025-06-13": 15
     }
   },
   {
@@ -963,7 +963,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5570,
-    "timeDay": 206,
+    "timeDay": 253,
     "timeWeek": 769,
     "timeMonth": 520,
     "timeYear": 5570,
@@ -1410,7 +1410,7 @@
     "slug": "melissa-mueller",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "96.84%",
+    "uptimeDay": "97.64%",
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.89%",
