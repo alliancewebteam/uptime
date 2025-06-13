@@ -54,18 +54,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/alliedgrouppa.com.ico",
     "slug": "allied-group-pa",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 225,
     "timeDay": 188,
     "timeWeek": 235,
     "timeMonth": 236,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2025-06-13": 2
+      "2025-06-13": 24
     }
   },
   {
@@ -73,10 +73,10 @@
     "url": "https://aquatekpa.com",
     "icon": "https://icons.duckduckgo.com/ip3/aquatekpa.com.ico",
     "slug": "aqua-tek-cleaning-solutions",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
@@ -84,7 +84,9 @@
     "timeWeek": 193,
     "timeMonth": 192,
     "timeYear": 185,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-13": 1
+    }
   },
   {
     "name": "Anderson Pro Painting",
