@@ -353,9 +353,9 @@
     "slug": "buckland-sales",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 671,
     "timeDay": 4824,
@@ -363,7 +363,6 @@
     "timeMonth": 917,
     "timeYear": 671,
     "dailyMinutesDown": {
-      "2025-06-13": 12,
       "2024-09-10": 82,
       "2024-09-09": 112,
       "2024-09-08": 89,
@@ -840,10 +839,10 @@
     "url": "https://golifesurfing.com",
     "icon": "https://icons.duckduckgo.com/ip3/golifesurfing.com.ico",
     "slug": "go-life-surfing-inc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2321,
@@ -852,6 +851,7 @@
     "timeMonth": 2061,
     "timeYear": 2321,
     "dailyMinutesDown": {
+      "2025-06-13": 2,
       "2024-09-08": 21,
       "2024-09-07": 23
     }
