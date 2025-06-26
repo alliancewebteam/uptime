@@ -510,18 +510,19 @@
     "url": "https://controlsystems21.com",
     "icon": "https://icons.duckduckgo.com/ip3/controlsystems21.com.ico",
     "slug": "control-systems-21",
-    "status": "up",
-    "uptime": "98.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
+    "status": "down",
+    "uptime": "98.51%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "99.34%",
-    "uptimeYear": "98.50%",
+    "uptimeYear": "98.51%",
     "time": 250,
     "timeDay": 142,
     "timeWeek": 153,
     "timeMonth": 169,
     "timeYear": 250,
     "dailyMinutesDown": {
+      "2025-06-26": 1,
       "2025-06-23": 38,
       "2025-06-16": 29,
       "2025-06-04": 84,
@@ -564,7 +565,7 @@
       "2025-04-01": 1037,
       "2025-03-31": 1137,
       "2025-03-30": 1316,
-      "2025-03-29": 879
+      "2025-03-29": 850
     }
   },
   {
