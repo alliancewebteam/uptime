@@ -1003,17 +1003,17 @@
     "url": "https://harrisburghabitat.org",
     "icon": "https://icons.duckduckgo.com/ip3/harrisburghabitat.org.ico",
     "slug": "habitat-for-humanity-of-the-greater-harrisburg-area",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5146,
-    "timeDay": 215,
-    "timeWeek": 260,
-    "timeMonth": 408,
-    "timeYear": 5146,
+    "time": 5133,
+    "timeDay": 218,
+    "timeWeek": 256,
+    "timeMonth": 403,
+    "timeYear": 5133,
     "dailyMinutesDown": {}
   },
   {
@@ -1482,9 +1482,9 @@
     "slug": "melissa-mueller",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "99.83%",
     "time": 354,
     "timeDay": 251,
@@ -1492,7 +1492,6 @@
     "timeMonth": 276,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2025-07-08": 13,
       "2025-07-03": 42,
       "2025-07-02": 29,
       "2025-07-01": 27,
@@ -1663,7 +1662,7 @@
     "time": 850,
     "timeDay": 1598,
     "timeWeek": 788,
-    "timeMonth": 776,
+    "timeMonth": 775,
     "timeYear": 850,
     "dailyMinutesDown": {
       "2025-07-07": 52,
@@ -1722,7 +1721,7 @@
     "time": 290,
     "timeDay": 573,
     "timeWeek": 374,
-    "timeMonth": 393,
+    "timeMonth": 388,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2024-09-09": 25
@@ -1742,7 +1741,7 @@
     "time": 750,
     "timeDay": 1050,
     "timeWeek": 772,
-    "timeMonth": 782,
+    "timeMonth": 793,
     "timeYear": 750,
     "dailyMinutesDown": {
       "2024-09-10": 25,
@@ -1791,7 +1790,7 @@
     "time": 798,
     "timeDay": 1070,
     "timeWeek": 1055,
-    "timeMonth": 1236,
+    "timeMonth": 1240,
     "timeYear": 798,
     "dailyMinutesDown": {
       "2025-06-30": 18,
@@ -1832,7 +1831,7 @@
     "time": 437,
     "timeDay": 382,
     "timeWeek": 709,
-    "timeMonth": 530,
+    "timeMonth": 534,
     "timeYear": 437,
     "dailyMinutesDown": {
       "2025-02-19": 40,
@@ -1854,7 +1853,7 @@
     "time": 1820,
     "timeDay": 1154,
     "timeWeek": 1162,
-    "timeMonth": 1533,
+    "timeMonth": 1524,
     "timeYear": 1820,
     "dailyMinutesDown": {
       "2025-06-05": 660,
@@ -1943,7 +1942,7 @@
     "time": 1808,
     "timeDay": 3937,
     "timeWeek": 2946,
-    "timeMonth": 2263,
+    "timeMonth": 2298,
     "timeYear": 1808,
     "dailyMinutesDown": {
       "2025-01-10": 25,
@@ -1968,7 +1967,7 @@
     "time": 714,
     "timeDay": 835,
     "timeWeek": 690,
-    "timeMonth": 686,
+    "timeMonth": 680,
     "timeYear": 714,
     "dailyMinutesDown": {
       "2024-09-10": 151,
@@ -1992,7 +1991,7 @@
     "time": 1897,
     "timeDay": 1462,
     "timeWeek": 1208,
-    "timeMonth": 1222,
+    "timeMonth": 1215,
     "timeYear": 1897,
     "dailyMinutesDown": {
       "2025-07-07": 51,
@@ -2047,7 +2046,7 @@
     "time": 448,
     "timeDay": 519,
     "timeWeek": 346,
-    "timeMonth": 390,
+    "timeMonth": 388,
     "timeYear": 448,
     "dailyMinutesDown": {
       "2025-02-11": 76,
@@ -2073,7 +2072,7 @@
     "time": 965,
     "timeDay": 1197,
     "timeWeek": 805,
-    "timeMonth": 961,
+    "timeMonth": 945,
     "timeYear": 965,
     "dailyMinutesDown": {
       "2025-04-29": 105,
@@ -2095,7 +2094,7 @@
     "time": 163,
     "timeDay": 182,
     "timeWeek": 165,
-    "timeMonth": 208,
+    "timeMonth": 210,
     "timeYear": 163,
     "dailyMinutesDown": {}
   },
@@ -2113,7 +2112,7 @@
     "time": 238,
     "timeDay": 184,
     "timeWeek": 171,
-    "timeMonth": 151,
+    "timeMonth": 150,
     "timeYear": 238,
     "dailyMinutesDown": {}
   },
@@ -2131,7 +2130,7 @@
     "time": 927,
     "timeDay": 662,
     "timeWeek": 872,
-    "timeMonth": 916,
+    "timeMonth": 926,
     "timeYear": 927,
     "dailyMinutesDown": {
       "2025-02-16": 17,
@@ -2155,7 +2154,7 @@
     "time": 393,
     "timeDay": 163,
     "timeWeek": 145,
-    "timeMonth": 655,
+    "timeMonth": 628,
     "timeYear": 393,
     "dailyMinutesDown": {
       "2024-08-15": 635,
@@ -2177,7 +2176,7 @@
     "time": 143,
     "timeDay": 180,
     "timeWeek": 166,
-    "timeMonth": 159,
+    "timeMonth": 158,
     "timeYear": 143,
     "dailyMinutesDown": {}
   },
@@ -2195,7 +2194,7 @@
     "time": 2467,
     "timeDay": 655,
     "timeWeek": 362,
-    "timeMonth": 1591,
+    "timeMonth": 1581,
     "timeYear": 2467,
     "dailyMinutesDown": {
       "2025-06-14": 16,
