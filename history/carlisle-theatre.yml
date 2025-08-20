@@ -1,7 +1,7 @@
 url: https://carlisletheatre.org
-status: up
-code: 200
-responseTime: 2725
-lastUpdated: 2025-08-19T23:20:01.941Z
+status: down
+code: 503
+responseTime: 1006
+lastUpdated: 2025-08-20T15:50:47.824Z
 startTime: 2024-08-08T16:02:12.901Z
 generator: Upptime <https://github.com/upptime/upptime>
