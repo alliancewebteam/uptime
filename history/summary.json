@@ -92,7 +92,7 @@
     "uptime": "96.71%",
     "uptimeDay": "98.45%",
     "uptimeWeek": "99.30%",
-    "uptimeMonth": "59.46%",
+    "uptimeMonth": "59.50%",
     "uptimeYear": "96.56%",
     "time": 209,
     "timeDay": 349,
@@ -581,11 +581,11 @@
     "url": "https://controlsystems21.com",
     "icon": "https://icons.duckduckgo.com/ip3/controlsystems21.com.ico",
     "slug": "control-systems-21",
-    "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "98.16%",
-    "uptimeMonth": "98.18%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "98.22%",
     "uptimeYear": "99.41%",
     "time": 256,
     "timeDay": 322,
@@ -593,7 +593,7 @@
     "timeMonth": 244,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2025-08-24": 26,
+      "2025-08-24": 27,
       "2025-08-22": 102,
       "2025-08-18": 39,
       "2025-08-17": 19,
@@ -660,7 +660,7 @@
       "2025-04-09": 72,
       "2025-04-08": 62,
       "2025-04-07": 178,
-      "2025-04-06": 54
+      "2025-04-06": 30
     }
   },
   {
@@ -1301,7 +1301,7 @@
     "uptime": "96.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.63%",
+    "uptimeMonth": "70.67%",
     "uptimeYear": "96.56%",
     "time": 1415,
     "timeDay": 1404,
