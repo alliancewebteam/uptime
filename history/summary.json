@@ -45,8 +45,7 @@
       "2025-09-16": 31,
       "2025-08-15": 24,
       "2025-05-09": 17,
-      "2025-02-19": 45,
-      "2024-09-19": 20
+      "2025-02-19": 45
     }
   },
   {
@@ -344,8 +343,7 @@
       "2025-05-09": 17,
       "2025-02-19": 45,
       "2025-02-05": 16,
-      "2024-12-17": 19,
-      "2024-09-19": 20
+      "2024-12-17": 19
     }
   },
   {
@@ -393,8 +391,7 @@
       "2025-08-15": 22,
       "2025-05-09": 17,
       "2025-02-19": 44,
-      "2024-10-14": 26,
-      "2024-09-19": 19
+      "2024-10-14": 26
     }
   },
   {
@@ -509,9 +506,9 @@
     "slug": "center-for-independent-living",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.05%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.07%",
     "uptimeYear": "99.66%",
     "time": 1492,
     "timeDay": 2243,
@@ -519,7 +516,6 @@
     "timeMonth": 1525,
     "timeYear": 1516,
     "dailyMinutesDown": {
-      "2025-09-18": 11,
       "2025-09-17": 16,
       "2025-09-11": 85,
       "2025-09-10": 49,
@@ -939,9 +935,9 @@
     "slug": "glossner-and-mcelwee-family-dentistry",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "99.71%",
     "time": 1100,
     "timeDay": 709,
@@ -949,7 +945,6 @@
     "timeMonth": 1087,
     "timeYear": 1102,
     "dailyMinutesDown": {
-      "2025-09-18": 11,
       "2025-09-17": 15,
       "2025-09-11": 83,
       "2025-09-10": 47,
@@ -1019,9 +1014,9 @@
     "slug": "guth-laboratories",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.25%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.27%",
     "uptimeYear": "99.26%",
     "time": 605,
     "timeDay": 971,
@@ -1029,7 +1024,6 @@
     "timeMonth": 921,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2025-09-18": 10,
       "2025-09-11": 68,
       "2025-09-10": 47,
       "2025-09-09": 46,
@@ -1129,8 +1123,7 @@
       "2025-09-16": 28,
       "2025-08-15": 21,
       "2025-05-09": 16,
-      "2025-02-19": 43,
-      "2024-09-19": 19
+      "2025-02-19": 43
     }
   },
   {
@@ -1212,8 +1205,7 @@
       "2025-09-01": 15,
       "2025-06-18": 28,
       "2025-05-09": 16,
-      "2025-02-19": 42,
-      "2024-09-19": 18
+      "2025-02-19": 42
     }
   },
   {
@@ -1280,10 +1272,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/imorfinancial.com.ico",
     "slug": "imor-financial",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.26%",
+    "uptime": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.28%",
     "uptimeYear": "99.79%",
     "time": 447,
     "timeDay": 394,
@@ -1291,7 +1283,6 @@
     "timeMonth": 458,
     "timeYear": 447,
     "dailyMinutesDown": {
-      "2025-09-18": 10,
       "2025-09-11": 67,
       "2025-09-10": 46,
       "2025-09-09": 44,
@@ -1332,9 +1323,9 @@
     "slug": "impact-harrisburg",
     "status": "up",
     "uptime": "96.61%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "95.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.00%",
     "uptimeYear": "96.23%",
     "time": 1423,
     "timeDay": 1445,
@@ -1342,7 +1333,6 @@
     "timeMonth": 1506,
     "timeYear": 1436,
     "dailyMinutesDown": {
-      "2025-09-18": 9,
       "2025-09-11": 67,
       "2025-09-10": 45,
       "2025-09-09": 44,
@@ -1397,9 +1387,9 @@
     "slug": "indian-creek",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "99.77%",
     "time": 1362,
     "timeDay": 382,
@@ -1407,7 +1397,6 @@
     "timeMonth": 545,
     "timeYear": 1355,
     "dailyMinutesDown": {
-      "2025-09-18": 9,
       "2025-09-11": 66,
       "2025-09-10": 44,
       "2025-09-09": 42,
@@ -1509,9 +1498,9 @@
     "slug": "john-jewett",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.29%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "99.80%",
     "time": 794,
     "timeDay": 643,
@@ -1519,7 +1508,6 @@
     "timeMonth": 796,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2025-09-18": 8,
       "2025-09-11": 66,
       "2025-09-10": 43,
       "2025-09-09": 42,
@@ -1677,7 +1665,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/smartloanadvisor.com.ico",
     "slug": "melissa-mueller",
     "status": "up",
-    "uptime": "98.52%",
+    "uptime": "98.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "98.89%",
@@ -1766,8 +1754,7 @@
       "2025-09-16": 27,
       "2025-08-15": 21,
       "2025-05-09": 15,
-      "2025-02-19": 42,
-      "2024-09-19": 17
+      "2025-02-19": 42
     }
   },
   {
@@ -1813,8 +1800,7 @@
       "2025-09-10": 18,
       "2025-08-15": 20,
       "2025-07-15": 18,
-      "2025-02-19": 41,
-      "2024-09-19": 17
+      "2025-02-19": 41
     }
   },
   {
@@ -1824,9 +1810,9 @@
     "slug": "novus-surgical",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "99.92%",
     "time": 1389,
     "timeDay": 1491,
@@ -1834,7 +1820,6 @@
     "timeMonth": 1536,
     "timeYear": 1480,
     "dailyMinutesDown": {
-      "2025-09-18": 8,
       "2025-09-11": 65,
       "2025-09-10": 42,
       "2025-09-09": 40,
@@ -1914,9 +1899,9 @@
     "slug": "redd-s-smokehouse-bbq",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.33%",
     "uptimeYear": "99.81%",
     "time": 835,
     "timeDay": 680,
@@ -1924,7 +1909,6 @@
     "timeMonth": 782,
     "timeYear": 824,
     "dailyMinutesDown": {
-      "2025-09-18": 7,
       "2025-09-11": 65,
       "2025-09-10": 41,
       "2025-09-09": 40,
@@ -1974,8 +1958,7 @@
     "timeYear": 381,
     "dailyMinutesDown": {
       "2025-02-19": 41,
-      "2024-10-04": 27,
-      "2024-09-19": 16
+      "2024-10-04": 27
     }
   },
   {
@@ -2101,8 +2084,7 @@
       "2025-09-06": 16,
       "2025-08-15": 20,
       "2025-07-18": 30,
-      "2025-02-19": 40,
-      "2024-09-19": 16
+      "2025-02-19": 40
     }
   },
   {
@@ -2239,9 +2221,9 @@
     "slug": "v3-fitness-pro",
     "status": "up",
     "uptime": "94.06%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "93.46%",
     "time": 1748,
     "timeDay": 1104,
@@ -2249,7 +2231,6 @@
     "timeMonth": 1165,
     "timeYear": 1650,
     "dailyMinutesDown": {
-      "2025-09-18": 7,
       "2025-09-11": 64,
       "2025-09-10": 40,
       "2025-09-09": 38,
@@ -2300,8 +2281,7 @@
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
-      "2024-10-28": 221,
-      "2024-09-19": 15
+      "2024-10-28": 221
     }
   },
   {
