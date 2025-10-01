@@ -2228,19 +2228,19 @@
     "url": "https://stpaulsandhill.com",
     "icon": "https://icons.duckduckgo.com/ip3/stpaulsandhill.com.ico",
     "slug": "st-paul-s-evangelical-lutheran-church",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 498,
-    "timeWeek": 212,
-    "timeMonth": 240,
-    "timeYear": 177,
+    "time": 176,
+    "timeDay": 780,
+    "timeWeek": 318,
+    "timeMonth": 266,
+    "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-10-01": 3
+      "2025-10-01": 20
     }
   },
   {
