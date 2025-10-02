@@ -1924,19 +1924,19 @@
     "url": "https://ramseypaymentpros.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ramseypaymentpros.com.ico",
     "slug": "ramsey-s-payment-pros",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 317,
-    "timeDay": 866,
-    "timeWeek": 241,
-    "timeMonth": 295,
-    "timeYear": 317,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 314,
+    "timeDay": 492,
+    "timeWeek": 226,
+    "timeMonth": 289,
+    "timeYear": 314,
     "dailyMinutesDown": {
-      "2025-10-02": 4
+      "2025-10-02": 24
     }
   },
   {
