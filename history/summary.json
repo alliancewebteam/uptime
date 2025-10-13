@@ -2108,19 +2108,19 @@
     "url": "https://www.ssfadvocates.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ssfadvocates.com.ico",
     "slug": "saidis-shultz-and-fisher",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 750,
-    "timeDay": 819,
-    "timeWeek": 535,
-    "timeMonth": 751,
+    "timeDay": 892,
+    "timeWeek": 589,
+    "timeMonth": 758,
     "timeYear": 738,
     "dailyMinutesDown": {
-      "2025-10-13": 3
+      "2025-10-13": 34
     }
   },
   {
