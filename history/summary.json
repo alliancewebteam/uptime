@@ -618,18 +618,19 @@
     "url": "https://controlsystems21.com",
     "icon": "https://icons.duckduckgo.com/ip3/controlsystems21.com.ico",
     "slug": "control-systems-21",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.43%",
+    "uptimeYear": "99.44%",
     "time": 276,
     "timeDay": 65,
     "timeWeek": 148,
     "timeMonth": 329,
     "timeYear": 286,
     "dailyMinutesDown": {
+      "2025-11-09": 1,
       "2025-11-01": 33,
       "2025-10-25": 23,
       "2025-10-17": 17,
@@ -701,8 +702,7 @@
       "2025-05-05": 111,
       "2025-05-03": 43,
       "2025-05-02": 21,
-      "2025-04-30": 49,
-      "2025-04-28": 19
+      "2025-04-30": 49
     }
   },
   {
@@ -2394,7 +2394,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/strubeinc.net.ico",
     "slug": "strube-inc",
     "status": "up",
-    "uptime": "89.44%",
+    "uptime": "89.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
