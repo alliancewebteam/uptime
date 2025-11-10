@@ -515,7 +515,7 @@
     "uptimeYear": "99.27%",
     "time": 1504,
     "timeDay": 3015,
-    "timeWeek": 1530,
+    "timeWeek": 1560,
     "timeMonth": 1536,
     "timeYear": 1545,
     "dailyMinutesDown": {
@@ -977,7 +977,7 @@
     "uptimeYear": "99.31%",
     "time": 1079,
     "timeDay": 1455,
-    "timeWeek": 1222,
+    "timeWeek": 1219,
     "timeMonth": 1050,
     "timeYear": 1073,
     "dailyMinutesDown": {
@@ -1086,7 +1086,7 @@
     "uptimeYear": "98.85%",
     "time": 757,
     "timeDay": 10773,
-    "timeWeek": 2379,
+    "timeWeek": 2450,
     "timeMonth": 1434,
     "timeYear": 877,
     "dailyMinutesDown": {
@@ -1379,7 +1379,7 @@
     "uptimeYear": "99.41%",
     "time": 453,
     "timeDay": 522,
-    "timeWeek": 444,
+    "timeWeek": 449,
     "timeMonth": 442,
     "timeYear": 451,
     "dailyMinutesDown": {
@@ -1458,7 +1458,7 @@
     "uptimeYear": "95.85%",
     "time": 1432,
     "timeDay": 1527,
-    "timeWeek": 1387,
+    "timeWeek": 1394,
     "timeMonth": 1434,
     "timeYear": 1446,
     "dailyMinutesDown": {
@@ -1551,7 +1551,7 @@
     "uptimeYear": "99.38%",
     "time": 1230,
     "timeDay": 585,
-    "timeWeek": 645,
+    "timeWeek": 679,
     "timeMonth": 771,
     "timeYear": 1167,
     "dailyMinutesDown": {
@@ -1631,7 +1631,7 @@
     "uptimeYear": "98.61%",
     "time": 861,
     "timeDay": 4529,
-    "timeWeek": 994,
+    "timeWeek": 657,
     "timeMonth": 675,
     "timeYear": 641,
     "dailyMinutesDown": {
@@ -1695,7 +1695,7 @@
     "uptimeYear": "99.44%",
     "time": 834,
     "timeDay": 746,
-    "timeWeek": 1347,
+    "timeWeek": 1038,
     "timeMonth": 900,
     "timeYear": 867,
     "dailyMinutesDown": {
@@ -2042,7 +2042,7 @@
     "uptimeYear": "99.57%",
     "time": 1399,
     "timeDay": 2010,
-    "timeWeek": 1394,
+    "timeWeek": 1405,
     "timeMonth": 1368,
     "timeYear": 1507,
     "dailyMinutesDown": {
@@ -2161,7 +2161,7 @@
     "uptimeYear": "99.46%",
     "time": 852,
     "timeDay": 1484,
-    "timeWeek": 1077,
+    "timeWeek": 1102,
     "timeMonth": 904,
     "timeYear": 846,
     "dailyMinutesDown": {
@@ -2274,7 +2274,7 @@
     "uptimeYear": "99.86%",
     "time": 875,
     "timeDay": 2208,
-    "timeWeek": 1833,
+    "timeWeek": 1756,
     "timeMonth": 1623,
     "timeYear": 898,
     "dailyMinutesDown": {
@@ -2540,7 +2540,7 @@
     "uptimeYear": "94.76%",
     "time": 1628,
     "timeDay": 1438,
-    "timeWeek": 1160,
+    "timeWeek": 1164,
     "timeMonth": 1184,
     "timeYear": 1339,
     "dailyMinutesDown": {
@@ -2669,19 +2669,19 @@
     "url": "https://wheelhouserentals.com/",
     "icon": "https://icons.duckduckgo.com/ip3/wheelhouserentals.com.ico",
     "slug": "wheelhouse-rentals",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "97.77%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "95.57%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
     "time": 170,
-    "timeDay": 306,
-    "timeWeek": 244,
-    "timeMonth": 180,
+    "timeDay": 282,
+    "timeWeek": 235,
+    "timeMonth": 179,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-11-10": 32
+      "2025-11-10": 63
     }
   },
   {
