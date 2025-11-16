@@ -1,7 +1,7 @@
 url: https://brewvino.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-16T09:58:31.483Z
+status: up
+code: 200
+responseTime: 1831
+lastUpdated: 2025-11-16T10:25:40.500Z
 startTime: 2024-08-08T16:02:07.060Z
 generator: Upptime <https://github.com/upptime/upptime>
