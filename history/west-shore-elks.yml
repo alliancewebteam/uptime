@@ -1,7 +1,7 @@
 url: https://westshoreelks.org
-status: up
-code: 200
-responseTime: 706
-lastUpdated: 2025-11-17T23:20:59.717Z
+status: down
+code: 500
+responseTime: 230
+lastUpdated: 2025-11-18T11:31:43.451Z
 startTime: 2024-08-08T16:04:12.315Z
 generator: Upptime <https://github.com/upptime/upptime>
