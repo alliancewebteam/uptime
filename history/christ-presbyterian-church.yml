@@ -1,7 +1,7 @@
 url: https://christchurchcamphill.org
-status: up
-code: 200
-responseTime: 1593
-lastUpdated: 2025-11-18T14:50:03.070Z
+status: down
+code: 500
+responseTime: 242
+lastUpdated: 2025-11-18T16:22:57.855Z
 startTime: 2024-08-08T16:02:15.965Z
 generator: Upptime <https://github.com/upptime/upptime>
