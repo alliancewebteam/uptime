@@ -4,6 +4,8 @@ repo: uptime # The name of this repository
 sites:
   - name: "Alliance Computers"
     url: https://alliancecomp.com
+  - name: "Alleghenies Marketplace"
+    url: https://allegheniesmarketplace.com/
   - name: "Access Bus & Van"
     url: https://accessbusandvan.net
   - name: "Allied Group PA"
@@ -16,6 +18,8 @@ sites:
     url: https://autismyork.org
   - name: "A Plus Mortgage Solutions"
     url: https://aplusmortgagesolutions.com
+  - name: "Arthrex Lancaster"
+    url: https://arthrex-lancaster
   - name: "Aztec Rental Services"
     url: https://aztecrentalservices.com
   - name: "Be Inspired Salon"
@@ -81,13 +85,11 @@ sites:
   - name: "Habitat for Humanity of the Greater Harrisburg Area - ReStore"
     url: https://harrisburgrestore.org
   - name: "Handyworx"
-    url: https://www.thehandyworx.com
+    url: https://thehandyworx.com
   - name: "Henry's Lock and Key Service"
     url: https://henryskeyandlockservice.com
   - name: "Hoem Inc. / Precision Metal Fabricating"
     url: https:/precisionmetalpa.com
-  - name: "Home Builders Association of Metropolitan Harrisburg"
-    url: https://harrisburgbuilders.com
   - name: "HMR Auto Body"
     url: https://hmrautobody.com
   - name: "Imor Financial"
@@ -110,8 +112,6 @@ sites:
     url: https://sjsmithlaw.com
   - name: "Machining America"
     url: https://machiningamerica.com
-  - name: "Matterhorn Bar & Restaurant"
-    url: https://matterhornbar.com
   - name: "Melissa Mueller"
     url: https://smartloanadvisor.com
   - name: "Miller & Son Electro-Plating"
@@ -120,8 +120,6 @@ sites:
     url: https://callmrsandman.com
   - name: "My Amerilock"
     url: https://myamerilock.com
-  - name: "Novus Surgical"
-    url: https://novussurgical.com
   - name: "PrimeFyre LLC"
     url: https://primefyre.com
   - name: "Ramsey's Payment Pros"
@@ -135,8 +133,8 @@ sites:
   - name: "Remod Squad"
     url: https://remodsquad.com
   - name: "Saidis, Shultz, & Fisher"
-    url: https://www.ssfadvocates.com
-  - name: "Savannah's"
+    url: https://ssfadvocates.com
+  - name: "Savannah's on Hanna"
     url: https://sohclub.com
   - name: "Stone and Edwards"
     url: https://stoneandedwards.com
@@ -144,8 +142,6 @@ sites:
     url: https://srft16.com/
   - name: "Strube Inc."
     url: https://strubeinc.net
-  - name: "St. Paul's Evangelical Lutheran Church"
-    url: https://stpaulsandhill.com
   - name: "Szeles and Associates"
     url: https://szelesas.com
   - name: "The Meadows Pet Resort"
@@ -156,6 +152,8 @@ sites:
     url: https://wertbookbinding.com
   - name: "West Shore Elks"
     url: https://westshoreelks.org
+  - name: "West Shore Elks"
+    url: https://wvcreativenetwork.org
   - name: "Wheelhouse Rentals"
     url: https://wheelhouserentals.com/
   - name: "Wide Horizons Travel"
