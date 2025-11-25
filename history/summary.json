@@ -26,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/allegheniesmarketplace.com.ico",
     "slug": "alleghenies-marketplace",
     "status": "up",
-    "uptime": "40.34%",
+    "uptime": "41.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.31%",
+    "uptimeYear": "98.34%",
     "time": 1358,
     "timeDay": 386,
     "timeWeek": 624,
@@ -280,7 +280,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-24": 1435,
+      "2025-11-25": 82,
+      "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 449
@@ -697,8 +698,7 @@
       "2025-11-18": 172,
       "2025-01-07": 22,
       "2025-01-02": 26,
-      "2024-12-04": 20,
-      "2024-11-25": 22
+      "2024-12-04": 20
     }
   },
   {
@@ -1002,9 +1002,9 @@
     "slug": "fortney-printing",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 949,
     "timeDay": 2071,
@@ -1012,7 +1012,7 @@
     "timeMonth": 973,
     "timeYear": 925,
     "dailyMinutesDown": {
-      "2025-11-24": 45,
+      "2025-11-24": 34,
       "2025-11-21": 26,
       "2025-11-20": 24
     }
@@ -1791,7 +1791,7 @@
     "uptimeDay": "96.61%",
     "uptimeWeek": "98.55%",
     "uptimeMonth": "94.86%",
-    "uptimeYear": "99.03%",
+    "uptimeYear": "99.05%",
     "time": 837,
     "timeDay": 326,
     "timeWeek": 1104,
@@ -1826,8 +1826,7 @@
       "2025-02-09": 17,
       "2025-02-08": 36,
       "2025-02-05": 28,
-      "2024-11-26": 1065,
-      "2024-11-25": 1389
+      "2024-11-26": 1065
     }
   },
   {
