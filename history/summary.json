@@ -26,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/allegheniesmarketplace.com.ico",
     "slug": "alleghenies-marketplace",
     "status": "up",
-    "uptime": "68.68%",
+    "uptime": "69.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.12%",
     "time": 1347,
     "timeDay": 359,
     "timeWeek": 521,
@@ -284,7 +284,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-27": 1424,
+      "2025-11-28": 80,
+      "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -2472,7 +2473,7 @@
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.85%",
     "time": 948,
-    "timeDay": 1084,
+    "timeDay": 1283,
     "timeWeek": 1174,
     "timeMonth": 1230,
     "timeYear": 954,
@@ -2753,8 +2754,7 @@
       "2025-02-08": 33,
       "2025-02-05": 25,
       "2024-12-17": 1291,
-      "2024-12-16": 227,
-      "2024-11-28": 28
+      "2024-12-16": 227
     }
   },
   {
