@@ -1,7 +1,7 @@
 url: https://gmdentalcare.net
-status: up
-code: 200
-responseTime: 288
-lastUpdated: 2026-02-27T23:28:14.030Z
+status: down
+code: 429
+responseTime: 137
+lastUpdated: 2026-02-28T09:01:45.551Z
 startTime: 2024-08-08T16:02:31.231Z
 generator: Upptime <https://github.com/upptime/upptime>
