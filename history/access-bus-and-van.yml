@@ -1,7 +1,7 @@
 url: https://accessbusandvan.net
-status: up
-code: 200
-responseTime: 1880
-lastUpdated: 2026-03-08T23:27:52.877Z
+status: down
+code: 429
+responseTime: 349
+lastUpdated: 2026-03-09T22:17:47.193Z
 startTime: 2024-08-08T16:01:56.709Z
 generator: Upptime <https://github.com/upptime/upptime>
