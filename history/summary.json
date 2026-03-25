@@ -233,18 +233,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/aquatekpa.com.ico",
     "slug": "aqua-tek-cleaning-solutions",
     "status": "down",
-    "uptime": "86.05%",
+    "uptime": "86.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "77.32%",
+    "uptimeYear": "77.30%",
     "time": 266,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2026-03-24": 1431,
+      "2026-03-25": 77,
+      "2026-03-24": 1440,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
@@ -462,8 +463,7 @@
       "2025-04-29": 104,
       "2025-04-28": 86,
       "2025-04-02": 25,
-      "2025-03-29": 38,
-      "2025-03-25": 22
+      "2025-03-29": 38
     }
   },
   {
@@ -472,11 +472,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/arthrex-lancaster.com.ico",
     "slug": "arthrex-lancaster",
     "status": "up",
-    "uptime": "55.42%",
+    "uptime": "55.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.04%",
     "uptimeMonth": "97.29%",
-    "uptimeYear": "55.42%",
+    "uptimeYear": "55.44%",
     "time": 1143,
     "timeDay": 1913,
     "timeWeek": 1682,
@@ -623,18 +623,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/beinspiredsalonpa.com.ico",
     "slug": "be-inspired-salon",
     "status": "down",
-    "uptime": "82.11%",
+    "uptime": "82.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "73.31%",
+    "uptimeYear": "73.29%",
     "time": 547,
     "timeDay": 51,
     "timeWeek": 138,
     "timeMonth": 135,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2026-03-24": 1431,
+      "2026-03-25": 77,
+      "2026-03-24": 1440,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
@@ -1090,8 +1091,7 @@
       "2025-11-24": 31,
       "2025-11-18": 98,
       "2025-04-02": 24,
-      "2025-03-29": 38,
-      "2025-03-25": 22
+      "2025-03-29": 38
     }
   },
   {
@@ -1100,7 +1100,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cilofyaf.org.ico",
     "slug": "center-for-independent-living",
     "status": "up",
-    "uptime": "93.77%",
+    "uptime": "93.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1249,19 +1249,20 @@
     "url": "https://controlsystems21.com",
     "icon": "https://icons.duckduckgo.com/ip3/controlsystems21.com.ico",
     "slug": "control-systems-21",
-    "status": "down",
-    "uptime": "99.32%",
-    "uptimeDay": "80.45%",
-    "uptimeWeek": "78.07%",
-    "uptimeMonth": "86.78%",
-    "uptimeYear": "98.90%",
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "74.71%",
+    "uptimeWeek": "77.25%",
+    "uptimeMonth": "86.59%",
+    "uptimeYear": "98.88%",
     "time": 279,
-    "timeDay": 476,
-    "timeWeek": 321,
-    "timeMonth": 273,
+    "timeDay": 462,
+    "timeWeek": 323,
+    "timeMonth": 274,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2026-03-24": 282,
+      "2026-03-25": 74,
+      "2026-03-24": 290,
       "2026-03-23": 325,
       "2026-03-22": 153,
       "2026-03-21": 458,
@@ -1287,10 +1288,10 @@
     "url": "https://www.countyseatselfstorage.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.countyseatselfstorage.com.ico",
     "slug": "county-seat-self-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 411,
@@ -1299,6 +1300,7 @@
     "timeMonth": 400,
     "timeYear": 419,
     "dailyMinutesDown": {
+      "2026-03-25": 2,
       "2026-02-04": 32,
       "2025-11-05": 16
     }
@@ -1484,8 +1486,7 @@
       "2025-05-15": 23,
       "2025-04-28": 18,
       "2025-04-02": 23,
-      "2025-03-29": 37,
-      "2025-03-25": 21
+      "2025-03-29": 37
     }
   },
   {
@@ -1648,8 +1649,7 @@
       "2025-06-30": 375,
       "2025-04-28": 18,
       "2025-04-02": 23,
-      "2025-03-29": 36,
-      "2025-03-25": 20
+      "2025-03-29": 36
     }
   },
   {
@@ -1864,8 +1864,7 @@
       "2025-05-15": 22,
       "2025-04-28": 17,
       "2025-04-02": 22,
-      "2025-03-29": 35,
-      "2025-03-25": 19
+      "2025-03-29": 35
     }
   },
   {
@@ -2120,18 +2119,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hmrautobody.com.ico",
     "slug": "hmr-auto-body",
     "status": "down",
-    "uptime": "97.44%",
+    "uptime": "97.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "61.23%",
-    "uptimeYear": "95.93%",
+    "uptimeMonth": "61.04%",
+    "uptimeYear": "95.92%",
     "time": 673,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 654,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2026-03-24": 1433,
+      "2026-03-25": 79,
+      "2026-03-24": 1440,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
@@ -2209,18 +2209,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/imorfinancial.com.ico",
     "slug": "imor-financial",
     "status": "down",
-    "uptime": "90.82%",
+    "uptime": "90.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "85.08%",
+    "uptimeYear": "85.07%",
     "time": 452,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 459,
     "dailyMinutesDown": {
-      "2026-03-24": 1433,
+      "2026-03-25": 79,
+      "2026-03-24": 1440,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
@@ -2455,8 +2456,7 @@
       "2025-05-15": 21,
       "2025-04-28": 15,
       "2025-04-02": 20,
-      "2025-03-29": 34,
-      "2025-03-25": 18
+      "2025-03-29": 34
     }
   },
   {
@@ -2553,8 +2553,7 @@
       "2025-05-18": 4,
       "2025-05-15": 20,
       "2025-04-02": 20,
-      "2025-03-29": 34,
-      "2025-03-25": 18
+      "2025-03-29": 34
     }
   },
   {
@@ -2653,8 +2652,7 @@
       "2025-05-18": 3,
       "2025-05-15": 20,
       "2025-04-02": 20,
-      "2025-03-29": 33,
-      "2025-03-25": 17
+      "2025-03-29": 33
     }
   },
   {
@@ -2926,8 +2924,7 @@
       "2025-05-29": 30,
       "2025-05-21": 47,
       "2025-04-02": 18,
-      "2025-03-29": 32,
-      "2025-03-25": 16
+      "2025-03-29": 32
     }
   },
   {
@@ -3260,8 +3257,7 @@
       "2025-05-18": 2,
       "2025-05-15": 18,
       "2025-04-02": 18,
-      "2025-03-29": 31,
-      "2025-03-25": 15
+      "2025-03-29": 31
     }
   },
   {
@@ -3706,11 +3702,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/v3fitnesspro.com.ico",
     "slug": "v3-fitness-pro",
     "status": "up",
-    "uptime": "96.17%",
+    "uptime": "96.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.61%",
+    "uptimeYear": "95.63%",
     "time": 1117,
     "timeDay": 78,
     "timeWeek": 215,
@@ -3809,8 +3805,7 @@
       "2025-03-29": 29,
       "2025-03-28": 994,
       "2025-03-27": 1440,
-      "2025-03-26": 1440,
-      "2025-03-25": 1440
+      "2025-03-26": 1440
     }
   },
   {
