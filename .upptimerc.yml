@@ -4,32 +4,20 @@ repo: uptime # The name of this repository
 sites:
   - name: "Alliance Computers"
     url: https://alliancecomp.com
-  - name: "Alleghenies Marketplace"
-    url: https://allegheniesmarketplace.com/
   - name: "Access Bus & Van"
     url: https://accessbusandvan.net
   - name: "Allied Group PA"
     url: https://alliedgrouppa.com
-  - name: "AquaTek Cleaning Solutions"
-    url: https://aquatekpa.com
   - name: "Anderson Pro Painting"
     url: https://andersonpropainting.com
-  - name: "Autism York"
-    url: https://autismyork.org
   - name: "A Plus Mortgage Solutions"
     url: https://aplusmortgagesolutions.com
   - name: "Arthrex Lancaster"
     url: https://arthrex-lancaster.com
   - name: "Aztec Rental Services"
     url: https://aztecrentalservices.com
-  - name: "Be Inspired Salon"
-    url: https://beinspiredsalonpa.com
-  - name: "Boone Graphics LLC"
-    url: https://boonegraphicsllc.com
   - name: "Boyo Transportation"
     url: https://boyotrans.com
-  - name: "Brewvino Hand-crafted Pizza"
-    url: https://brewvino.com
   - name: "Bricks & Sticks Title Agency"
     url: https://bns-settlements.com
   - name: "Bucher Group"
@@ -52,26 +40,18 @@ sites:
     url: https://www.countyseatselfstorage.com
   - name: "Critter Control"
     url: https://crittercontrolcentralpa.com
-  - name: "DB360 Soft Wash"
-    url: https://db360wash.com
   - name: "Debi Vreeland Insurance"
     url: https://debivreelandinsurance.com
   - name: "Dream Home Realty"
     url: https://dreamhrpa.com
   - name: "Duffy's Bed And Biscuit"
     url: https://duffysbedandbiscuit.com
-  - name: "ELI Consulting"
-    url: https://educateinnovateinspire.com
   - name: "F&M Designs"
     url: https://fandmdesigns.com
   - name: "Fortney Printing"
     url: https://fortneyprinting.com
   - name: "GES America"
     url: https://ges-america.com
-  - name: "Glossner & Mcelwee Family Dentistry"
-    url: https://gmdentalcare.net
-  - name: "Go Life Surfing Inc."
-    url: https://golifesurfing.com
   - name: "Guth Laboratories"
     url: https://guthlabs.com
   - name: "Grassworks Landscaping"
@@ -88,12 +68,6 @@ sites:
     url: https://thehandyworx.com
   - name: "Henry's Lock and Key Service"
     url: https://henryskeyandlockservice.com
-  - name: "Hoem Inc. / Precision Metal Fabricating"
-    url: https:/precisionmetalpa.com
-  - name: "HMR Auto Body"
-    url: https://hmrautobody.com
-  - name: "Imor Financial"
-    url: https://imorfinancial.com
   - name: "Impact Harrisburg"
     url: https://impactharrisburg.org
   - name: "Indian Creek"
@@ -112,6 +86,8 @@ sites:
     url: https://sjsmithlaw.com
   - name: "Machining America"
     url: https://machiningamerica.com
+  - name: "Mason Dixon Distillery"
+    url: https://masondixondistillery.com
   - name: "Melissa Mueller"
     url: https://smartloanadvisor.com
   - name: "Miller & Son Electro-Plating"
@@ -146,6 +122,8 @@ sites:
     url: https://szelesas.com
   - name: "The Meadows Pet Resort"
     url: https://themeadowspetresort.com
+  - name: "United Sustainable Ag"
+    url: https://unitedsustainableag.com
   - name: "V3 Fitness Pro"
     url: https://v3fitnesspro.com
   - name: "Wert Book Binding"
