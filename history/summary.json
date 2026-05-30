@@ -256,11 +256,11 @@
     "url": "https://arthrex-lancaster.com",
     "icon": "https://icons.duckduckgo.com/ip3/arthrex-lancaster.com.ico",
     "slug": "arthrex-lancaster",
-    "status": "up",
+    "status": "down",
     "uptime": "97.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "96.13%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "96.09%",
     "uptimeYear": "97.34%",
     "time": 1404,
     "timeDay": 1950,
@@ -268,7 +268,7 @@
     "timeMonth": 1816,
     "timeYear": 1404,
     "dailyMinutesDown": {
-      "2026-01-21": 66,
+      "2026-01-21": 43,
       "2026-01-22": 42,
       "2026-01-23": 55,
       "2026-01-24": 21,
@@ -334,7 +334,8 @@
       "2026-05-18": 65,
       "2026-05-20": 112,
       "2026-05-26": 78,
-      "2026-05-28": 65
+      "2026-05-28": 65,
+      "2026-05-30": 16
     }
   },
   {
@@ -812,12 +813,12 @@
     "uptime": "98.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.86%",
+    "uptimeMonth": "95.08%",
     "uptimeYear": "98.07%",
     "time": 284,
     "timeDay": 192,
     "timeWeek": 134,
-    "timeMonth": 180,
+    "timeMonth": 181,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2026-04-04": 177,
@@ -1679,19 +1680,18 @@
     "url": "https://jazdesignco.com",
     "icon": "https://icons.duckduckgo.com/ip3/jazdesignco.com.ico",
     "slug": "jaz-design-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "96.97%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "96.94%",
     "uptimeYear": "98.32%",
-    "time": 1402,
+    "time": 1403,
     "timeDay": 143,
     "timeWeek": 303,
     "timeMonth": 351,
     "timeYear": 1559,
     "dailyMinutesDown": {
-      "2025-11-24": 21,
       "2025-11-25": 54,
       "2025-11-29": 37,
       "2025-11-30": 26,
@@ -1770,7 +1770,8 @@
       "2026-05-15": 138,
       "2026-05-18": 60,
       "2026-05-20": 107,
-      "2026-05-28": 60
+      "2026-05-28": 60,
+      "2026-05-30": 13
     }
   },
   {
@@ -1778,19 +1779,19 @@
     "url": "https://jhowardcahill.com",
     "icon": "https://icons.duckduckgo.com/ip3/jhowardcahill.com.ico",
     "slug": "john-jewett",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "96.37%",
-    "uptimeYear": "98.65%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "96.36%",
+    "uptimeYear": "98.66%",
     "time": 979,
     "timeDay": 5731,
     "timeWeek": 2769,
     "timeMonth": 2255,
     "timeYear": 999,
     "dailyMinutesDown": {
-      "2026-01-20": 68,
+      "2026-01-20": 24,
       "2026-01-21": 64,
       "2026-01-22": 40,
       "2026-01-23": 36,
@@ -1856,7 +1857,8 @@
       "2026-05-18": 56,
       "2026-05-20": 102,
       "2026-05-26": 69,
-      "2026-05-28": 55
+      "2026-05-28": 55,
+      "2026-05-30": 8
     }
   },
   {
@@ -2038,7 +2040,7 @@
     "uptime": "98.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.09%",
+    "uptimeMonth": "86.67%",
     "uptimeYear": "97.32%",
     "time": 329,
     "timeDay": 321,
@@ -3049,11 +3051,11 @@
     "url": "https://woodburn-law.com",
     "icon": "https://icons.duckduckgo.com/ip3/woodburn-law.com.ico",
     "slug": "woodburn-law",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "96.50%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "96.49%",
     "uptimeYear": "98.68%",
     "time": 691,
     "timeDay": 171,
@@ -3061,7 +3063,6 @@
     "timeMonth": 236,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2026-01-14": 28,
       "2026-01-19": 23,
       "2026-01-20": 103,
       "2026-01-21": 63,
@@ -3127,7 +3128,8 @@
       "2026-05-18": 51,
       "2026-05-20": 97,
       "2026-05-26": 64,
-      "2026-05-28": 50
+      "2026-05-28": 50,
+      "2026-05-30": 4
     }
   },
   {
@@ -3187,7 +3189,7 @@
     "timeDay": 157,
     "timeWeek": 156,
     "timeMonth": 170,
-    "timeYear": 782,
+    "timeYear": 780,
     "dailyMinutesDown": {
       "2025-06-05": 26,
       "2025-06-09": 22,
