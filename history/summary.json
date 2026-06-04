@@ -241,7 +241,7 @@
     "timeDay": 147,
     "timeWeek": 185,
     "timeMonth": 180,
-    "timeYear": 425,
+    "timeYear": 420,
     "dailyMinutesDown": {
       "2025-06-06": 99,
       "2025-06-05": 6,
@@ -256,19 +256,18 @@
     "url": "https://arthrex-lancaster.com",
     "icon": "https://icons.duckduckgo.com/ip3/arthrex-lancaster.com.ico",
     "slug": "arthrex-lancaster",
-    "status": "up",
-    "uptime": "97.38%",
-    "uptimeDay": "94.85%",
-    "uptimeWeek": "98.02%",
-    "uptimeMonth": "95.82%",
-    "uptimeYear": "97.38%",
+    "status": "down",
+    "uptime": "97.40%",
+    "uptimeDay": "93.43%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "95.77%",
+    "uptimeYear": "97.40%",
     "time": 1416,
     "timeDay": 1711,
     "timeWeek": 1903,
     "timeMonth": 1825,
     "timeYear": 1416,
     "dailyMinutesDown": {
-      "2026-01-22": 42,
       "2026-01-23": 55,
       "2026-01-24": 21,
       "2026-01-25": 80,
@@ -335,7 +334,7 @@
       "2026-05-26": 78,
       "2026-05-28": 65,
       "2026-05-30": 60,
-      "2026-06-04": 74
+      "2026-06-04": 94
     }
   },
   {
@@ -353,7 +352,7 @@
     "timeDay": 101,
     "timeWeek": 127,
     "timeMonth": 135,
-    "timeYear": 401,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2025-06-06": 41,
       "2025-06-19": 28,
@@ -381,7 +380,7 @@
     "timeDay": 748,
     "timeWeek": 715,
     "timeMonth": 682,
-    "timeYear": 769,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2026-04-22": 68,
       "2026-04-21": 12,
@@ -403,7 +402,7 @@
     "timeDay": 91,
     "timeWeek": 124,
     "timeMonth": 142,
-    "timeYear": 903,
+    "timeYear": 901,
     "dailyMinutesDown": {
       "2025-07-25": 19,
       "2025-11-18": 199,
@@ -426,7 +425,7 @@
     "timeDay": 887,
     "timeWeek": 2173,
     "timeMonth": 2041,
-    "timeYear": 2266,
+    "timeYear": 2265,
     "dailyMinutesDown": {
       "2025-09-16": 29,
       "2025-10-15": 23,
@@ -610,7 +609,7 @@
     "timeDay": 231,
     "timeWeek": 619,
     "timeMonth": 530,
-    "timeYear": 1033,
+    "timeYear": 1031,
     "dailyMinutesDown": {
       "2025-07-16": 26,
       "2025-08-20": 24,
@@ -652,7 +651,7 @@
     "timeDay": 151,
     "timeWeek": 149,
     "timeMonth": 244,
-    "timeYear": 454,
+    "timeYear": 455,
     "dailyMinutesDown": {
       "2025-11-18": 98,
       "2025-11-24": 31
@@ -664,7 +663,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cilofyaf.org.ico",
     "slug": "center-for-independent-living",
     "status": "up",
-    "uptime": "94.44%",
+    "uptime": "94.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -673,7 +672,7 @@
     "timeDay": 54,
     "timeWeek": 157,
     "timeMonth": 145,
-    "timeYear": 1154,
+    "timeYear": 1152,
     "dailyMinutesDown": {
       "2025-06-06": 99,
       "2025-06-05": 5,
@@ -798,7 +797,7 @@
     "timeDay": 1504,
     "timeWeek": 1543,
     "timeMonth": 1472,
-    "timeYear": 1559,
+    "timeYear": 1560,
     "dailyMinutesDown": {
       "2025-11-18": 172
     }
@@ -812,13 +811,13 @@
     "uptime": "98.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.46%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.07%",
     "time": 284,
     "timeDay": 165,
     "timeWeek": 138,
-    "timeMonth": 137,
-    "timeYear": 291,
+    "timeMonth": 134,
+    "timeYear": 292,
     "dailyMinutesDown": {
       "2026-04-04": 177,
       "2026-04-05": 519,
@@ -1029,7 +1028,7 @@
     "timeDay": 533,
     "timeWeek": 532,
     "timeMonth": 517,
-    "timeYear": 1204,
+    "timeYear": 1205,
     "dailyMinutesDown": {
       "2025-12-15": 80,
       "2025-12-16": 371,
@@ -1090,11 +1089,11 @@
     "url": "https://ges-america.com",
     "icon": "https://icons.duckduckgo.com/ip3/ges-america.com.ico",
     "slug": "ges-america",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "95.19%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "94.04%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "98.77%",
     "time": 355,
     "timeDay": 251,
@@ -1166,7 +1165,7 @@
       "2026-04-18": 36,
       "2026-05-15": 239,
       "2026-05-26": 74,
-      "2026-06-04": 69
+      "2026-06-04": 86
     }
   },
   {
@@ -1302,7 +1301,7 @@
     "timeDay": 169,
     "timeWeek": 150,
     "timeMonth": 135,
-    "timeYear": 443,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2025-11-18": 147
     }
@@ -1412,7 +1411,7 @@
     "timeDay": 198,
     "timeWeek": 156,
     "timeMonth": 163,
-    "timeYear": 352,
+    "timeYear": 353,
     "dailyMinutesDown": {}
   },
   {
@@ -1448,7 +1447,7 @@
     "timeDay": 159,
     "timeWeek": 478,
     "timeMonth": 421,
-    "timeYear": 923,
+    "timeYear": 921,
     "dailyMinutesDown": {
       "2025-09-17": 22,
       "2025-11-18": 186,
@@ -1470,7 +1469,7 @@
     "timeDay": 82,
     "timeWeek": 100,
     "timeMonth": 107,
-    "timeYear": 241,
+    "timeYear": 235,
     "dailyMinutesDown": {
       "2025-06-18": 28,
       "2025-09-01": 15,
@@ -1492,7 +1491,7 @@
     "timeDay": 229,
     "timeWeek": 194,
     "timeMonth": 163,
-    "timeYear": 1105,
+    "timeYear": 1104,
     "dailyMinutesDown": {
       "2025-06-06": 100,
       "2025-06-05": 2,
@@ -1598,7 +1597,7 @@
     "timeDay": 273,
     "timeWeek": 222,
     "timeMonth": 274,
-    "timeYear": 656,
+    "timeYear": 654,
     "dailyMinutesDown": {
       "2025-06-06": 100,
       "2025-06-05": 1,
@@ -1680,19 +1679,18 @@
     "url": "https://jazdesignco.com",
     "icon": "https://icons.duckduckgo.com/ip3/jazdesignco.com.ico",
     "slug": "jaz-design-co",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "95.52%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "96.69%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "94.67%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "96.66%",
     "uptimeYear": "98.31%",
-    "time": 1402,
+    "time": 1403,
     "timeDay": 202,
     "timeWeek": 309,
     "timeMonth": 352,
-    "timeYear": 1562,
+    "timeYear": 1565,
     "dailyMinutesDown": {
-      "2025-11-29": 37,
       "2025-11-30": 26,
       "2025-12-01": 65,
       "2025-12-03": 24,
@@ -1771,7 +1769,7 @@
       "2026-05-20": 107,
       "2026-05-28": 60,
       "2026-05-30": 56,
-      "2026-06-04": 64
+      "2026-06-04": 76
     }
   },
   {
@@ -1779,19 +1777,19 @@
     "url": "https://jhowardcahill.com",
     "icon": "https://icons.duckduckgo.com/ip3/jhowardcahill.com.ico",
     "slug": "john-jewett",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "95.86%",
-    "uptimeWeek": "98.35%",
-    "uptimeMonth": "96.12%",
+    "uptimeDay": "95.34%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "96.10%",
     "uptimeYear": "98.65%",
-    "time": 994,
+    "time": 995,
     "timeDay": 592,
     "timeWeek": 3045,
     "timeMonth": 2298,
-    "timeYear": 1009,
+    "timeYear": 1010,
     "dailyMinutesDown": {
-      "2026-01-21": 64,
+      "2026-01-21": 42,
       "2026-01-22": 40,
       "2026-01-23": 36,
       "2026-01-24": 19,
@@ -1858,7 +1856,7 @@
       "2026-05-26": 69,
       "2026-05-28": 55,
       "2026-05-30": 51,
-      "2026-06-04": 60
+      "2026-06-04": 68
     }
   },
   {
@@ -1936,7 +1934,7 @@
     "timeDay": 87,
     "timeWeek": 349,
     "timeMonth": 455,
-    "timeYear": 391,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2025-11-18": 175
     }
@@ -1974,7 +1972,7 @@
     "timeDay": 1403,
     "timeWeek": 1021,
     "timeMonth": 833,
-    "timeYear": 288,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2025-06-07": 34,
       "2025-06-12": 45,
@@ -2038,7 +2036,7 @@
     "uptime": "98.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.00%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "97.32%",
     "time": 329,
     "timeDay": 267,
@@ -2160,7 +2158,7 @@
     "timeDay": 2922,
     "timeWeek": 2463,
     "timeMonth": 2431,
-    "timeYear": 2765,
+    "timeYear": 2766,
     "dailyMinutesDown": {
       "2025-07-15": 18,
       "2025-08-15": 20,
@@ -2253,7 +2251,7 @@
     "timeDay": 132,
     "timeWeek": 227,
     "timeMonth": 248,
-    "timeYear": 621,
+    "timeYear": 618,
     "dailyMinutesDown": {
       "2025-07-08": 30,
       "2025-11-18": 150
@@ -2315,7 +2313,7 @@
     "timeDay": 81,
     "timeWeek": 174,
     "timeMonth": 375,
-    "timeYear": 688,
+    "timeYear": 687,
     "dailyMinutesDown": {
       "2025-06-06": 100,
       "2025-06-12": 41,
@@ -2401,7 +2399,7 @@
     "timeDay": 96,
     "timeWeek": 148,
     "timeMonth": 161,
-    "timeYear": 277,
+    "timeYear": 276,
     "dailyMinutesDown": {
       "2025-11-18": 159
     }
@@ -2433,7 +2431,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssfadvocates.com.ico",
     "slug": "saidis-shultz-and-fisher",
     "status": "up",
-    "uptime": "98.98%",
+    "uptime": "98.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2549,7 +2547,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/stoneandedwards.com.ico",
     "slug": "stone-and-edwards",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2681,7 +2679,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/strubeinc.net.ico",
     "slug": "strube-inc",
     "status": "up",
-    "uptime": "88.84%",
+    "uptime": "88.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2690,7 +2688,7 @@
     "timeDay": 59,
     "timeWeek": 113,
     "timeMonth": 123,
-    "timeYear": 985,
+    "timeYear": 984,
     "dailyMinutesDown": {
       "2025-06-05": 660,
       "2025-11-16": 19,
@@ -2826,7 +2824,7 @@
     "timeDay": 156,
     "timeWeek": 167,
     "timeMonth": 143,
-    "timeYear": 395,
+    "timeYear": 394,
     "dailyMinutesDown": {
       "2025-10-07": 62,
       "2025-10-15": 19,
@@ -2858,7 +2856,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/v3fitnesspro.com.ico",
     "slug": "v3-fitness-pro",
     "status": "up",
-    "uptime": "96.58%",
+    "uptime": "96.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -3038,7 +3036,7 @@
     "timeDay": 98,
     "timeWeek": 143,
     "timeMonth": 261,
-    "timeYear": 266,
+    "timeYear": 267,
     "dailyMinutesDown": {
       "2025-11-18": 168,
       "2025-12-19": 26
@@ -3049,19 +3047,19 @@
     "url": "https://woodburn-law.com",
     "icon": "https://icons.duckduckgo.com/ip3/woodburn-law.com.ico",
     "slug": "woodburn-law",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "96.20%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "96.27%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "96.26%",
     "uptimeYear": "98.67%",
     "time": 686,
     "timeDay": 112,
     "timeWeek": 199,
     "timeMonth": 232,
-    "timeYear": 584,
+    "timeYear": 583,
     "dailyMinutesDown": {
-      "2026-01-20": 103,
+      "2026-01-20": 66,
       "2026-01-21": 63,
       "2026-01-22": 39,
       "2026-01-23": 35,
@@ -3127,7 +3125,7 @@
       "2026-05-26": 64,
       "2026-05-28": 50,
       "2026-05-30": 46,
-      "2026-06-04": 55
+      "2026-06-04": 59
     }
   },
   {
@@ -3145,7 +3143,7 @@
     "timeDay": 158,
     "timeWeek": 271,
     "timeMonth": 306,
-    "timeYear": 377,
+    "timeYear": 378,
     "dailyMinutesDown": {
       "2025-11-18": 152,
       "2026-02-02": 38
@@ -3187,7 +3185,7 @@
     "timeDay": 143,
     "timeWeek": 154,
     "timeMonth": 171,
-    "timeYear": 728,
+    "timeYear": 727,
     "dailyMinutesDown": {
       "2025-06-05": 26,
       "2025-06-09": 22,
