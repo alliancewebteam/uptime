@@ -24,19 +24,18 @@
     "url": "https://accessbusandvan.net",
     "icon": "https://icons.duckduckgo.com/ip3/accessbusandvan.net.ico",
     "slug": "access-bus-and-van",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "98.78%",
-    "time": 2604,
+    "time": 2606,
     "timeDay": 1903,
     "timeWeek": 2698,
     "timeMonth": 2611,
     "timeYear": 2710,
     "dailyMinutesDown": {
-      "2025-11-21": 42,
       "2025-11-22": 17,
       "2025-11-24": 28,
       "2025-11-26": 30,
@@ -107,7 +106,8 @@
       "2026-04-23": 53,
       "2026-04-24": 133,
       "2026-04-28": 103,
-      "2026-05-06": 238
+      "2026-05-06": 238,
+      "2026-06-07": 35
     }
   },
   {
@@ -116,7 +116,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/alliedgrouppa.com.ico",
     "slug": "allied-group-pa",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -241,7 +241,7 @@
     "timeDay": 127,
     "timeWeek": 164,
     "timeMonth": 181,
-    "timeYear": 407,
+    "timeYear": 401,
     "dailyMinutesDown": {
       "2025-06-12": 46,
       "2025-06-13": 17,
@@ -255,11 +255,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/arthrex-lancaster.com.ico",
     "slug": "arthrex-lancaster",
     "status": "up",
-    "uptime": "97.39%",
+    "uptime": "97.40%",
     "uptimeDay": "91.59%",
     "uptimeWeek": "97.58%",
     "uptimeMonth": "95.69%",
-    "uptimeYear": "97.39%",
+    "uptimeYear": "97.40%",
     "time": 1425,
     "timeDay": 1852,
     "timeWeek": 1882,
@@ -413,19 +413,18 @@
     "url": "https://buchergroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/buchergroup.com.ico",
     "slug": "bucher-group",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "98.56%",
-    "time": 2184,
+    "time": 2185,
     "timeDay": 3107,
     "timeWeek": 1957,
     "timeMonth": 2010,
     "timeYear": 2263,
     "dailyMinutesDown": {
-      "2025-09-16": 29,
       "2025-10-15": 23,
       "2025-11-16": 27,
       "2025-11-18": 31,
@@ -498,7 +497,8 @@
       "2026-04-23": 52,
       "2026-04-24": 132,
       "2026-04-28": 103,
-      "2026-05-06": 221
+      "2026-05-06": 221,
+      "2026-06-07": 31
     }
   },
   {
@@ -506,12 +506,12 @@
     "url": "https://bucklandsales.com",
     "icon": "https://icons.duckduckgo.com/ip3/bucklandsales.com.ico",
     "slug": "buckland-sales",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.81%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "98.80%",
     "time": 506,
     "timeDay": 385,
     "timeWeek": 374,
@@ -589,7 +589,8 @@
       "2026-04-23": 52,
       "2026-04-24": 131,
       "2026-04-28": 102,
-      "2026-05-06": 211
+      "2026-05-06": 211,
+      "2026-06-07": 26
     }
   },
   {
@@ -670,7 +671,7 @@
     "timeDay": 240,
     "timeWeek": 201,
     "timeMonth": 156,
-    "timeYear": 1145,
+    "timeYear": 1142,
     "dailyMinutesDown": {
       "2025-06-12": 46,
       "2025-06-13": 17,
@@ -1014,19 +1015,19 @@
     "url": "https://fortneyprinting.com",
     "icon": "https://icons.duckduckgo.com/ip3/fortneyprinting.com.ico",
     "slug": "fortney-printing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "98.70%",
-    "time": 1130,
-    "timeDay": 522,
-    "timeWeek": 537,
-    "timeMonth": 512,
-    "timeYear": 1202,
+    "time": 1129,
+    "timeDay": 326,
+    "timeWeek": 486,
+    "timeMonth": 500,
+    "timeYear": 1201,
     "dailyMinutesDown": {
-      "2025-12-15": 80,
+      "2025-12-15": 51,
       "2025-12-16": 371,
       "2025-12-17": 156,
       "2025-12-18": 330,
@@ -1077,7 +1078,8 @@
       "2026-04-23": 52,
       "2026-04-24": 131,
       "2026-04-28": 102,
-      "2026-05-06": 211
+      "2026-05-06": 211,
+      "2026-06-07": 26
     }
   },
   {
@@ -1086,7 +1088,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ges-america.com.ico",
     "slug": "ges-america",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.26%",
     "uptimeDay": "96.41%",
     "uptimeWeek": "98.36%",
     "uptimeMonth": "98.91%",
@@ -1307,12 +1309,12 @@
     "url": "https://grovemiller.com",
     "icon": "https://icons.duckduckgo.com/ip3/grovemiller.com.ico",
     "slug": "grove-miller-engineering",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.83%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "98.82%",
     "time": 273,
     "timeDay": 276,
     "timeWeek": 268,
@@ -1389,7 +1391,8 @@
       "2026-04-23": 51,
       "2026-04-24": 131,
       "2026-04-28": 102,
-      "2026-05-06": 201
+      "2026-05-06": 201,
+      "2026-06-07": 22
     }
   },
   {
@@ -1407,7 +1410,7 @@
     "timeDay": 218,
     "timeWeek": 184,
     "timeMonth": 160,
-    "timeYear": 352,
+    "timeYear": 353,
     "dailyMinutesDown": {}
   },
   {
@@ -1487,7 +1490,7 @@
     "timeDay": 70,
     "timeWeek": 194,
     "timeMonth": 163,
-    "timeYear": 1099,
+    "timeYear": 1098,
     "dailyMinutesDown": {
       "2025-06-12": 43,
       "2025-06-26": 16,
@@ -1591,7 +1594,7 @@
     "timeDay": 288,
     "timeWeek": 280,
     "timeMonth": 233,
-    "timeYear": 646,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2025-06-12": 43,
       "2025-06-26": 40,
@@ -1681,7 +1684,7 @@
     "timeDay": 350,
     "timeWeek": 321,
     "timeMonth": 352,
-    "timeYear": 1561,
+    "timeYear": 1563,
     "dailyMinutesDown": {
       "2025-12-03": 24,
       "2025-12-05": 111,
@@ -1964,7 +1967,7 @@
     "timeDay": 161,
     "timeWeek": 560,
     "timeMonth": 745,
-    "timeYear": 288,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2025-06-12": 45,
       "2025-06-13": 61,
@@ -2023,11 +2026,11 @@
     "url": "https://millerplatingnj.com",
     "icon": "https://icons.duckduckgo.com/ip3/millerplatingnj.com.ico",
     "slug": "miller-and-son-electro-plating",
-    "status": "up",
-    "uptime": "98.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "98.54%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "97.32%",
     "time": 329,
     "timeDay": 258,
@@ -2111,7 +2114,8 @@
       "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 242,
-      "2026-05-06": 191
+      "2026-05-06": 191,
+      "2026-06-07": 17
     }
   },
   {
@@ -2139,13 +2143,13 @@
     "url": "https://myamerilock.com",
     "icon": "https://icons.duckduckgo.com/ip3/myamerilock.com.ico",
     "slug": "my-amerilock",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "98.84%",
-    "time": 2538,
+    "time": 2540,
     "timeDay": 2163,
     "timeWeek": 2458,
     "timeMonth": 2461,
@@ -2224,7 +2228,8 @@
       "2026-04-23": 50,
       "2026-04-24": 130,
       "2026-04-28": 100,
-      "2026-05-06": 181
+      "2026-05-06": 181,
+      "2026-06-07": 13
     }
   },
   {
@@ -2574,12 +2579,12 @@
     "url": "https://srft16.com/",
     "icon": "https://icons.duckduckgo.com/ip3/srft16.com.ico",
     "slug": "strategic-response-firearms-training",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.86%",
+    "status": "down",
+    "uptime": "99.37%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "98.85%",
     "time": 437,
     "timeDay": 393,
     "timeWeek": 376,
@@ -2660,7 +2665,8 @@
       "2026-04-23": 50,
       "2026-04-24": 130,
       "2026-04-28": 100,
-      "2026-05-06": 171
+      "2026-05-06": 171,
+      "2026-06-07": 8
     }
   },
   {
@@ -2715,11 +2721,11 @@
     "url": "https://szelesas.com",
     "icon": "https://icons.duckduckgo.com/ip3/szelesas.com.ico",
     "slug": "szeles-and-associates",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.90%",
     "time": 1277,
     "timeDay": 712,
@@ -2795,7 +2801,8 @@
       "2026-04-23": 49,
       "2026-04-24": 129,
       "2026-04-28": 99,
-      "2026-05-06": 162
+      "2026-05-06": 162,
+      "2026-06-07": 4
     }
   },
   {
@@ -2948,7 +2955,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wertbookbinding.com.ico",
     "slug": "wert-book-binding",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
