@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/accessbusandvan.net.ico",
     "slug": "access-bus-and-van",
     "status": "up",
-    "uptime": "99.32%",
+    "uptime": "99.33%",
     "uptimeDay": "92.90%",
     "uptimeWeek": "98.99%",
     "uptimeMonth": "99.77%",
@@ -852,10 +852,10 @@
     "url": "https://www.countyseatselfstorage.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.countyseatselfstorage.com.ico",
     "slug": "county-seat-self-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 407,
@@ -866,7 +866,8 @@
     "dailyMinutesDown": {
       "2025-11-05": 16,
       "2026-02-04": 32,
-      "2026-03-25": 150
+      "2026-03-25": 150,
+      "2026-06-07": 1
     }
   },
   {
@@ -2675,7 +2676,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/strubeinc.net.ico",
     "slug": "strube-inc",
     "status": "up",
-    "uptime": "88.89%",
+    "uptime": "88.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
