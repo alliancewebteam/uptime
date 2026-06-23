@@ -253,19 +253,19 @@
     "url": "https://arthrex-lancaster.com",
     "icon": "https://icons.duckduckgo.com/ip3/arthrex-lancaster.com.ico",
     "slug": "arthrex-lancaster",
-    "status": "up",
-    "uptime": "97.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.38%",
-    "uptimeYear": "97.40%",
+    "status": "down",
+    "uptime": "97.41%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "97.33%",
+    "uptimeYear": "97.41%",
     "time": 1452,
     "timeDay": 1927,
     "timeWeek": 1672,
     "timeMonth": 1860,
     "timeYear": 1452,
     "dailyMinutesDown": {
-      "2026-01-26": 106,
+      "2026-01-26": 76,
       "2026-01-27": 69,
       "2026-01-30": 53,
       "2026-01-31": 29,
@@ -334,7 +334,8 @@
       "2026-06-10": 234,
       "2026-06-11": 218,
       "2026-06-15": 147,
-      "2026-06-16": 101
+      "2026-06-16": 101,
+      "2026-06-23": 20
     }
   },
   {
@@ -1088,11 +1089,11 @@
     "url": "https://ges-america.com",
     "icon": "https://icons.duckduckgo.com/ip3/ges-america.com.ico",
     "slug": "ges-america",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.97%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "98.93%",
     "uptimeYear": "98.71%",
     "time": 353,
     "timeDay": 270,
@@ -1167,7 +1168,8 @@
       "2026-06-04": 101,
       "2026-06-05": 12,
       "2026-06-06": 52,
-      "2026-06-11": 214
+      "2026-06-11": 214,
+      "2026-06-23": 16
     }
   },
   {
@@ -1673,19 +1675,19 @@
     "url": "https://jazdesignco.com",
     "icon": "https://icons.duckduckgo.com/ip3/jazdesignco.com.ico",
     "slug": "jaz-design-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.72%",
-    "uptimeYear": "98.21%",
-    "time": 1404,
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "97.69%",
+    "uptimeYear": "98.22%",
+    "time": 1406,
     "timeDay": 369,
     "timeWeek": 306,
     "timeMonth": 323,
     "timeYear": 1560,
     "dailyMinutesDown": {
-      "2025-12-18": 45,
+      "2025-12-18": 24,
       "2025-12-21": 20,
       "2025-12-25": 616,
       "2025-12-24": 1440,
@@ -1763,7 +1765,8 @@
       "2026-06-10": 229,
       "2026-06-11": 209,
       "2026-06-15": 136,
-      "2026-06-16": 101
+      "2026-06-16": 101,
+      "2026-06-23": 12
     }
   },
   {
@@ -1771,11 +1774,11 @@
     "url": "https://jhowardcahill.com",
     "icon": "https://icons.duckduckgo.com/ip3/jhowardcahill.com.ico",
     "slug": "john-jewett",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.67%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "97.65%",
     "uptimeYear": "98.54%",
     "time": 1037,
     "timeDay": 802,
@@ -1783,7 +1786,6 @@
     "timeMonth": 2515,
     "timeYear": 1064,
     "dailyMinutesDown": {
-      "2026-01-25": 20,
       "2026-01-26": 98,
       "2026-01-27": 67,
       "2026-01-30": 52,
@@ -1852,7 +1854,8 @@
       "2026-06-10": 224,
       "2026-06-11": 204,
       "2026-06-15": 127,
-      "2026-06-16": 101
+      "2026-06-16": 101,
+      "2026-06-23": 7
     }
   },
   {
@@ -2674,7 +2677,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/strubeinc.net.ico",
     "slug": "strube-inc",
     "status": "up",
-    "uptime": "89.15%",
+    "uptime": "89.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -3042,11 +3045,11 @@
     "url": "https://woodburn-law.com",
     "icon": "https://icons.duckduckgo.com/ip3/woodburn-law.com.ico",
     "slug": "woodburn-law",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.79%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "97.78%",
     "uptimeYear": "98.57%",
     "time": 658,
     "timeDay": 232,
@@ -3054,7 +3057,6 @@
     "timeMonth": 227,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2026-01-24": 18,
       "2026-01-25": 69,
       "2026-01-26": 94,
       "2026-01-27": 66,
@@ -3122,7 +3124,8 @@
       "2026-06-10": 219,
       "2026-06-11": 199,
       "2026-06-15": 116,
-      "2026-06-16": 102
+      "2026-06-16": 102,
+      "2026-06-23": 4
     }
   },
   {
