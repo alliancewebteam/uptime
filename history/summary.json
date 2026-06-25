@@ -415,7 +415,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/buchergroup.com.ico",
     "slug": "bucher-group",
     "status": "up",
-    "uptime": "99.18%",
+    "uptime": "99.19%",
     "uptimeDay": "97.63%",
     "uptimeWeek": "95.15%",
     "uptimeMonth": "98.58%",
@@ -2146,9 +2146,9 @@
     "slug": "my-amerilock",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "96.08%",
-    "uptimeMonth": "98.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.22%",
+    "uptimeMonth": "98.92%",
     "uptimeYear": "98.76%",
     "time": 2540,
     "timeDay": 3259,
@@ -2156,6 +2156,7 @@
     "timeMonth": 2429,
     "timeYear": 2758,
     "dailyMinutesDown": {
+      "2025-09-10": 18,
       "2025-09-16": 27,
       "2025-10-15": 20,
       "2025-11-16": 24,
@@ -2230,8 +2231,7 @@
       "2026-06-07": 78,
       "2026-06-12": 15,
       "2026-06-20": 180,
-      "2026-06-23": 201,
-      "2026-06-25": 14
+      "2026-06-23": 201
     }
   },
   {
@@ -2582,9 +2582,9 @@
     "slug": "strategic-response-firearms-training",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "96.22%",
-    "uptimeMonth": "98.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.32%",
+    "uptimeMonth": "98.99%",
     "uptimeYear": "98.77%",
     "time": 434,
     "timeDay": 417,
@@ -2592,6 +2592,7 @@
     "timeMonth": 372,
     "timeYear": 425,
     "dailyMinutesDown": {
+      "2025-07-18": 30,
       "2025-08-15": 20,
       "2025-09-06": 16,
       "2025-09-16": 26,
@@ -2668,8 +2669,7 @@
       "2026-05-06": 171,
       "2026-06-07": 73,
       "2026-06-20": 176,
-      "2026-06-23": 196,
-      "2026-06-25": 10
+      "2026-06-23": 196
     }
   },
   {
@@ -2726,10 +2726,10 @@
     "slug": "szeles-and-associates",
     "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "96.36%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "98.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.41%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "98.82%",
     "time": 1226,
     "timeDay": 445,
     "timeWeek": 552,
@@ -2807,8 +2807,7 @@
       "2026-05-06": 162,
       "2026-06-07": 68,
       "2026-06-20": 171,
-      "2026-06-23": 191,
-      "2026-06-25": 5
+      "2026-06-23": 191
     }
   },
   {
@@ -2840,18 +2839,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/unitedsustainableag.com.ico",
     "slug": "united-sustainable-ag",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.82%",
+    "uptimeDay": "89.51%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.82%",
     "time": 226,
     "timeDay": 0,
     "timeWeek": 193,
     "timeMonth": 314,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2026-06-25": 2
+      "2026-06-25": 151
     }
   },
   {
