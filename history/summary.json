@@ -1089,17 +1089,17 @@
     "url": "https://ges-america.com",
     "icon": "https://icons.duckduckgo.com/ip3/ges-america.com.ico",
     "slug": "ges-america",
-    "status": "down",
-    "uptime": "99.25%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "98.78%",
-    "uptimeYear": "98.70%",
+    "status": "up",
+    "uptime": "99.24%",
+    "uptimeDay": "92.93%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "98.56%",
+    "uptimeYear": "98.68%",
     "time": 353,
-    "timeDay": 219,
-    "timeWeek": 270,
-    "timeMonth": 275,
-    "timeYear": 357,
+    "timeDay": 210,
+    "timeWeek": 262,
+    "timeMonth": 273,
+    "timeYear": 356,
     "dailyMinutesDown": {
       "2025-07-01": 223,
       "2025-06-30": 375,
@@ -1170,7 +1170,7 @@
       "2026-06-06": 52,
       "2026-06-11": 214,
       "2026-06-23": 78,
-      "2026-06-25": 2
+      "2026-06-25": 102
     }
   },
   {
