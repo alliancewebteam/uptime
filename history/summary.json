@@ -2136,16 +2136,17 @@
     "slug": "my-amerilock",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "95.02%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "98.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.17%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "98.74%",
     "time": 2547,
     "timeDay": 3054,
     "timeWeek": 2467,
     "timeMonth": 2512,
     "timeYear": 2760,
     "dailyMinutesDown": {
+      "2025-09-16": 27,
       "2025-10-15": 20,
       "2025-11-16": 24,
       "2025-11-18": 28,
@@ -2220,8 +2221,7 @@
       "2026-06-12": 15,
       "2026-06-20": 180,
       "2026-06-23": 201,
-      "2026-06-25": 106,
-      "2026-06-27": 15
+      "2026-06-25": 106
     }
   },
   {
@@ -2571,9 +2571,9 @@
     "slug": "strategic-response-firearms-training",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "95.22%",
-    "uptimeMonth": "98.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.31%",
+    "uptimeMonth": "98.76%",
     "uptimeYear": "98.76%",
     "time": 435,
     "timeDay": 478,
@@ -2581,6 +2581,7 @@
     "timeMonth": 378,
     "timeYear": 426,
     "dailyMinutesDown": {
+      "2025-08-15": 20,
       "2025-09-06": 16,
       "2025-09-16": 26,
       "2025-10-15": 20,
@@ -2657,8 +2658,7 @@
       "2026-06-07": 73,
       "2026-06-20": 176,
       "2026-06-23": 196,
-      "2026-06-25": 101,
-      "2026-06-27": 10
+      "2026-06-25": 101
     }
   },
   {
@@ -2715,9 +2715,9 @@
     "slug": "szeles-and-associates",
     "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "95.41%",
-    "uptimeMonth": "98.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.46%",
+    "uptimeMonth": "98.80%",
     "uptimeYear": "98.80%",
     "time": 1212,
     "timeDay": 724,
@@ -2797,8 +2797,7 @@
       "2026-06-07": 68,
       "2026-06-20": 171,
       "2026-06-23": 191,
-      "2026-06-25": 96,
-      "2026-06-27": 5
+      "2026-06-25": 96
     }
   },
   {
