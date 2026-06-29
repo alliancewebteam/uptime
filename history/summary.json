@@ -14,7 +14,7 @@
     "timeDay": 4085,
     "timeWeek": 1472,
     "timeMonth": 673,
-    "timeYear": 282,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2025-11-18": 176
     }
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/accessbusandvan.net.ico",
     "slug": "access-bus-and-van",
     "status": "down",
-    "uptime": "99.26%",
-    "uptimeDay": "93.74%",
-    "uptimeWeek": "91.83%",
-    "uptimeMonth": "97.33%",
-    "uptimeYear": "98.61%",
+    "uptime": "99.25%",
+    "uptimeDay": "85.56%",
+    "uptimeWeek": "90.66%",
+    "uptimeMonth": "97.06%",
+    "uptimeYear": "98.59%",
     "time": 2645,
     "timeDay": 3011,
     "timeWeek": 2905,
@@ -111,7 +111,7 @@
       "2026-06-27": 37,
       "2026-06-26": 3,
       "2026-06-28": 261,
-      "2026-06-29": 90
+      "2026-06-29": 208
     }
   },
   {
@@ -129,7 +129,7 @@
     "timeDay": 960,
     "timeWeek": 1135,
     "timeMonth": 1210,
-    "timeYear": 355,
+    "timeYear": 356,
     "dailyMinutesDown": {
       "2025-11-18": 32,
       "2025-11-21": 42,
@@ -358,7 +358,7 @@
     "timeDay": 61,
     "timeWeek": 122,
     "timeMonth": 122,
-    "timeYear": 300,
+    "timeYear": 298,
     "dailyMinutesDown": {
       "2025-07-04": 28,
       "2025-07-27": 43,
@@ -406,7 +406,7 @@
     "timeDay": 46,
     "timeWeek": 119,
     "timeMonth": 115,
-    "timeYear": 809,
+    "timeYear": 807,
     "dailyMinutesDown": {
       "2025-07-25": 19,
       "2025-11-18": 199,
@@ -419,19 +419,19 @@
     "url": "https://buchergroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/buchergroup.com.ico",
     "slug": "bucher-group",
-    "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "94.15%",
-    "uptimeWeek": "92.18%",
+    "status": "down",
+    "uptime": "99.16%",
+    "uptimeDay": "93.97%",
+    "uptimeWeek": "92.15%",
     "uptimeMonth": "97.44%",
     "uptimeYear": "98.40%",
-    "time": 2220,
-    "timeDay": 3085,
-    "timeWeek": 2493,
-    "timeMonth": 2316,
-    "timeYear": 2263,
+    "time": 2216,
+    "timeDay": 2132,
+    "timeWeek": 2304,
+    "timeMonth": 2261,
+    "timeYear": 2258,
     "dailyMinutesDown": {
-      "2025-12-06": 87,
+      "2025-12-06": 62,
       "2025-12-07": 44,
       "2025-12-08": 28,
       "2025-12-09": 90,
@@ -503,7 +503,7 @@
       "2026-06-25": 159,
       "2026-06-27": 34,
       "2026-06-28": 256,
-      "2026-06-29": 84
+      "2026-06-29": 87
     }
   },
   {
@@ -511,19 +511,18 @@
     "url": "https://bucklandsales.com",
     "icon": "https://icons.duckduckgo.com/ip3/bucklandsales.com.ico",
     "slug": "buckland-sales",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "94.48%",
-    "uptimeWeek": "92.51%",
+    "uptimeDay": "94.31%",
+    "uptimeWeek": "92.49%",
     "uptimeMonth": "97.55%",
-    "uptimeYear": "98.65%",
-    "time": 492,
-    "timeDay": 255,
-    "timeWeek": 338,
-    "timeMonth": 361,
-    "timeYear": 432,
+    "uptimeYear": "98.66%",
+    "time": 491,
+    "timeDay": 224,
+    "timeWeek": 323,
+    "timeMonth": 355,
+    "timeYear": 431,
     "dailyMinutesDown": {
-      "2025-12-03": 29,
       "2025-12-06": 84,
       "2025-12-07": 42,
       "2025-12-08": 28,
@@ -594,7 +593,7 @@
       "2026-06-25": 149,
       "2026-06-27": 30,
       "2026-06-28": 251,
-      "2026-06-29": 79
+      "2026-06-29": 81
     }
   },
   {
@@ -612,7 +611,7 @@
     "timeDay": 170,
     "timeWeek": 694,
     "timeMonth": 819,
-    "timeYear": 969,
+    "timeYear": 968,
     "dailyMinutesDown": {
       "2025-07-16": 26,
       "2025-08-20": 24,
@@ -654,7 +653,7 @@
     "timeDay": 67,
     "timeWeek": 115,
     "timeMonth": 123,
-    "timeYear": 452,
+    "timeYear": 453,
     "dailyMinutesDown": {
       "2025-11-18": 98,
       "2025-11-24": 31
@@ -675,7 +674,7 @@
     "timeDay": 53,
     "timeWeek": 189,
     "timeMonth": 181,
-    "timeYear": 1068,
+    "timeYear": 1063,
     "dailyMinutesDown": {
       "2025-07-07": 56,
       "2025-07-17": 20,
@@ -792,7 +791,7 @@
     "timeDay": 1607,
     "timeWeek": 1432,
     "timeMonth": 1458,
-    "timeYear": 1553,
+    "timeYear": 1552,
     "dailyMinutesDown": {
       "2025-11-18": 172
     }
@@ -903,7 +902,7 @@
     "timeDay": 75,
     "timeWeek": 125,
     "timeMonth": 147,
-    "timeYear": 331,
+    "timeYear": 330,
     "dailyMinutesDown": {
       "2025-07-25": 138,
       "2025-08-22": 26,
@@ -1014,19 +1013,19 @@
     "url": "https://fortneyprinting.com",
     "icon": "https://icons.duckduckgo.com/ip3/fortneyprinting.com.ico",
     "slug": "fortney-printing",
-    "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "94.50%",
-    "uptimeWeek": "92.53%",
-    "uptimeMonth": "97.56%",
+    "status": "down",
+    "uptime": "99.26%",
+    "uptimeDay": "94.30%",
+    "uptimeWeek": "92.50%",
+    "uptimeMonth": "97.55%",
     "uptimeYear": "98.59%",
-    "time": 1104,
-    "timeDay": 317,
-    "timeWeek": 332,
-    "timeMonth": 415,
-    "timeYear": 1160,
+    "time": 1103,
+    "timeDay": 277,
+    "timeWeek": 323,
+    "timeMonth": 409,
+    "timeYear": 1159,
     "dailyMinutesDown": {
-      "2025-12-17": 126,
+      "2025-12-17": 102,
       "2025-12-18": 330,
       "2025-12-19": 249,
       "2025-12-20": 124,
@@ -1084,7 +1083,7 @@
       "2026-06-25": 149,
       "2026-06-27": 29,
       "2026-06-28": 251,
-      "2026-06-29": 79
+      "2026-06-29": 82
     }
   },
   {
@@ -1192,7 +1191,7 @@
     "timeDay": 68,
     "timeWeek": 101,
     "timeMonth": 109,
-    "timeYear": 764,
+    "timeYear": 763,
     "dailyMinutesDown": {
       "2025-07-07": 55,
       "2025-07-17": 18,
@@ -1302,7 +1301,7 @@
     "timeDay": 67,
     "timeWeek": 101,
     "timeMonth": 210,
-    "timeYear": 412,
+    "timeYear": 407,
     "dailyMinutesDown": {
       "2025-11-18": 147
     }
@@ -1312,19 +1311,18 @@
     "url": "https://grovemiller.com",
     "icon": "https://icons.duckduckgo.com/ip3/grovemiller.com.ico",
     "slug": "grove-miller-engineering",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "94.83%",
-    "uptimeWeek": "92.86%",
-    "uptimeMonth": "97.67%",
+    "uptimeDay": "94.63%",
+    "uptimeWeek": "92.83%",
+    "uptimeMonth": "97.66%",
     "uptimeYear": "98.67%",
     "time": 271,
-    "timeDay": 154,
-    "timeWeek": 227,
-    "timeMonth": 244,
+    "timeDay": 151,
+    "timeWeek": 220,
+    "timeMonth": 241,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2025-11-26": 27,
       "2025-12-02": 48,
       "2025-12-03": 29,
       "2025-12-06": 65,
@@ -1396,7 +1394,7 @@
       "2026-06-25": 139,
       "2026-06-27": 25,
       "2026-06-28": 246,
-      "2026-06-29": 74
+      "2026-06-29": 77
     }
   },
   {
@@ -1414,7 +1412,7 @@
     "timeDay": 38,
     "timeWeek": 175,
     "timeMonth": 173,
-    "timeYear": 335,
+    "timeYear": 336,
     "dailyMinutesDown": {}
   },
   {
@@ -1432,7 +1430,7 @@
     "timeDay": 154,
     "timeWeek": 180,
     "timeMonth": 171,
-    "timeYear": 241,
+    "timeYear": 242,
     "dailyMinutesDown": {}
   },
   {
@@ -1450,7 +1448,7 @@
     "timeDay": 70,
     "timeWeek": 93,
     "timeMonth": 197,
-    "timeYear": 836,
+    "timeYear": 834,
     "dailyMinutesDown": {
       "2025-09-17": 22,
       "2025-11-18": 186,
@@ -1493,7 +1491,7 @@
     "timeDay": 149,
     "timeWeek": 173,
     "timeMonth": 179,
-    "timeYear": 1036,
+    "timeYear": 1033,
     "dailyMinutesDown": {
       "2025-07-07": 54,
       "2025-07-17": 17,
@@ -1592,7 +1590,7 @@
     "timeDay": 366,
     "timeWeek": 278,
     "timeMonth": 257,
-    "timeYear": 595,
+    "timeYear": 594,
     "dailyMinutesDown": {
       "2025-07-07": 53,
       "2025-07-17": 17,
@@ -1677,7 +1675,7 @@
     "timeDay": 594,
     "timeWeek": 353,
     "timeMonth": 328,
-    "timeYear": 1556,
+    "timeYear": 1558,
     "dailyMinutesDown": {
       "2025-12-21": 20,
       "2025-12-25": 616,
@@ -1776,7 +1774,7 @@
     "timeDay": 880,
     "timeWeek": 1900,
     "timeMonth": 2432,
-    "timeYear": 1082,
+    "timeYear": 1083,
     "dailyMinutesDown": {
       "2026-01-26": 52,
       "2026-01-27": 67,
@@ -2017,19 +2015,18 @@
     "url": "https://millerplatingnj.com",
     "icon": "https://icons.duckduckgo.com/ip3/millerplatingnj.com.ico",
     "slug": "miller-and-son-electro-plating",
-    "status": "up",
-    "uptime": "98.51%",
-    "uptimeDay": "95.16%",
-    "uptimeWeek": "93.20%",
-    "uptimeMonth": "97.78%",
-    "uptimeYear": "97.19%",
+    "status": "down",
+    "uptime": "98.52%",
+    "uptimeDay": "94.93%",
+    "uptimeWeek": "93.17%",
+    "uptimeMonth": "97.77%",
+    "uptimeYear": "97.20%",
     "time": 333,
-    "timeDay": 143,
-    "timeWeek": 521,
-    "timeMonth": 330,
+    "timeDay": 137,
+    "timeWeek": 488,
+    "timeMonth": 324,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2025-12-02": 47,
       "2025-12-03": 27,
       "2025-12-06": 58,
       "2025-12-07": 38,
@@ -2105,7 +2102,7 @@
       "2026-06-25": 130,
       "2026-06-27": 20,
       "2026-06-28": 241,
-      "2026-06-29": 70
+      "2026-06-29": 73
     }
   },
   {
@@ -2133,19 +2130,18 @@
     "url": "https://myamerilock.com",
     "icon": "https://icons.duckduckgo.com/ip3/myamerilock.com.ico",
     "slug": "my-amerilock",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "95.50%",
-    "uptimeWeek": "93.97%",
-    "uptimeMonth": "97.99%",
+    "uptimeDay": "95.27%",
+    "uptimeWeek": "93.94%",
+    "uptimeMonth": "97.98%",
     "uptimeYear": "98.70%",
-    "time": 2544,
-    "timeDay": 3151,
-    "timeWeek": 2779,
-    "timeMonth": 2466,
-    "timeYear": 2759,
+    "time": 2541,
+    "timeDay": 2149,
+    "timeWeek": 2559,
+    "timeMonth": 2405,
+    "timeYear": 2756,
     "dailyMinutesDown": {
-      "2025-11-16": 24,
       "2025-11-18": 28,
       "2025-11-21": 38,
       "2025-11-24": 19,
@@ -2220,7 +2216,7 @@
       "2026-06-23": 201,
       "2026-06-25": 106,
       "2026-06-28": 236,
-      "2026-06-29": 65
+      "2026-06-29": 68
     }
   },
   {
@@ -2238,7 +2234,7 @@
     "timeDay": 485,
     "timeWeek": 297,
     "timeMonth": 257,
-    "timeYear": 568,
+    "timeYear": 567,
     "dailyMinutesDown": {
       "2025-07-08": 30,
       "2025-11-18": 150
@@ -2300,7 +2296,7 @@
     "timeDay": 116,
     "timeWeek": 111,
     "timeMonth": 118,
-    "timeYear": 655,
+    "timeYear": 654,
     "dailyMinutesDown": {
       "2025-07-07": 52,
       "2025-07-17": 15,
@@ -2538,7 +2534,7 @@
     "timeDay": 893,
     "timeWeek": 1096,
     "timeMonth": 1530,
-    "timeYear": 1282,
+    "timeYear": 1281,
     "dailyMinutesDown": {
       "2025-06-30": 18,
       "2025-07-29": 72,
@@ -2566,19 +2562,18 @@
     "url": "https://srft16.com/",
     "icon": "https://icons.duckduckgo.com/ip3/srft16.com.ico",
     "slug": "strategic-response-firearms-training",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "95.83%",
-    "uptimeWeek": "94.17%",
-    "uptimeMonth": "98.09%",
+    "uptimeDay": "95.59%",
+    "uptimeWeek": "94.13%",
+    "uptimeMonth": "98.08%",
     "uptimeYear": "98.71%",
-    "time": 431,
-    "timeDay": 278,
-    "timeWeek": 359,
-    "timeMonth": 362,
-    "timeYear": 425,
+    "time": 430,
+    "timeDay": 264,
+    "timeWeek": 349,
+    "timeMonth": 359,
+    "timeYear": 424,
     "dailyMinutesDown": {
-      "2025-09-16": 26,
       "2025-10-15": 20,
       "2025-11-16": 23,
       "2025-11-18": 27,
@@ -2655,7 +2650,7 @@
       "2026-06-23": 196,
       "2026-06-25": 101,
       "2026-06-28": 231,
-      "2026-06-29": 60
+      "2026-06-29": 64
     }
   },
   {
@@ -2664,7 +2659,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/strubeinc.net.ico",
     "slug": "strube-inc",
     "status": "up",
-    "uptime": "89.25%",
+    "uptime": "89.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2673,7 +2668,7 @@
     "timeDay": 100,
     "timeWeek": 89,
     "timeMonth": 119,
-    "timeYear": 896,
+    "timeYear": 894,
     "dailyMinutesDown": {
       "2025-11-16": 19,
       "2026-02-03": 1170,
@@ -2710,17 +2705,17 @@
     "url": "https://szelesas.com",
     "icon": "https://icons.duckduckgo.com/ip3/szelesas.com.ico",
     "slug": "szeles-and-associates",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "96.17%",
-    "uptimeWeek": "94.36%",
-    "uptimeMonth": "98.16%",
+    "uptimeDay": "95.93%",
+    "uptimeWeek": "94.32%",
+    "uptimeMonth": "98.15%",
     "uptimeYear": "98.74%",
-    "time": 1197,
-    "timeDay": 445,
-    "timeWeek": 506,
-    "timeMonth": 537,
-    "timeYear": 939,
+    "time": 1196,
+    "timeDay": 346,
+    "timeWeek": 476,
+    "timeMonth": 527,
+    "timeYear": 937,
     "dailyMinutesDown": {
       "2025-10-15": 19,
       "2025-11-16": 23,
@@ -2796,7 +2791,7 @@
       "2026-06-23": 191,
       "2026-06-25": 96,
       "2026-06-28": 226,
-      "2026-06-29": 55
+      "2026-06-29": 58
     }
   },
   {
@@ -2814,7 +2809,7 @@
     "timeDay": 103,
     "timeWeek": 120,
     "timeMonth": 145,
-    "timeYear": 358,
+    "timeYear": 357,
     "dailyMinutesDown": {
       "2025-10-07": 62,
       "2025-10-15": 19,
@@ -2857,7 +2852,7 @@
     "timeDay": 59,
     "timeWeek": 115,
     "timeMonth": 116,
-    "timeYear": 880,
+    "timeYear": 878,
     "dailyMinutesDown": {
       "2025-07-07": 51,
       "2025-07-21": 30,
@@ -3044,7 +3039,7 @@
     "timeDay": 384,
     "timeWeek": 278,
     "timeMonth": 244,
-    "timeYear": 547,
+    "timeYear": 546,
     "dailyMinutesDown": {
       "2026-01-25": 19,
       "2026-01-26": 94,
@@ -3134,7 +3129,7 @@
     "timeDay": 417,
     "timeWeek": 314,
     "timeMonth": 302,
-    "timeYear": 343,
+    "timeYear": 344,
     "dailyMinutesDown": {
       "2025-11-18": 152,
       "2026-02-02": 38
@@ -3176,7 +3171,7 @@
     "timeDay": 57,
     "timeWeek": 123,
     "timeMonth": 155,
-    "timeYear": 631,
+    "timeYear": 619,
     "dailyMinutesDown": {
       "2025-07-21": 29,
       "2025-08-02": 28,
