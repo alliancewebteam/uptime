@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/accessbusandvan.net.ico",
     "slug": "access-bus-and-van",
     "status": "down",
-    "uptime": "97.41%",
+    "uptime": "97.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "54.40%",
-    "uptimeYear": "95.00%",
+    "uptimeMonth": "54.28%",
+    "uptimeYear": "94.99%",
     "time": 2657,
     "timeDay": 0,
     "timeWeek": 0,
@@ -111,7 +111,7 @@
       "2026-06-27": 37,
       "2026-06-26": 3,
       "2026-06-28": 261,
-      "2026-07-13": 101,
+      "2026-07-13": 154,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
@@ -271,11 +271,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/arthrex-lancaster.com.ico",
     "slug": "arthrex-lancaster",
     "status": "down",
-    "uptime": "97.49%",
-    "uptimeDay": "94.84%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "97.82%",
-    "uptimeYear": "97.49%",
+    "uptime": "97.47%",
+    "uptimeDay": "91.17%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "97.70%",
+    "uptimeYear": "97.47%",
     "time": 1495,
     "timeDay": 1297,
     "timeWeek": 1703,
@@ -355,7 +355,7 @@
       "2026-07-05": 187,
       "2026-07-12": 56,
       "2026-07-11": 28,
-      "2026-07-13": 20
+      "2026-07-13": 73
     }
   },
   {
@@ -1120,10 +1120,10 @@
     "slug": "ges-america",
     "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "98.74%",
+    "uptimeDay": "95.21%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "98.73%",
     "time": 353,
     "timeDay": 178,
     "timeWeek": 307,
@@ -1200,7 +1200,7 @@
       "2026-06-25": 102,
       "2026-06-28": 96,
       "2026-07-05": 182,
-      "2026-07-13": 16
+      "2026-07-13": 69
     }
   },
   {
@@ -1693,11 +1693,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jazdesignco.com.ico",
     "slug": "jaz-design-co",
     "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "95.77%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "98.83%",
+    "uptime": "99.39%",
+    "uptimeDay": "92.12%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "98.47%",
+    "uptimeYear": "98.82%",
     "time": 1316,
     "timeDay": 188,
     "timeWeek": 362,
@@ -1781,7 +1781,7 @@
       "2026-07-03": 155,
       "2026-07-12": 52,
       "2026-07-11": 23,
-      "2026-07-13": 12
+      "2026-07-13": 65
     }
   },
   {
@@ -1790,11 +1790,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jhowardcahill.com.ico",
     "slug": "john-jewett",
     "status": "down",
-    "uptime": "99.21%",
-    "uptimeDay": "96.43%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "98.06%",
-    "uptimeYear": "98.47%",
+    "uptime": "99.20%",
+    "uptimeDay": "92.79%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "97.94%",
+    "uptimeYear": "98.46%",
     "time": 1066,
     "timeDay": 3347,
     "timeWeek": 1567,
@@ -1873,7 +1873,7 @@
       "2026-07-05": 178,
       "2026-07-12": 47,
       "2026-07-11": 18,
-      "2026-07-13": 7
+      "2026-07-13": 60
     }
   },
   {
@@ -3058,11 +3058,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/woodburn-law.com.ico",
     "slug": "woodburn-law",
     "status": "down",
-    "uptime": "99.22%",
-    "uptimeDay": "97.04%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "98.17%",
-    "uptimeYear": "98.49%",
+    "uptime": "99.21%",
+    "uptimeDay": "93.41%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "98.05%",
+    "uptimeYear": "98.48%",
     "time": 610,
     "timeDay": 200,
     "timeWeek": 289,
@@ -3142,7 +3142,7 @@
       "2026-07-05": 172,
       "2026-07-12": 42,
       "2026-07-11": 13,
-      "2026-07-13": 4
+      "2026-07-13": 56
     }
   },
   {
