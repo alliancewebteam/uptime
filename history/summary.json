@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/accessbusandvan.net.ico",
     "slug": "access-bus-and-van",
     "status": "down",
-    "uptime": "97.13%",
+    "uptime": "97.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "47.75%",
-    "uptimeYear": "94.45%",
+    "uptimeMonth": "47.15%",
+    "uptimeYear": "94.40%",
     "time": 2658,
     "timeDay": 0,
     "timeWeek": 0,
@@ -111,7 +111,7 @@
       "2026-06-27": 37,
       "2026-06-26": 3,
       "2026-06-28": 261,
-      "2026-07-15": 132,
+      "2026-07-15": 396,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
@@ -436,19 +436,19 @@
     "url": "https://buchergroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/buchergroup.com.ico",
     "slug": "bucher-group",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "95.41%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "96.36%",
-    "uptimeYear": "98.32%",
-    "time": 2231,
+    "uptimeDay": "93.30%",
+    "uptimeWeek": "97.96%",
+    "uptimeMonth": "96.29%",
+    "uptimeYear": "98.31%",
+    "time": 2233,
     "timeDay": 2371,
     "timeWeek": 2422,
     "timeMonth": 2321,
     "timeYear": 2245,
     "dailyMinutesDown": {
-      "2025-12-09": 72,
+      "2025-12-09": 56,
       "2025-12-11": 40,
       "2025-12-13": 51,
       "2025-12-14": 56,
@@ -525,7 +525,8 @@
       "2026-07-07": 140,
       "2026-07-10": 55,
       "2026-07-13": 54,
-      "2026-07-14": 66
+      "2026-07-14": 66,
+      "2026-07-15": 30
     }
   },
   {
@@ -533,19 +534,19 @@
     "url": "https://bucklandsales.com",
     "icon": "https://icons.duckduckgo.com/ip3/bucklandsales.com.ico",
     "slug": "buckland-sales",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "95.74%",
-    "uptimeWeek": "98.40%",
-    "uptimeMonth": "96.52%",
+    "status": "down",
+    "uptime": "99.26%",
+    "uptimeDay": "93.97%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "96.46%",
     "uptimeYear": "98.58%",
-    "time": 485,
+    "time": 486,
     "timeDay": 371,
     "timeWeek": 398,
     "timeMonth": 372,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2025-12-09": 87,
+      "2025-12-09": 70,
       "2025-12-11": 40,
       "2025-12-13": 51,
       "2025-12-14": 55,
@@ -620,7 +621,8 @@
       "2026-07-07": 135,
       "2026-07-10": 51,
       "2026-07-13": 49,
-      "2026-07-14": 61
+      "2026-07-14": 61,
+      "2026-07-15": 26
     }
   },
   {
@@ -692,7 +694,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cilofyaf.org.ico",
     "slug": "center-for-independent-living",
     "status": "up",
-    "uptime": "94.76%",
+    "uptime": "94.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1039,19 +1041,19 @@
     "url": "https://fortneyprinting.com",
     "icon": "https://icons.duckduckgo.com/ip3/fortneyprinting.com.ico",
     "slug": "fortney-printing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "95.75%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "96.53%",
+    "uptimeDay": "93.95%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "96.47%",
     "uptimeYear": "98.55%",
-    "time": 1088,
-    "timeDay": 344,
-    "timeWeek": 378,
-    "timeMonth": 375,
-    "timeYear": 1132,
+    "time": 1087,
+    "timeDay": 286,
+    "timeWeek": 357,
+    "timeMonth": 370,
+    "timeYear": 1130,
     "dailyMinutesDown": {
-      "2025-12-18": 70,
+      "2025-12-18": 53,
       "2025-12-19": 249,
       "2025-12-20": 124,
       "2025-12-21": 132,
@@ -1116,7 +1118,8 @@
       "2026-07-07": 135,
       "2026-07-10": 50,
       "2026-07-13": 49,
-      "2026-07-14": 61
+      "2026-07-14": 61,
+      "2026-07-15": 26
     }
   },
   {
@@ -1343,11 +1346,11 @@
     "url": "https://grovemiller.com",
     "icon": "https://icons.duckduckgo.com/ip3/grovemiller.com.ico",
     "slug": "grove-miller-engineering",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "96.09%",
-    "uptimeWeek": "98.55%",
-    "uptimeMonth": "96.70%",
+    "uptimeDay": "94.61%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "96.65%",
     "uptimeYear": "98.61%",
     "time": 268,
     "timeDay": 217,
@@ -1355,7 +1358,6 @@
     "timeMonth": 245,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2025-12-08": 27,
       "2025-12-09": 86,
       "2025-12-11": 39,
       "2025-12-13": 48,
@@ -1430,7 +1432,8 @@
       "2026-07-07": 130,
       "2026-07-10": 45,
       "2026-07-13": 44,
-      "2026-07-14": 56
+      "2026-07-14": 56,
+      "2026-07-15": 21
     }
   },
   {
@@ -2042,11 +2045,11 @@
     "url": "https://millerplatingnj.com",
     "icon": "https://icons.duckduckgo.com/ip3/millerplatingnj.com.ico",
     "slug": "miller-and-son-electro-plating",
-    "status": "up",
+    "status": "down",
     "uptime": "98.51%",
-    "uptimeDay": "95.75%",
-    "uptimeWeek": "98.60%",
-    "uptimeMonth": "96.84%",
+    "uptimeDay": "94.56%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "96.80%",
     "uptimeYear": "97.13%",
     "time": 332,
     "timeDay": 229,
@@ -2054,7 +2057,7 @@
     "timeMonth": 324,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2025-12-09": 66,
+      "2025-12-09": 51,
       "2025-12-11": 37,
       "2025-12-13": 42,
       "2025-12-14": 52,
@@ -2133,7 +2136,8 @@
       "2026-07-07": 125,
       "2026-07-10": 40,
       "2026-07-13": 39,
-      "2026-07-14": 61
+      "2026-07-14": 61,
+      "2026-07-15": 17
     }
   },
   {
@@ -2161,11 +2165,11 @@
     "url": "https://myamerilock.com",
     "icon": "https://icons.duckduckgo.com/ip3/myamerilock.com.ico",
     "slug": "my-amerilock",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "96.08%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "97.11%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "95.22%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "97.08%",
     "uptimeYear": "98.66%",
     "time": 2574,
     "timeDay": 3076,
@@ -2173,7 +2177,7 @@
     "timeMonth": 2574,
     "timeYear": 2757,
     "dailyMinutesDown": {
-      "2025-12-06": 57,
+      "2025-12-06": 35,
       "2025-12-07": 38,
       "2025-12-08": 25,
       "2025-12-09": 51,
@@ -2248,7 +2252,8 @@
       "2026-07-07": 120,
       "2026-07-10": 36,
       "2026-07-13": 34,
-      "2026-07-14": 56
+      "2026-07-14": 56,
+      "2026-07-15": 12
     }
   },
   {
@@ -2591,19 +2596,18 @@
     "url": "https://srft16.com/",
     "icon": "https://icons.duckduckgo.com/ip3/srft16.com.ico",
     "slug": "strategic-response-firearms-training",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "96.41%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "97.24%",
-    "uptimeYear": "98.66%",
+    "uptimeDay": "95.86%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "97.22%",
+    "uptimeYear": "98.67%",
     "time": 426,
     "timeDay": 371,
     "timeWeek": 377,
     "timeMonth": 363,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2025-12-01": 62,
       "2025-12-02": 46,
       "2025-12-03": 26,
       "2025-12-06": 40,
@@ -2680,7 +2684,8 @@
       "2026-07-07": 115,
       "2026-07-10": 31,
       "2026-07-13": 29,
-      "2026-07-14": 52
+      "2026-07-14": 52,
+      "2026-07-15": 8
     }
   },
   {
@@ -2735,10 +2740,10 @@
     "url": "https://szelesas.com",
     "icon": "https://icons.duckduckgo.com/ip3/szelesas.com.ico",
     "slug": "szeles-and-associates",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "96.75%",
-    "uptimeWeek": "99.04%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "99.00%",
     "uptimeMonth": "97.37%",
     "uptimeYear": "98.69%",
     "time": 1113,
@@ -2747,7 +2752,6 @@
     "timeMonth": 522,
     "timeYear": 859,
     "dailyMinutesDown": {
-      "2025-11-24": 17,
       "2025-11-26": 24,
       "2025-12-02": 46,
       "2025-12-03": 26,
@@ -2825,7 +2829,8 @@
       "2026-07-07": 111,
       "2026-07-10": 26,
       "2026-07-13": 25,
-      "2026-07-14": 47
+      "2026-07-14": 47,
+      "2026-07-15": 3
     }
   },
   {
