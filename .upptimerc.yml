@@ -4,8 +4,6 @@ repo: uptime # The name of this repository
 sites:
   - name: "Alliance Computers"
     url: https://alliancecomp.com
-  - name: "Access Bus & Van"
-    url: https://accessbusandvan.net
   - name: "Allied Group PA"
     url: https://alliedgrouppa.com
   - name: "Anderson Pro Painting"
