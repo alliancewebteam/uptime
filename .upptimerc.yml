@@ -6,8 +6,6 @@ sites:
     url: https://alliancecomp.com
   - name: "Allied Group PA"
     url: https://alliedgrouppa.com
-  - name: "Anderson Pro Painting"
-    url: https://andersonpropainting.com
   - name: "A Plus Mortgage Solutions"
     url: https://aplusmortgagesolutions.com
   - name: "Arthrex Lancaster"
@@ -16,6 +14,10 @@ sites:
     url: https://arthrex-newyorkcity.com
   - name: "Aztec Rental Services"
     url: https://aztecrentalservices.com
+  - name: "Be Inspired Salon"
+    url: https://beinspiredsalonpa.com
+  - name: "Boswell, Tinter, Piccola LLC"
+    url: https://btpalaw.com
   - name: "Boyo Transportation"
     url: https://boyotrans.com
   - name: "Bricks & Sticks Title Agency"
@@ -24,22 +26,34 @@ sites:
     url: https://buchergroup.com
   - name: "Buckland Sales"
     url: https://bucklandsales.com
+  - name: "Cantate Carlisle"
+    url: https://cantatecarlisle.org
   - name: "Carlisle Theatre"
     url: https://carlisletheatre.org
+  - name: "Capital Hospitality Services"
+    url: chshotelrenovations.com
   - name: "Capital Senior Services LLC"
     url: https://capitalseniorservices.com
   - name: "Carpe Diem Nutrition"
     url: https://carpediemnutrition.com
   - name: "Center For Independent Living"
     url: https://cilofyaf.org
+  - name: "Christ Evangelical Lutheran Church"
+    url: https://churchonthehilltop.org
   - name: "Christ Presbyterian Church"
     url: https://christchurchcamphill.org
   - name: "Control Systems 21"
     url: https://controlsystems21.com
+  - name: "Compassionate Communications"
+    url: https://compassionatecommunications.net
   - name: "County Seat Self Storage"
     url: https://www.countyseatselfstorage.com
+  - name: "CMB Contracting"
+    url: https://cmbcontractingservices.com
   - name: "Critter Control"
     url: https://crittercontrolcentralpa.com
+  - name: "Dani's Pixel Place"
+    url: https://danispixelplace.com
   - name: "Debi Vreeland Insurance"
     url: https://debivreelandinsurance.com
   - name: "Dream Home Realty"
@@ -50,6 +64,8 @@ sites:
     url: https://fandmdesigns.com
   - name: "Fortney Printing"
     url: https://fortneyprinting.com
+  - name: "Generation Bank"
+    url: https://generationbankpa.com
   - name: "GES America"
     url: https://ges-america.com
   - name: "Guth Laboratories"
@@ -76,6 +92,8 @@ sites:
     url: https://jazdesignco.com
   - name: "John Jewett"
     url: https://jhowardcahill.com
+  - name: "JM Mechanical LLC"
+    url: https://jmmechanicalllc.com
   - name: "Juniper Environmental"
     url: https://juniperenviro.com
   - name: "K Crew Hauling"
@@ -84,11 +102,17 @@ sites:
     url: https://ktravels.org
   - name: "The Law Office of Susan Smith"
     url: https://sjsmithlaw.com
+  - name: "Lets Talk Rockabilly"
+    url: https://letstalkrockabilly.com
+  - name: "Long and Strong Thrower's Club"
+    url: https://longandstrong.com
+  - name: "Luhrs Center"
+    url: https://luhrscenter.com
   - name: "Machining America"
     url: https://machiningamerica.com
   - name: "Mason Dixon Distillery"
     url: https://masondixondistillery.com
-  - name: "Melissa Mueller"
+  - name: "Melissa Mueller McCullough"
     url: https://smartloanadvisor.com
   - name: "Miller & Son Electro-Plating"
     url: https://millerplatingnj.com
@@ -96,6 +120,8 @@ sites:
     url: https://callmrsandman.com
   - name: "My Amerilock"
     url: https://myamerilock.com
+  - name: "My Identity First"
+    url: https://myidentityfirst.com
   - name: "PrimeFyre LLC"
     url: https://primefyre.com
   - name: "Ramsey's Payment Pros"
@@ -104,6 +130,8 @@ sites:
     url: https://reachformore.fit
   - name: "Redd's Smokehouse BBQ"
     url: https://reddssmokehousebbq.com
+  - name: "Redd's Smokehouse BBQ"
+    url: https://robinsdocksideshop.com
   - name: "Ruthcliffe Lodge & Restaurant"
     url: https://ruthcliffe.com
   - name: "Remod Squad"
@@ -112,12 +140,24 @@ sites:
     url: https://ssfadvocates.com
   - name: "Savannah's on Hanna"
     url: https://sohclub.com
-  - name: "Stone and Edwards"
-    url: https://stoneandedwards.com
+  - name: "Sebastian Electric LLC"
+    url: https://sebastian-electric.com
+  - name: "Shepherd's Driver Consulting"
+    url: https://shepherdsdriverconsulting.com
+  - name: "Shippensburg News"
+    url: https://news.ship.edu
+  - name: "Shippensburg University 150th Anniversary"
+    url: https://150.ship.edu
+  - name: "Sirianna Therapy"
+    url: https://siriannatherapy.com
+  - name: "SSF Advocates"
+    url: https://ssfadvocates.com
   - name: "Strategic Response Firearms Training"
     url: https://srft16.com/
   - name: "Strube Inc."
     url: https://strubeinc.net
+  - name: "Summerdale Apartments"
+    url: https://summerdaleapartments.com
   - name: "Szeles and Associates"
     url: https://szelesas.com
   - name: "The Meadows Pet Resort"
