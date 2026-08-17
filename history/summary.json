@@ -24,17 +24,17 @@
     "url": "https://alliedgrouppa.com",
     "icon": "https://icons.duckduckgo.com/ip3/alliedgrouppa.com.ico",
     "slug": "allied-group-pa",
-    "status": "down",
+    "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.79%",
-    "time": 482,
-    "timeDay": 29471,
-    "timeWeek": 8204,
-    "timeMonth": 2804,
-    "timeYear": 558,
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "98.78%",
+    "time": 483,
+    "timeDay": 20033,
+    "timeWeek": 7421,
+    "timeMonth": 2757,
+    "timeYear": 560,
     "dailyMinutesDown": {
       "2025-11-21": 42,
       "2025-11-22": 17,
@@ -107,7 +107,7 @@
       "2026-04-24": 132,
       "2026-04-28": 103,
       "2026-05-06": 228,
-      "2026-08-17": 1
+      "2026-08-17": 35
     }
   },
   {
@@ -136,11 +136,11 @@
     "url": "https://arthrex-lancaster.com",
     "icon": "https://icons.duckduckgo.com/ip3/arthrex-lancaster.com.ico",
     "slug": "arthrex-lancaster",
-    "status": "up",
+    "status": "down",
     "uptime": "97.92%",
-    "uptimeDay": "97.58%",
-    "uptimeWeek": "97.73%",
-    "uptimeMonth": "97.09%",
+    "uptimeDay": "95.48%",
+    "uptimeWeek": "97.43%",
+    "uptimeMonth": "97.02%",
     "uptimeYear": "97.92%",
     "time": 1572,
     "timeDay": 3682,
@@ -148,7 +148,6 @@
     "timeMonth": 2056,
     "timeYear": 1572,
     "dailyMinutesDown": {
-      "2026-02-19": 15,
       "2026-02-20": 47,
       "2026-02-21": 92,
       "2026-02-22": 49,
@@ -225,7 +224,7 @@
       "2026-08-14": 70,
       "2026-08-15": 35,
       "2026-08-16": 69,
-      "2026-08-17": 1
+      "2026-08-17": 31
     }
   },
   {
@@ -233,12 +232,12 @@
     "url": "https://arthrex-newyorkcity.com",
     "icon": "https://icons.duckduckgo.com/ip3/arthrex-newyorkcity.com.ico",
     "slug": "arthrex-new-york-city",
-    "status": "up",
-    "uptime": "97.34%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "97.97%",
-    "uptimeMonth": "97.34%",
-    "uptimeYear": "97.34%",
+    "status": "down",
+    "uptime": "97.28%",
+    "uptimeDay": "96.15%",
+    "uptimeWeek": "97.72%",
+    "uptimeMonth": "97.28%",
+    "uptimeYear": "97.28%",
     "time": 455,
     "timeDay": 622,
     "timeWeek": 491,
@@ -256,7 +255,7 @@
       "2026-08-14": 65,
       "2026-08-15": 30,
       "2026-08-16": 59,
-      "2026-08-17": 1
+      "2026-08-17": 26
     }
   },
   {
@@ -292,7 +291,7 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "69.84%",
+    "uptimeMonth": "70.10%",
     "uptimeYear": "0.00%",
     "time": 294,
     "timeDay": 162,
@@ -1966,19 +1965,18 @@
     "url": "https://jazdesignco.com",
     "icon": "https://icons.duckduckgo.com/ip3/jazdesignco.com.ico",
     "slug": "jaz-design-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "98.14%",
+    "uptimeDay": "96.70%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "98.09%",
     "uptimeYear": "98.69%",
-    "time": 1293,
+    "time": 1294,
     "timeDay": 701,
     "timeWeek": 483,
     "timeMonth": 410,
     "timeYear": 1505,
     "dailyMinutesDown": {
-      "2026-01-19": 24,
       "2026-01-20": 107,
       "2026-01-21": 22,
       "2026-01-22": 40,
@@ -2058,7 +2056,7 @@
       "2026-08-14": 60,
       "2026-08-15": 25,
       "2026-08-16": 49,
-      "2026-08-17": 1
+      "2026-08-17": 23
     }
   },
   {
@@ -2066,19 +2064,18 @@
     "url": "https://jhowardcahill.com",
     "icon": "https://icons.duckduckgo.com/ip3/jhowardcahill.com.ico",
     "slug": "john-jewett",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "98.46%",
-    "uptimeMonth": "97.64%",
-    "uptimeYear": "98.58%",
-    "time": 1132,
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "97.60%",
+    "uptimeYear": "98.59%",
+    "time": 1107,
     "timeDay": 1219,
     "timeWeek": 963,
     "timeMonth": 1671,
     "timeYear": 1148,
     "dailyMinutesDown": {
-      "2026-02-17": 55,
       "2026-02-20": 46,
       "2026-02-21": 85,
       "2026-02-22": 48,
@@ -2155,7 +2152,7 @@
       "2026-08-14": 55,
       "2026-08-15": 20,
       "2026-08-16": 39,
-      "2026-08-17": 1
+      "2026-08-17": 19
     }
   },
   {
@@ -2221,12 +2218,12 @@
     "url": "https://ktravels.org",
     "icon": "https://icons.duckduckgo.com/ip3/ktravels.org.ico",
     "slug": "k-travels",
-    "status": "up",
-    "uptime": "98.16%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "98.16%",
+    "status": "down",
+    "uptime": "98.13%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "98.13%",
+    "uptimeYear": "98.13%",
     "time": 1673,
     "timeDay": 2385,
     "timeWeek": 2179,
@@ -2243,7 +2240,7 @@
       "2026-08-14": 51,
       "2026-08-15": 15,
       "2026-08-16": 29,
-      "2026-08-17": 1
+      "2026-08-17": 14
     }
   },
   {
@@ -3057,12 +3054,12 @@
     "url": "https://150.ship.edu",
     "icon": "https://icons.duckduckgo.com/ip3/150.ship.edu.ico",
     "slug": "shippensburg-university-150th-anniversary",
-    "status": "up",
-    "uptime": "98.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "98.26%",
-    "uptimeYear": "98.26%",
+    "status": "down",
+    "uptime": "98.24%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "98.24%",
+    "uptimeYear": "98.24%",
     "time": 570,
     "timeDay": 780,
     "timeWeek": 681,
@@ -3075,7 +3072,8 @@
       "2026-08-02": 34,
       "2026-08-03": 86,
       "2026-08-12": 29,
-      "2026-08-14": 46
+      "2026-08-14": 46,
+      "2026-08-17": 9
     }
   },
   {
@@ -3405,7 +3403,7 @@
     "slug": "united-sustainable-ag",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "98.33%",
+    "uptimeDay": "99.49%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.36%",
@@ -3610,19 +3608,19 @@
     "url": "https://woodburn-law.com",
     "icon": "https://icons.duckduckgo.com/ip3/woodburn-law.com.ico",
     "slug": "woodburn-law",
-    "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "98.19%",
-    "uptimeYear": "98.39%",
+    "status": "down",
+    "uptime": "99.21%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "98.18%",
+    "uptimeYear": "98.41%",
     "time": 617,
     "timeDay": 416,
     "timeWeek": 308,
     "timeMonth": 328,
     "timeYear": 447,
     "dailyMinutesDown": {
-      "2026-02-09": 151,
+      "2026-02-09": 37,
       "2026-02-11": 59,
       "2026-02-12": 129,
       "2026-02-13": 46,
@@ -3698,7 +3696,8 @@
       "2026-08-02": 30,
       "2026-08-03": 81,
       "2026-08-12": 24,
-      "2026-08-14": 41
+      "2026-08-14": 41,
+      "2026-08-17": 4
     }
   },
   {
