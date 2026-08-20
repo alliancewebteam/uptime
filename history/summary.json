@@ -27,9 +27,9 @@
     "status": "up",
     "uptime": "99.09%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "66.42%",
-    "uptimeMonth": "92.27%",
-    "uptimeYear": "98.16%",
+    "uptimeWeek": "65.75%",
+    "uptimeMonth": "92.12%",
+    "uptimeYear": "98.14%",
     "time": 591,
     "timeDay": 1459,
     "timeWeek": 10431,
@@ -106,7 +106,7 @@
       "2026-04-28": 103,
       "2026-05-06": 228,
       "2026-08-17": 441,
-      "2026-08-20": 64,
+      "2026-08-20": 132,
       "2026-08-19": 1440,
       "2026-08-18": 1440
     }
@@ -293,7 +293,7 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.78%",
+    "uptimeMonth": "82.99%",
     "uptimeYear": "0.00%",
     "time": 292,
     "timeDay": 546,
@@ -548,13 +548,13 @@
     "url": "https://boyotrans.com",
     "icon": "https://icons.duckduckgo.com/ip3/boyotrans.com.ico",
     "slug": "boyo-transportation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "94.17%",
-    "uptimeWeek": "91.66%",
+    "uptimeDay": "94.09%",
+    "uptimeWeek": "91.65%",
     "uptimeMonth": "98.08%",
     "uptimeYear": "99.81%",
-    "time": 755,
+    "time": 756,
     "timeDay": 565,
     "timeWeek": 618,
     "timeMonth": 670,
@@ -566,7 +566,7 @@
       "2026-08-14": 164,
       "2026-08-13": 592,
       "2026-08-19": 43,
-      "2026-08-20": 41
+      "2026-08-20": 42
     }
   },
   {
