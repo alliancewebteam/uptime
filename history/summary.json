@@ -28,8 +28,8 @@
     "uptime": "98.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "73.19%",
-    "uptimeYear": "96.57%",
+    "uptimeMonth": "73.15%",
+    "uptimeYear": "96.56%",
     "time": 598,
     "timeDay": 1228,
     "timeWeek": 1248,
@@ -106,7 +106,7 @@
       "2026-04-28": 103,
       "2026-05-06": 228,
       "2026-08-17": 441,
-      "2026-08-25": 1223,
+      "2026-08-25": 1241,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
@@ -2402,7 +2402,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/millerplatingnj.com.ico",
     "slug": "miller-and-son-electro-plating",
     "status": "up",
-    "uptime": "98.57%",
+    "uptime": "98.58%",
     "uptimeDay": "96.36%",
     "uptimeWeek": "99.26%",
     "uptimeMonth": "99.38%",
@@ -3141,9 +3141,9 @@
     "slug": "strategic-response-firearms-training",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "97.71%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "98.63%",
     "time": 419,
     "timeDay": 408,
@@ -3151,6 +3151,7 @@
     "timeMonth": 355,
     "timeYear": 403,
     "dailyMinutesDown": {
+      "2025-12-07": 17,
       "2025-12-08": 25,
       "2025-12-09": 50,
       "2025-12-11": 36,
@@ -3229,7 +3230,7 @@
       "2026-07-26": 67,
       "2026-08-11": 32,
       "2026-08-13": 19,
-      "2026-08-25": 33
+      "2026-08-25": 22
     }
   },
   {
@@ -3302,16 +3303,16 @@
     "url": "https://szelesas.com",
     "icon": "https://icons.duckduckgo.com/ip3/szelesas.com.ico",
     "slug": "szeles-and-associates",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "98.65%",
-    "time": 966,
-    "timeDay": 518,
-    "timeWeek": 601,
-    "timeMonth": 568,
+    "time": 965,
+    "timeDay": 487,
+    "timeWeek": 582,
+    "timeMonth": 564,
     "timeYear": 718,
     "dailyMinutesDown": {
       "2025-12-07": 36,
@@ -3392,7 +3393,7 @@
       "2026-07-23": 97,
       "2026-07-26": 67,
       "2026-08-11": 28,
-      "2026-08-25": 23
+      "2026-08-25": 20
     }
   },
   {
