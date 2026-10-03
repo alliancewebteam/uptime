@@ -28,7 +28,7 @@
     "uptime": "96.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.88%",
+    "uptimeMonth": "81.28%",
     "uptimeYear": "92.52%",
     "time": 741,
     "timeDay": 1252,
@@ -620,7 +620,7 @@
     "timeDay": 84,
     "timeWeek": 210,
     "timeMonth": 204,
-    "timeYear": 398,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2025-11-18": 199,
       "2025-12-08": 18,
@@ -937,7 +937,7 @@
     "timeDay": 80,
     "timeWeek": 164,
     "timeMonth": 207,
-    "timeYear": 758,
+    "timeYear": 753,
     "dailyMinutesDown": {
       "2025-10-04": 28,
       "2025-10-05": 23,
@@ -1527,7 +1527,7 @@
     "timeDay": 163,
     "timeWeek": 194,
     "timeMonth": 158,
-    "timeYear": 586,
+    "timeYear": 585,
     "dailyMinutesDown": {
       "2025-10-04": 27,
       "2025-10-05": 22,
@@ -1812,7 +1812,7 @@
     "timeDay": 184,
     "timeWeek": 243,
     "timeMonth": 290,
-    "timeYear": 718,
+    "timeYear": 716,
     "dailyMinutesDown": {
       "2025-10-04": 26,
       "2025-10-05": 21,
@@ -2045,7 +2045,7 @@
     "timeDay": 777,
     "timeWeek": 949,
     "timeMonth": 1012,
-    "timeYear": 1172,
+    "timeYear": 1173,
     "dailyMinutesDown": {
       "2026-03-02": 19,
       "2026-03-03": 30,
@@ -3377,16 +3377,16 @@
     "url": "https://unitedsustainableag.com",
     "icon": "https://icons.duckduckgo.com/ip3/unitedsustainableag.com.ico",
     "slug": "united-sustainable-ag",
-    "status": "down",
-    "uptime": "99.00%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "97.63%",
-    "uptimeYear": "99.00%",
+    "status": "up",
+    "uptime": "98.92%",
+    "uptimeDay": "87.87%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "97.24%",
+    "uptimeYear": "98.92%",
     "time": 450,
-    "timeDay": 442,
-    "timeWeek": 903,
-    "timeMonth": 638,
+    "timeDay": 434,
+    "timeWeek": 843,
+    "timeMonth": 632,
     "timeYear": 450,
     "dailyMinutesDown": {
       "2026-06-25": 427,
@@ -3411,7 +3411,7 @@
       "2026-09-13": 277,
       "2026-09-21": 17,
       "2026-09-25": 194,
-      "2026-10-03": 4
+      "2026-10-03": 175
     }
   },
   {
@@ -3429,7 +3429,7 @@
     "timeDay": 92,
     "timeWeek": 132,
     "timeMonth": 176,
-    "timeYear": 654,
+    "timeYear": 653,
     "dailyMinutesDown": {
       "2025-10-04": 24,
       "2025-10-05": 18,
