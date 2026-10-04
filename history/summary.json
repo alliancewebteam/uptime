@@ -28,7 +28,7 @@
     "uptime": "96.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.84%",
+    "uptimeMonth": "82.09%",
     "uptimeYear": "92.52%",
     "time": 743,
     "timeDay": 1157,
@@ -3019,11 +3019,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/150.ship.edu.ico",
     "slug": "shippensburg-university-150th-anniversary",
     "status": "up",
-    "uptime": "97.91%",
+    "uptime": "97.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.99%",
     "uptimeMonth": "97.45%",
-    "uptimeYear": "97.91%",
+    "uptimeYear": "97.92%",
     "time": 603,
     "timeDay": 335,
     "timeWeek": 420,
@@ -3089,9 +3089,9 @@
     "slug": "strategic-response-firearms-training",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.63%",
     "time": 414,
     "timeDay": 403,
@@ -3099,6 +3099,7 @@
     "timeMonth": 348,
     "timeYear": 401,
     "dailyMinutesDown": {
+      "2025-12-07": 17,
       "2025-12-08": 25,
       "2025-12-09": 50,
       "2025-12-11": 36,
@@ -3177,8 +3178,7 @@
       "2026-07-26": 67,
       "2026-08-11": 32,
       "2026-08-13": 19,
-      "2026-08-25": 22,
-      "2026-10-04": 14
+      "2026-08-25": 22
     }
   },
   {
@@ -3253,9 +3253,9 @@
     "slug": "szeles-and-associates",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.65%",
     "time": 917,
     "timeDay": 717,
@@ -3263,7 +3263,7 @@
     "timeMonth": 486,
     "timeYear": 567,
     "dailyMinutesDown": {
-      "2025-12-07": 17,
+      "2025-12-07": 36,
       "2025-12-08": 24,
       "2025-12-09": 34,
       "2025-12-11": 36,
@@ -3341,8 +3341,7 @@
       "2026-07-23": 97,
       "2026-07-26": 67,
       "2026-08-11": 28,
-      "2026-08-25": 41,
-      "2026-10-04": 9
+      "2026-08-25": 41
     }
   },
   {
