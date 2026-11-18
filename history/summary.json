@@ -13,10 +13,9 @@
     "time": 883,
     "timeDay": 150,
     "timeWeek": 795,
-    "timeMonth": 1595,
-    "timeYear": 1083,
+    "timeMonth": 1537,
+    "timeYear": 1086,
     "dailyMinutesDown": {
-      "2025-11-18": 176,
       "2026-10-16": 301
     }
   },
@@ -28,14 +27,14 @@
     "status": "up",
     "uptime": "96.11%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.98%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "83.23%",
     "uptimeYear": "91.13%",
     "time": 808,
     "timeDay": 946,
-    "timeWeek": 1139,
+    "timeWeek": 1131,
     "timeMonth": 1171,
-    "timeYear": 988,
+    "timeYear": 989,
     "dailyMinutesDown": {
       "2025-12-02": 51,
       "2025-12-03": 31,
@@ -152,10 +151,9 @@
     "time": 251,
     "timeDay": 152,
     "timeWeek": 208,
-    "timeMonth": 286,
+    "timeMonth": 291,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2025-11-18": 186,
       "2025-12-08": 26
     }
   },
@@ -173,7 +171,7 @@
     "time": 1662,
     "timeDay": 2091,
     "timeWeek": 2071,
-    "timeMonth": 1939,
+    "timeMonth": 1938,
     "timeYear": 1662,
     "dailyMinutesDown": {
       "2026-03-07": 27,
@@ -278,7 +276,7 @@
     "time": 462,
     "timeDay": 540,
     "timeWeek": 437,
-    "timeMonth": 473,
+    "timeMonth": 478,
     "timeYear": 462,
     "dailyMinutesDown": {
       "2026-07-23": 151,
@@ -327,10 +325,9 @@
     "time": 254,
     "timeDay": 151,
     "timeWeek": 147,
-    "timeMonth": 172,
+    "timeMonth": 175,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-11-18": 199,
       "2025-12-15": 31
     }
   },
@@ -348,10 +345,9 @@
     "time": 200,
     "timeDay": 132,
     "timeWeek": 204,
-    "timeMonth": 203,
-    "timeYear": 195,
+    "timeMonth": 206,
+    "timeYear": 196,
     "dailyMinutesDown": {
-      "2025-11-18": 119,
       "2025-12-02": 23,
       "2026-07-24": 862,
       "2026-07-23": 1440,
@@ -589,7 +585,7 @@
     "time": 163,
     "timeDay": 486,
     "timeWeek": 197,
-    "timeMonth": 173,
+    "timeMonth": 175,
     "timeYear": 163,
     "dailyMinutesDown": {}
   },
@@ -607,7 +603,7 @@
     "time": 778,
     "timeDay": 1331,
     "timeWeek": 1095,
-    "timeMonth": 1321,
+    "timeMonth": 1337,
     "timeYear": 757,
     "dailyMinutesDown": {
       "2026-04-22": 68,
@@ -634,10 +630,9 @@
     "time": 607,
     "timeDay": 152,
     "timeWeek": 162,
-    "timeMonth": 215,
-    "timeYear": 248,
+    "timeMonth": 219,
+    "timeYear": 246,
     "dailyMinutesDown": {
-      "2025-11-18": 199,
       "2025-12-08": 18,
       "2025-12-09": 30
     }
@@ -656,8 +651,8 @@
     "time": 2255,
     "timeDay": 948,
     "timeWeek": 2954,
-    "timeMonth": 2571,
-    "timeYear": 2374,
+    "timeMonth": 2622,
+    "timeYear": 2372,
     "dailyMinutesDown": {
       "2025-12-26": 22,
       "2025-12-27": 16,
@@ -756,8 +751,8 @@
     "time": 412,
     "timeDay": 220,
     "timeWeek": 323,
-    "timeMonth": 372,
-    "timeYear": 397,
+    "timeMonth": 371,
+    "timeYear": 396,
     "dailyMinutesDown": {
       "2025-12-23": 18,
       "2025-12-24": 26,
@@ -855,7 +850,7 @@
     "time": 723,
     "timeDay": 126,
     "timeWeek": 407,
-    "timeMonth": 595,
+    "timeMonth": 609,
     "timeYear": 723,
     "dailyMinutesDown": {}
   },
@@ -873,11 +868,9 @@
     "time": 897,
     "timeDay": 2720,
     "timeWeek": 1643,
-    "timeMonth": 884,
+    "timeMonth": 910,
     "timeYear": 666,
-    "dailyMinutesDown": {
-      "2025-11-18": 125
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Capital Hospitality Services",
@@ -893,7 +886,7 @@
     "time": 297,
     "timeDay": 400,
     "timeWeek": 186,
-    "timeMonth": 274,
+    "timeMonth": 279,
     "timeYear": 297,
     "dailyMinutesDown": {}
   },
@@ -911,10 +904,9 @@
     "time": 273,
     "timeDay": 147,
     "timeWeek": 326,
-    "timeMonth": 209,
+    "timeMonth": 214,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2025-11-18": 150,
       "2026-09-02": 151
     }
   },
@@ -932,10 +924,9 @@
     "time": 387,
     "timeDay": 158,
     "timeWeek": 172,
-    "timeMonth": 206,
+    "timeMonth": 208,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2025-11-18": 98,
       "2025-11-24": 31
     }
   },
@@ -953,8 +944,8 @@
     "time": 720,
     "timeDay": 342,
     "timeWeek": 212,
-    "timeMonth": 249,
-    "timeYear": 466,
+    "timeMonth": 255,
+    "timeYear": 464,
     "dailyMinutesDown": {
       "2025-11-19": 18,
       "2025-11-21": 19,
@@ -1019,7 +1010,7 @@
     "time": 527,
     "timeDay": 2259,
     "timeWeek": 908,
-    "timeMonth": 589,
+    "timeMonth": 597,
     "timeYear": 527,
     "dailyMinutesDown": {}
   },
@@ -1037,11 +1028,9 @@
     "time": 1349,
     "timeDay": 1589,
     "timeWeek": 493,
-    "timeMonth": 607,
-    "timeYear": 1212,
-    "dailyMinutesDown": {
-      "2025-11-18": 172
-    }
+    "timeMonth": 624,
+    "timeYear": 1211,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Control Systems 21",
@@ -1057,7 +1046,7 @@
     "time": 272,
     "timeDay": 130,
     "timeWeek": 144,
-    "timeMonth": 157,
+    "timeMonth": 160,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2026-04-04": 177,
@@ -1105,7 +1094,7 @@
     "time": 268,
     "timeDay": 513,
     "timeWeek": 376,
-    "timeMonth": 264,
+    "timeMonth": 270,
     "timeYear": 268,
     "dailyMinutesDown": {}
   },
@@ -1123,7 +1112,7 @@
     "time": 408,
     "timeDay": 450,
     "timeWeek": 319,
-    "timeMonth": 327,
+    "timeMonth": 329,
     "timeYear": 394,
     "dailyMinutesDown": {
       "2026-02-04": 32,
@@ -1145,7 +1134,7 @@
     "time": 374,
     "timeDay": 1127,
     "timeWeek": 506,
-    "timeMonth": 530,
+    "timeMonth": 544,
     "timeYear": 374,
     "dailyMinutesDown": {}
   },
@@ -1163,11 +1152,9 @@
     "time": 527,
     "timeDay": 144,
     "timeWeek": 910,
-    "timeMonth": 798,
-    "timeYear": 641,
-    "dailyMinutesDown": {
-      "2025-11-18": 128
-    }
+    "timeMonth": 759,
+    "timeYear": 643,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dani's Pixel Place",
@@ -1183,7 +1170,7 @@
     "time": 358,
     "timeDay": 464,
     "timeWeek": 347,
-    "timeMonth": 353,
+    "timeMonth": 358,
     "timeYear": 358,
     "dailyMinutesDown": {}
   },
@@ -1201,8 +1188,8 @@
     "time": 304,
     "timeDay": 500,
     "timeWeek": 277,
-    "timeMonth": 263,
-    "timeYear": 285,
+    "timeMonth": 268,
+    "timeYear": 283,
     "dailyMinutesDown": {
       "2026-02-05": 151,
       "2026-02-06": 30,
@@ -1255,10 +1242,9 @@
     "time": 197,
     "timeDay": 556,
     "timeWeek": 207,
-    "timeMonth": 206,
-    "timeYear": 182,
+    "timeMonth": 208,
+    "timeYear": 183,
     "dailyMinutesDown": {
-      "2025-11-18": 108,
       "2026-04-21": 67,
       "2026-05-06": 235
     }
@@ -1277,11 +1263,9 @@
     "time": 246,
     "timeDay": 151,
     "timeWeek": 297,
-    "timeMonth": 433,
+    "timeMonth": 444,
     "timeYear": 242,
-    "dailyMinutesDown": {
-      "2025-11-18": 146
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "F&M Designs",
@@ -1297,10 +1281,9 @@
     "time": 201,
     "timeDay": 140,
     "timeWeek": 252,
-    "timeMonth": 199,
+    "timeMonth": 202,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-11-18": 64,
       "2025-12-17": 18,
       "2026-01-13": 93
     }
@@ -1319,8 +1302,8 @@
     "time": 1020,
     "timeDay": 376,
     "timeWeek": 504,
-    "timeMonth": 575,
-    "timeYear": 1041,
+    "timeMonth": 579,
+    "timeYear": 1042,
     "dailyMinutesDown": {
       "2025-12-19": 249,
       "2025-12-20": 124,
@@ -1406,7 +1389,7 @@
     "time": 371,
     "timeDay": 1069,
     "timeWeek": 550,
-    "timeMonth": 464,
+    "timeMonth": 476,
     "timeYear": 371,
     "dailyMinutesDown": {}
   },
@@ -1424,7 +1407,7 @@
     "time": 348,
     "timeDay": 445,
     "timeWeek": 339,
-    "timeMonth": 309,
+    "timeMonth": 312,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2025-11-22": 27,
@@ -1506,8 +1489,8 @@
     "time": 529,
     "timeDay": 128,
     "timeWeek": 141,
-    "timeMonth": 193,
-    "timeYear": 329,
+    "timeMonth": 196,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2025-11-19": 17,
       "2025-11-21": 18,
@@ -1542,10 +1525,9 @@
     "time": 382,
     "timeDay": 294,
     "timeWeek": 793,
-    "timeMonth": 803,
-    "timeYear": 422,
+    "timeMonth": 825,
+    "timeYear": 423,
     "dailyMinutesDown": {
-      "2025-11-18": 213,
       "2026-03-04": 40,
       "2026-04-21": 69
     }
@@ -1564,11 +1546,9 @@
     "time": 332,
     "timeDay": 131,
     "timeWeek": 154,
-    "timeMonth": 459,
+    "timeMonth": 375,
     "timeYear": 302,
-    "dailyMinutesDown": {
-      "2025-11-18": 147
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Grove Miller Engineering",
@@ -1584,7 +1564,7 @@
     "time": 257,
     "timeDay": 122,
     "timeWeek": 203,
-    "timeMonth": 229,
+    "timeMonth": 228,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2025-12-23": 37,
@@ -1682,8 +1662,8 @@
     "time": 314,
     "timeDay": 202,
     "timeWeek": 414,
-    "timeMonth": 312,
-    "timeYear": 268,
+    "timeMonth": 317,
+    "timeYear": 269,
     "dailyMinutesDown": {}
   },
   {
@@ -1700,7 +1680,7 @@
     "time": 229,
     "timeDay": 341,
     "timeWeek": 157,
-    "timeMonth": 226,
+    "timeMonth": 228,
     "timeYear": 211,
     "dailyMinutesDown": {}
   },
@@ -1718,10 +1698,9 @@
     "time": 723,
     "timeDay": 2378,
     "timeWeek": 826,
-    "timeMonth": 476,
-    "timeYear": 373,
+    "timeMonth": 488,
+    "timeYear": 371,
     "dailyMinutesDown": {
-      "2025-11-18": 186,
       "2025-12-18": 17
     }
   },
@@ -1739,11 +1718,9 @@
     "time": 139,
     "timeDay": 154,
     "timeWeek": 141,
-    "timeMonth": 141,
+    "timeMonth": 143,
     "timeYear": 133,
-    "dailyMinutesDown": {
-      "2025-11-18": 207
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Impact Harrisburg",
@@ -1759,8 +1736,8 @@
     "time": 699,
     "timeDay": 2079,
     "timeWeek": 702,
-    "timeMonth": 705,
-    "timeYear": 514,
+    "timeMonth": 726,
+    "timeYear": 512,
     "dailyMinutesDown": {
       "2025-11-19": 17,
       "2025-11-21": 17,
@@ -1795,7 +1772,7 @@
     "time": 433,
     "timeDay": 251,
     "timeWeek": 298,
-    "timeMonth": 293,
+    "timeMonth": 298,
     "timeYear": 365,
     "dailyMinutesDown": {
       "2025-11-19": 16,
@@ -1831,8 +1808,8 @@
     "time": 1310,
     "timeDay": 534,
     "timeWeek": 381,
-    "timeMonth": 516,
-    "timeYear": 1509,
+    "timeMonth": 524,
+    "timeYear": 1512,
     "dailyMinutesDown": {
       "2026-01-26": 25,
       "2026-01-27": 67,
@@ -1940,8 +1917,8 @@
     "time": 1199,
     "timeDay": 229,
     "timeWeek": 329,
-    "timeMonth": 1403,
-    "timeYear": 1255,
+    "timeMonth": 1401,
+    "timeYear": 1257,
     "dailyMinutesDown": {
       "2026-03-07": 27,
       "2026-03-08": 56,
@@ -2044,7 +2021,7 @@
     "time": 367,
     "timeDay": 1189,
     "timeWeek": 287,
-    "timeMonth": 352,
+    "timeMonth": 361,
     "timeYear": 367,
     "dailyMinutesDown": {}
   },
@@ -2062,11 +2039,9 @@
     "time": 202,
     "timeDay": 165,
     "timeWeek": 418,
-    "timeMonth": 335,
-    "timeYear": 205,
-    "dailyMinutesDown": {
-      "2025-11-18": 197
-    }
+    "timeMonth": 343,
+    "timeYear": 206,
+    "dailyMinutesDown": {}
   },
   {
     "name": "K Crew Hauling",
@@ -2082,11 +2057,9 @@
     "time": 266,
     "timeDay": 381,
     "timeWeek": 318,
-    "timeMonth": 282,
+    "timeMonth": 289,
     "timeYear": 287,
-    "dailyMinutesDown": {
-      "2025-11-18": 119
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "K Travels",
@@ -2102,7 +2075,7 @@
     "time": 1766,
     "timeDay": 2324,
     "timeWeek": 2062,
-    "timeMonth": 1929,
+    "timeMonth": 1935,
     "timeYear": 1766,
     "dailyMinutesDown": {
       "2026-07-23": 117,
@@ -2147,11 +2120,9 @@
     "time": 251,
     "timeDay": 572,
     "timeWeek": 417,
-    "timeMonth": 385,
+    "timeMonth": 390,
     "timeYear": 267,
-    "dailyMinutesDown": {
-      "2025-11-18": 163
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lets Talk Rockabilly",
@@ -2167,7 +2138,7 @@
     "time": 1261,
     "timeDay": 1850,
     "timeWeek": 1842,
-    "timeMonth": 1611,
+    "timeMonth": 1650,
     "timeYear": 1261,
     "dailyMinutesDown": {}
   },
@@ -2185,7 +2156,7 @@
     "time": 335,
     "timeDay": 2143,
     "timeWeek": 427,
-    "timeMonth": 334,
+    "timeMonth": 341,
     "timeYear": 335,
     "dailyMinutesDown": {}
   },
@@ -2203,7 +2174,7 @@
     "time": 522,
     "timeDay": 541,
     "timeWeek": 346,
-    "timeMonth": 338,
+    "timeMonth": 341,
     "timeYear": 522,
     "dailyMinutesDown": {
       "2026-07-29": 162
@@ -2223,11 +2194,9 @@
     "time": 497,
     "timeDay": 1333,
     "timeWeek": 875,
-    "timeMonth": 686,
-    "timeYear": 576,
-    "dailyMinutesDown": {
-      "2025-11-18": 175
-    }
+    "timeMonth": 705,
+    "timeYear": 577,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mason Dixon Distillery",
@@ -2243,7 +2212,7 @@
     "time": 1230,
     "timeDay": 172,
     "timeWeek": 664,
-    "timeMonth": 1080,
+    "timeMonth": 1112,
     "timeYear": 1230,
     "dailyMinutesDown": {}
   },
@@ -2261,7 +2230,7 @@
     "time": 735,
     "timeDay": 1718,
     "timeWeek": 1057,
-    "timeMonth": 767,
+    "timeMonth": 789,
     "timeYear": 735,
     "dailyMinutesDown": {}
   },
@@ -2279,7 +2248,7 @@
     "time": 323,
     "timeDay": 130,
     "timeWeek": 203,
-    "timeMonth": 214,
+    "timeMonth": 213,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2025-12-24": 24,
@@ -2381,11 +2350,9 @@
     "time": 322,
     "timeDay": 1634,
     "timeWeek": 758,
-    "timeMonth": 778,
-    "timeYear": 371,
-    "dailyMinutesDown": {
-      "2025-11-18": 105
-    }
+    "timeMonth": 801,
+    "timeYear": 372,
+    "dailyMinutesDown": {}
   },
   {
     "name": "My Amerilock",
@@ -2393,15 +2360,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/myamerilock.com.ico",
     "slug": "my-amerilock",
     "status": "down",
-    "uptime": "94.31%",
+    "uptime": "94.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.05%",
+    "uptimeYear": "86.97%",
     "time": 2631,
     "timeDay": 1179,
     "timeWeek": 1108,
-    "timeMonth": 1021,
+    "timeMonth": 1024,
     "timeYear": 2657,
     "dailyMinutesDown": {
       "2025-12-14": 30,
@@ -2483,7 +2450,8 @@
       "2026-08-19": 18,
       "2026-08-25": 43,
       "2026-10-04": 19,
-      "2026-11-17": 1153,
+      "2026-11-18": 100,
+      "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
@@ -2542,7 +2510,7 @@
     "time": 2548,
     "timeDay": 142,
     "timeWeek": 1277,
-    "timeMonth": 2156,
+    "timeMonth": 2134,
     "timeYear": 2548,
     "dailyMinutesDown": {
       "2026-10-15": 295,
@@ -2555,22 +2523,22 @@
     "url": "https://primefyre.com",
     "icon": "https://icons.duckduckgo.com/ip3/primefyre.com.ico",
     "slug": "prime-fyre-llc",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "93.68%",
-    "uptimeMonth": "98.55%",
-    "uptimeYear": "99.85%",
-    "time": 479,
-    "timeDay": 68,
-    "timeWeek": 88,
-    "timeMonth": 225,
-    "timeYear": 319,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "73.08%",
+    "uptimeWeek": "89.88%",
+    "uptimeMonth": "97.67%",
+    "uptimeYear": "99.78%",
+    "time": 477,
+    "timeDay": 80,
+    "timeWeek": 90,
+    "timeMonth": 222,
+    "timeYear": 316,
     "dailyMinutesDown": {
-      "2025-11-18": 150,
       "2026-11-15": 17,
       "2026-11-16": 615,
-      "2026-11-17": 4
+      "2026-11-18": 96,
+      "2026-11-17": 291
     }
   },
   {
@@ -2587,11 +2555,9 @@
     "time": 252,
     "timeDay": 425,
     "timeWeek": 505,
-    "timeMonth": 346,
-    "timeYear": 252,
-    "dailyMinutesDown": {
-      "2025-11-18": 150
-    }
+    "timeMonth": 354,
+    "timeYear": 253,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Reach For More",
@@ -2607,11 +2573,9 @@
     "time": 406,
     "timeDay": 1987,
     "timeWeek": 567,
-    "timeMonth": 688,
-    "timeYear": 432,
-    "dailyMinutesDown": {
-      "2025-11-18": 150
-    }
+    "timeMonth": 706,
+    "timeYear": 433,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Redd's Smokehouse BBQ",
@@ -2715,10 +2679,9 @@
     "time": 247,
     "timeDay": 176,
     "timeWeek": 156,
-    "timeMonth": 188,
-    "timeYear": 246,
+    "timeMonth": 191,
+    "timeYear": 247,
     "dailyMinutesDown": {
-      "2025-11-18": 159,
       "2026-07-29": 161
     }
   },
@@ -2736,10 +2699,9 @@
     "time": 390,
     "timeDay": 498,
     "timeWeek": 565,
-    "timeMonth": 315,
-    "timeYear": 394,
+    "timeMonth": 319,
+    "timeYear": 395,
     "dailyMinutesDown": {
-      "2025-11-18": 83,
       "2026-02-11": 41
     }
   },
@@ -2757,8 +2719,8 @@
     "time": 580,
     "timeDay": 135,
     "timeWeek": 171,
-    "timeMonth": 290,
-    "timeYear": 424,
+    "timeMonth": 296,
+    "timeYear": 422,
     "dailyMinutesDown": {
       "2025-11-22": 41,
       "2025-11-23": 21,
@@ -2832,7 +2794,7 @@
     "time": 554,
     "timeDay": 1793,
     "timeWeek": 634,
-    "timeMonth": 1373,
+    "timeMonth": 1415,
     "timeYear": 554,
     "dailyMinutesDown": {
       "2026-04-26": 334,
@@ -2858,7 +2820,7 @@
     "time": 268,
     "timeDay": 167,
     "timeWeek": 157,
-    "timeMonth": 246,
+    "timeMonth": 250,
     "timeYear": 268,
     "dailyMinutesDown": {}
   },
@@ -2876,7 +2838,7 @@
     "time": 854,
     "timeDay": 164,
     "timeWeek": 1058,
-    "timeMonth": 993,
+    "timeMonth": 1023,
     "timeYear": 854,
     "dailyMinutesDown": {}
   },
@@ -2894,7 +2856,7 @@
     "time": 556,
     "timeDay": 691,
     "timeWeek": 1096,
-    "timeMonth": 593,
+    "timeMonth": 602,
     "timeYear": 556,
     "dailyMinutesDown": {
       "2026-07-27": 66,
@@ -2910,15 +2872,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/150.ship.edu.ico",
     "slug": "shippensburg-university-150th-anniversary",
     "status": "up",
-    "uptime": "98.07%",
+    "uptime": "98.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.20%",
-    "uptimeYear": "98.07%",
+    "uptimeYear": "98.08%",
     "time": 598,
     "timeDay": 705,
     "timeWeek": 812,
-    "timeMonth": 607,
+    "timeMonth": 614,
     "timeYear": 598,
     "dailyMinutesDown": {
       "2026-07-25": 30,
@@ -2958,7 +2920,7 @@
     "time": 368,
     "timeDay": 612,
     "timeWeek": 709,
-    "timeMonth": 446,
+    "timeMonth": 456,
     "timeYear": 368,
     "dailyMinutesDown": {}
   },
@@ -2976,7 +2938,7 @@
     "time": 113,
     "timeDay": 86,
     "timeWeek": 99,
-    "timeMonth": 100,
+    "timeMonth": 101,
     "timeYear": 113,
     "dailyMinutesDown": {}
   },
@@ -3093,8 +3055,8 @@
     "time": 664,
     "timeDay": 106,
     "timeWeek": 223,
-    "timeMonth": 262,
-    "timeYear": 352,
+    "timeMonth": 267,
+    "timeYear": 350,
     "dailyMinutesDown": {
       "2026-02-03": 1170,
       "2026-02-02": 1440,
@@ -3139,7 +3101,7 @@
     "time": 155,
     "timeDay": 141,
     "timeWeek": 139,
-    "timeMonth": 148,
+    "timeMonth": 149,
     "timeYear": 155,
     "dailyMinutesDown": {}
   },
@@ -3157,7 +3119,7 @@
     "time": 797,
     "timeDay": 159,
     "timeWeek": 415,
-    "timeMonth": 584,
+    "timeMonth": 581,
     "timeYear": 560,
     "dailyMinutesDown": {
       "2025-12-07": 17,
@@ -3256,11 +3218,9 @@
     "time": 341,
     "timeDay": 153,
     "timeWeek": 163,
-    "timeMonth": 238,
-    "timeYear": 276,
-    "dailyMinutesDown": {
-      "2025-11-18": 164
-    }
+    "timeMonth": 242,
+    "timeYear": 277,
+    "dailyMinutesDown": {}
   },
   {
     "name": "United Sustainable Ag",
@@ -3276,7 +3236,7 @@
     "time": 455,
     "timeDay": 819,
     "timeWeek": 496,
-    "timeMonth": 479,
+    "timeMonth": 484,
     "timeYear": 455,
     "dailyMinutesDown": {
       "2026-06-25": 427,
@@ -3326,8 +3286,8 @@
     "time": 572,
     "timeDay": 212,
     "timeWeek": 146,
-    "timeMonth": 171,
-    "timeYear": 467,
+    "timeMonth": 173,
+    "timeYear": 466,
     "dailyMinutesDown": {
       "2025-11-22": 39,
       "2025-11-23": 20,
@@ -3373,11 +3333,9 @@
     "time": 296,
     "timeDay": 129,
     "timeWeek": 225,
-    "timeMonth": 329,
+    "timeMonth": 333,
     "timeYear": 277,
-    "dailyMinutesDown": {
-      "2025-11-18": 192
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "West Shore Elks",
@@ -3396,7 +3354,6 @@
     "timeMonth": 367,
     "timeYear": 748,
     "dailyMinutesDown": {
-      "2025-11-18": 130,
       "2025-12-01": 24,
       "2026-01-16": 131,
       "2026-01-15": 3,
@@ -3419,11 +3376,9 @@
     "time": 223,
     "timeDay": 1807,
     "timeWeek": 912,
-    "timeMonth": 533,
-    "timeYear": 234,
-    "dailyMinutesDown": {
-      "2025-11-18": 150
-    }
+    "timeMonth": 547,
+    "timeYear": 235,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wide Horizons Travel",
@@ -3439,10 +3394,9 @@
     "time": 339,
     "timeDay": 2070,
     "timeWeek": 469,
-    "timeMonth": 696,
+    "timeMonth": 716,
     "timeYear": 373,
     "dailyMinutesDown": {
-      "2025-11-18": 168,
       "2025-12-19": 26
     }
   },
@@ -3460,8 +3414,8 @@
     "time": 490,
     "timeDay": 381,
     "timeWeek": 296,
-    "timeMonth": 260,
-    "timeYear": 326,
+    "timeMonth": 262,
+    "timeYear": 325,
     "dailyMinutesDown": {
       "2026-02-21": 45,
       "2026-02-22": 48,
@@ -3562,10 +3516,9 @@
     "time": 366,
     "timeDay": 566,
     "timeWeek": 403,
-    "timeMonth": 409,
-    "timeYear": 400,
+    "timeMonth": 414,
+    "timeYear": 401,
     "dailyMinutesDown": {
-      "2025-11-18": 152,
       "2026-02-02": 38
     }
   },
@@ -3583,10 +3536,9 @@
     "time": 228,
     "timeDay": 131,
     "timeWeek": 501,
-    "timeMonth": 554,
+    "timeMonth": 569,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2025-11-18": 89,
       "2026-04-30": 71
     }
   },
@@ -3604,8 +3556,8 @@
     "time": 535,
     "timeDay": 511,
     "timeWeek": 209,
-    "timeMonth": 202,
-    "timeYear": 422,
+    "timeMonth": 204,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2025-11-22": 22,
       "2025-11-23": 20,
